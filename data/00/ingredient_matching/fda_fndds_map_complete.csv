@@ -1,0 +1,929 @@
+fda_desc,fndds_desc,Ingredient code,Similarity,match,replace
+"Acai, cooked","Beverages, Acai berry drink, fortified",14056,0.368,n,
+"Amaranth grain, uncooked (consumed cooked/heat-treated)","Game meat, raccoon, cooked, roasted",17182,0.41,n,
+"Apples, cooked/applesauce","Babyfood, fruit, applesauce, strained",3116,0.554,n,"Applesauce, unsweetened, with added vitamin C"
+"Apples, dehydrated","Onions, dehydrated flakes",11284,0.649,n,"Apples, dried, sulfured, uncooked"
+"Apples, dried","Apples, dried, sulfured, uncooked",9011,0.575,,
+"Apples, dried, cooked","Apples, dried, sulfured, uncooked",9011,0.651,,
+"Apples, raw","Apples, raw, with skin",9003,0.794,,
+"Apples, raw/frozen/canned (apples only)","Pineapple, frozen, chunks, sweetened",9272,0.476,n,"Apples, raw, with skin"
+"Apricots, canned (apricots only)","Apricots, raw",9021,0.819,n,"Apricots, canned, water pack, with skin, solids and liquids"
+"Apricots, canned/cooked (apricots only)","Apricots, raw",9021,0.688,n,"Apricots, canned, water pack, with skin, solids and liquids"
+"Apricots, cooked","Apricots, raw",9021,0.838,n,"Apricots, canned, water pack, with skin, solids and liquids"
+"Apricots, dried","Apricots, raw",9021,0.814,n,"Apricots, dried, sulfured, uncooked"
+"Apricots, dried, cooked","Apricots, raw",9021,0.744,n,"Apricots, dried, sulfured, stewed, without added sugar"
+"Apricots, raw","Apricots, raw",9021,1,,
+"Artichokes, (globe or french), canned","Artichokes, (globe or french), cooked, boiled, drained, without salt",11008,0.774,,
+"Artichokes, (globe or french), canned/cooked","Artichokes, (globe or french), cooked, boiled, drained, without salt",11008,0.783,,
+"Artichokes, (globe or french), cooked","Artichokes, (globe or french), cooked, boiled, drained, without salt",11008,0.819,,
+"Artichokes, (globe or french), raw","Artichokes, (globe or french), cooked, boiled, drained, without salt",11008,0.774,,
+Artificial sweeteners,"Ginger root, pickled, canned, with artificial sweetener",31033,0.752,n,
+"Arugula, raw","Arugula, raw",11959,1,,
+"Asparagus, canned","Asparagus, raw",11011,0.87,n,"Asparagus, canned, drained solids"
+"Asparagus, canned/cooked","Asparagus, raw",11011,0.749,n,"Asparagus, cooked, boiled, drained"
+"Asparagus, cooked","Asparagus, raw",11011,0.88,n,"Asparagus, cooked, boiled, drained"
+"Asparagus, raw","Asparagus, raw",11011,1,,
+"Avocado, raw","Avocados, raw, all commercial varieties",9037,0.651,,
+"Balsam-pear (bitter melon/gourd), pods, cooked","Balsam-pear (bitter gourd), pods, cooked, boiled, drained, without salt",11025,0.756,,
+"Balsam-pear (bitter melon/gourd)/horseradish/jute/radish leaves, cooked","Sauce, horseradish",27066,0.554,n,"Balsam-pear (bitter gourd), leafy tips, cooked, boiled, drained, without salt"
+"Bamboo shoots, canned/cooked","Bamboo shoots, raw",11026,0.813,n,"Bamboo shoots, canned, drained solids"
+"Bananas, cooked","Bananas, raw",9040,0.856,,
+"Bananas, dehydrated","Bananas, dehydrated, or banana powder",9041,0.9,,
+"Bananas, raw","Bananas, raw",9040,1,,
+"Barley groats, uncooked (consumed cooked/heat-treated)","Barley, pearled, cooked",20006,0.537,n,
+"Barley, malted, uncooked (consumed cooked/heat-treated)","Barley, pearled, cooked",20006,0.531,n,
+"Barley, pearled, uncooked (consumed cooked/heat-treated)","Barley, pearled, cooked",20006,0.766,n,"Barley, pearled, raw"
+"Basil, fresh","Basil, fresh",2044,1,,
+"Beans, black, mature, canned","Beans, black turtle, mature seeds, canned",16018,0.815,,
+"Beans, black, mature, canned/cooked","Beans, black turtle, mature seeds, canned",16018,0.723,,
+"Beans, black, mature, cooked","Beans, black, mature seeds, raw",16014,0.816,n,"Beans, black, mature seeds, cooked, boiled, without salt"
+"Beans, black, mature, raw (consumed cooked/heat-treated)","Beans, black, mature seeds, raw",16014,0.63,,
+"Beans, fava/broad, mature, canned/cooked","Broadbeans (fava beans), mature seeds, cooked, boiled, without salt",16053,0.611,,
+"Beans, fava/broad, mature, cooked","Broadbeans (fava beans), mature seeds, cooked, boiled, without salt",16053,0.643,,
+"Beans, great northern, mature, canned","Beans, great northern, mature seeds, canned",16026,0.96,,
+"Beans, green/snap, canned","Beans, snap, green, raw",11052,0.77,n,"Beans, snap, green, canned, regular pack, drained solids"
+"Beans, green/snap, canned/cooked","Beans, snap, green, raw",11052,0.682,n,"Beans, snap, green, canned, regular pack, drained solids"
+"Beans, green/snap, cooked","Beans, snap, green, raw",11052,0.762,n,"Beans, snap, green, cooked, boiled, drained, without salt"
+"Beans, green/snap, dehydrated","Beans, snap, green, raw",11052,0.615,n,
+"Beans, green/snap, raw","Beans, snap, green, raw",11052,0.873,,
+"Beans, green/snap, raw/canned/cooked","Beans, snap, green, raw",11052,0.647,n,"Beans, snap, green, canned, regular pack, drained solids"
+"Beans, kidney, mature, canned","Beans, kidney, red, mature seeds, raw",16032,0.85,n,"Beans, kidney, red, mature seeds, canned, solids and liquids"
+"Beans, kidney, mature, canned/cooked","Beans, kidney, red, mature seeds, raw",16032,0.781,n,"Beans, kidney, red, mature seeds, canned, solids and liquids"
+"Beans, kidney, mature, cooked","Beans, kidney, red, mature seeds, raw",16032,0.856,n,"Beans, kidney, red, mature seeds, cooked, boiled, without salt"
+"Beans, kidney, mature, raw (consumed cooked/heat-treated)","Beans, kidney, red, mature seeds, raw",16032,0.695,,
+"Beans, lima, immature, canned","Lima beans, immature seeds, cooked, boiled, drained, without salt",11032,0.673,,
+"Beans, lima, immature, canned/cooked","Lima beans, immature seeds, cooked, boiled, drained, without salt",11032,0.693,,
+"Beans, lima, immature, cooked","Lima beans, immature seeds, cooked, boiled, drained, without salt",11032,0.734,,
+"Beans, lima, immature, raw","Lima beans, immature seeds, cooked, boiled, drained, without salt",11032,0.663,n,
+"Beans, lima, mature, canned/cooked","Lima beans, immature seeds, cooked, boiled, drained, without salt",11032,0.627,n,"Lima beans, large, mature seeds, cooked, boiled, without salt"
+"Beans, lima, mature, cooked","Lima beans, large, mature seeds, cooked, boiled, without salt",16072,0.68,,
+"Beans, mung, mature, canned","Mung beans, mature seeds, sprouted, raw",11043,0.688,,
+"Beans, mung, mature, canned/cooked","Mung beans, mature seeds, cooked, boiled, without salt",16081,0.644,,
+"Beans, mung, mature, cooked","Mung beans, mature seeds, cooked, boiled, without salt",16081,0.724,,
+"Beans, mung, mature, dehydrated","Mung beans, mature seeds, sprouted, raw",11043,0.585,n,
+"Beans, mung, mature, sprouted, canned/cooked","Mung beans, mature seeds, sprouted, raw",11043,0.813,,
+"Beans, mung, mature, sprouted, cooked","Mung beans, mature seeds, sprouted, raw",11043,0.889,,
+"Beans, mung, mature, sprouted, raw","Mung beans, mature seeds, sprouted, raw",11043,0.949,,
+"Beans, mungo, mature, cooked","Mung beans, mature seeds, cooked, boiled, without salt",16081,0.668,,
+"Beans, navy, mature, canned/cooked","Beans, black turtle, mature seeds, canned",16018,0.527,n,"Beans, baked, canned, plain or vegetarian"
+"Beans, pink, mature, canned","Beans, pink, mature seeds, raw",16040,0.793,n,"Beans, pink, mature seeds, cooked, boiled, without salt"
+"Beans, pink, mature, canned/cooked","Beans, pink, mature seeds, raw",16040,0.694,n,"Beans, pink, mature seeds, cooked, boiled, without salt"
+"Beans, pink, mature, cooked","Beans, pink, mature seeds, raw",16040,0.8,n,"Beans, pink, mature seeds, cooked, boiled, without salt"
+"Beans, pink, mature, raw (consumed cooked/heat-treated)","Beans, pink, mature seeds, raw",16040,0.612,,
+"Beans, pinto, mature, canned","Beans, pinto, mature seeds, raw",16042,0.825,n,"Beans, pinto, mature seeds, cooked, boiled, without salt"
+"Beans, pinto, mature, canned/cooked","Beans, pinto, mature seeds, raw",16042,0.734,n,"Beans, pinto, mature seeds, cooked, boiled, without salt"
+"Beans, pinto, mature, cooked","Beans, pinto, mature seeds, raw",16042,0.832,n,"Beans, pinto, mature seeds, cooked, boiled, without salt"
+"Beans, pinto, mature, raw (consumed cooked/heat-treated)","Beans, pinto, mature seeds, raw",16042,0.647,,
+"Beans, soy, immature, cooked","Lima beans, immature seeds, cooked, boiled, drained, without salt",11032,0.615,n,"Soybeans, mature cooked, boiled, without salt"
+"Beans, soy, mature, cooked","Soybeans, mature cooked, boiled, without salt",16109,0.665,,
+"Beans, soy, mature, dried","Soybeans, mature seeds, roasted, salted",16110,0.56,,
+"Beans, soy, mature, sprouted, cooked","Soybeans, mature seeds, sprouted, cooked, steamed",11453,0.806,,
+"Beans, soy, mature, uncooked (consumed cooked/heat-treated)","Soybeans, mature seeds, sprouted, cooked, steamed",11453,0.56,n,
+"Beans, white, mature, canned/cooked","Beans, white, mature seeds, cooked, boiled, without salt",16050,0.648,,
+"Beans, white, mature, cooked","Beans, white, mature seeds, cooked, boiled, without salt",16050,0.737,,
+"Beans, white, mature, raw (consumed cooked/heat-treated)","Beans, white, mature seeds, cooked, boiled, without salt",16050,0.569,n,
+"Beans, white, mature, uncooked (consumed cooked/heat-treated)","Beans, white, mature seeds, cooked, boiled, without salt",16050,0.576,n,
+"Beans, yellow, mature, cooked","Beans, yellow, mature seeds, cooked, boiled, without salt",16048,0.75,,
+"Bear, lean and fat, cooked","Veal, loin, separable lean and fat, cooked, roasted",17106,0.528,n,"Game meat, bear, cooked, simmered"
+"Beaver, lean and fat, cooked","Game meat, beaver, cooked, roasted",17151,0.648,,
+Bee pollen,"Fish, pollock, Alaska, raw (may have been previously frozen)",15066,0.309,n,
+"Beef, lean and fat, canned","Refried beans, canned, fat-free",16172,0.613,n,"Beef, chuck, blade roast, separable lean only, trimmed to 0"" fat, all grades, cooked, braised"
+"Beef, lean and fat, canned/cooked","Beef, cured, corned beef, canned",13348,0.534,n,"Beef, chuck, blade roast, separable lean only, trimmed to 0"" fat, all grades, cooked, braised"
+"Beef, lean and fat, cooked","Beef, ground, 75% lean meat / 25% fat, loaf, cooked, baked",23581,0.56,n,"Beef, ground, 80% lean meat / 20% fat, patty, cooked, broiled"
+"Beef, lean and fat, dried","Beef, cured, dried",13350,0.676,,
+"Beef, lean and fat, raw","Beef, ground, 80% lean meat / 20% fat, raw",23572,0.578,,
+"Beef, variety meat, brains, cooked","Beef, variety meats and by-products, brain, cooked, simmered",13320,0.759,,
+"Beef, variety meat, heart, cooked","Beef, variety meats and by-products, heart, cooked, simmered",13322,0.77,,
+"Beef, variety meat, kidney, cooked","Beef, variety meats and by-products, kidneys, cooked, simmered",13324,0.801,,
+"Beef, variety meat, liver, cooked","Beef, variety meats and by-products, liver, cooked, pan-fried",13327,0.806,,
+"Beef, variety meat, tongue, cooked","Beef, variety meats and by-products, tongue, cooked, simmered",13340,0.799,,
+"Beef, variety meat, tripe, canned","Beef, variety meats and by-products, tripe, raw",13341,0.768,,
+"Beef, variety meat, tripe, cooked","Beef, variety meats and by-products, tripe, raw",13341,0.779,,
+"Beet greens, cooked","Beet greens, raw",11086,0.809,n,"Beet greens, cooked, boiled, drained, without salt"
+"Beet greens, raw","Beet greens, raw",11086,1,,
+"Beets, canned","Beets, canned, drained solids",11084,0.686,,
+"Beets, canned/cooked","Beets, cooked, boiled, drained",11081,0.549,,
+"Beets, cooked","Beets, cooked, boiled, drained",11081,0.656,,
+"Beets, dehydrated","Onions, dehydrated flakes",11284,0.69,n,
+"Beets, raw","Beets, raw",11080,1,,
+"Beverage, alcoholic, distilled","Alcoholic beverage, distilled, rum, 80 proof",14050,0.848,n,"Alcoholic beverage, distilled, all (gin, rum, vodka, whiskey) 80 proof"
+"Beverage, alcoholic, liqueur","Alcoholic beverage, liqueur, coffee, 53 proof",14414,0.782,,
+"Beverage, alcoholic, rice (sake)","Alcoholic beverage, rice (sake)",43479,1,,
+"Bison, lean and fat, cooked","Game meat, bison, separable lean only, cooked, roasted",17157,0.647,,
+"Blackberries, canned/cooked (blackberries only)","Blackberry juice, canned",9043,0.81,n,"Blackberries, canned, heavy syrup, solids and liquids"
+"Blackberries, cooked","Blackberries, raw",9042,0.896,,
+"Blackberries, raw/frozen","Blackberries, raw",9042,0.792,,
+"Blueberries, canned (blueberries only)","Blueberries, raw",9050,0.875,n,"Blueberries, canned, heavy syrup, solids and liquids"
+"Blueberries, canned/cooked (blueberries only)","Blueberries, raw",9050,0.76,n,"Blueberries, canned, heavy syrup, solids and liquids"
+"Blueberries, cooked","Blueberries, raw",9050,0.886,,
+"Blueberries, dried, unsweetened","Blueberries, dried, sweetened",9163,0.943,,
+"Blueberries, raw/frozen","Blueberries, raw",9050,0.78,,
+"Boysenberries, raw/frozen","Boysenberries, frozen, unsweetened",9057,0.795,,
+"Bran, corn","Oat bran, raw",20033,0.521,n,
+"Bran, oat","Oat bran, raw",20033,0.906,,
+"Bran, rice","Oat bran, raw",20033,0.556,n,
+"Bran, wheat","Wheat bran, crude",20077,0.703,,
+"Breadfruit, canned/cooked","Breadfruit, raw",9059,0.773,,
+"Broccoflower, canned/cooked","Broccoli, chinese, cooked",11969,0.527,n,
+"Broccoflower, raw","Broccoli, raw",11090,0.615,n,
+"Broccoli raab, cooked","Broccoli raab, cooked",11097,1,,
+"Broccoli raab, raw","Broccoli raab, raw",11096,1,,
+"Broccoli, Chinese, cooked","Broccoli, chinese, cooked",11969,1,,
+"Broccoli, canned","Broccoli, raw",11090,0.842,n,"Broccoli, cooked, boiled, drained, without salt"
+"Broccoli, canned/cooked","Broccoli, chinese, cooked",11969,0.737,n,"Broccoli, cooked, boiled, drained, without salt"
+"Broccoli, cooked","Broccoli, raw",11090,0.862,n,"Broccoli, cooked, boiled, drained, without salt"
+"Broccoli, raw","Broccoli, raw",11090,1,,
+"Brussels sprouts, canned/cooked","Brussels sprouts, raw",11098,0.83,n,"Brussels sprouts, cooked, boiled, drained, without salt"
+"Brussels sprouts, cooked","Brussels sprouts, raw",11098,0.925,n,"Brussels sprouts, cooked, boiled, drained, without salt"
+"Brussels sprouts, raw","Brussels sprouts, raw",11098,1,,
+"Buckwheat groats, uncooked (consumed cooked/heat-treated)","Buckwheat groats, roasted, cooked",20010,0.743,,
+"Burdock root, cooked","Burdock root, raw",11104,0.91,,
+Butter,"Butter, salted",1001,0.757,,
+"Cabbage, Chinese, cooked","Cabbage, chinese (pak-choi), raw",11116,0.786,,
+"Cabbage, Chinese, raw","Cabbage, chinese (pak-choi), raw",11116,0.855,,
+"Cabbage, canned","Cabbage, raw",11109,0.846,n,"Cabbage, cooked, boiled, drained, without salt"
+"Cabbage, canned/cooked","Cabbage, raw",11109,0.717,n,"Cabbage, cooked, boiled, drained, without salt"
+"Cabbage, cooked","Cabbage, raw",11109,0.853,n,"Cabbage, cooked, boiled, drained, without salt"
+"Cabbage, mustard, cooked","Cabbage, mustard, salted",43144,0.849,,
+"Cabbage, raw","Cabbage, raw",11109,1,,
+"Cabbage, savoy, cooked","Cabbage, savoy, raw",11114,0.919,,
+"Capers, canned","Capers, canned",2054,1,,
+"Carambola (starfruit), raw","Carambola, (starfruit), raw",9060,1,,
+"Carrots, canned","Carrot juice, canned",11655,0.853,n,"Carrots, cooked, boiled, drained, without salt"
+"Carrots, canned/cooked","Carrot juice, canned",11655,0.717,n,"Carrots, cooked, boiled, drained, without salt"
+"Carrots, cooked","Carrots, raw",11124,0.805,n,"Carrots, cooked, boiled, drained, without salt"
+"Carrots, dehydrated","Onions, dehydrated flakes",11284,0.618,n,
+"Carrots, raw","Carrots, raw",11124,1,,
+"Carrots, raw/canned/cooked","Carrots, raw",11124,0.61,,
+"Cassava, cooked","Cassava, raw",11134,0.884,,
+"Cauliflower, canned","Cauliflower, raw",11135,0.908,n,"Cauliflower, cooked, boiled, drained, without salt"
+"Cauliflower, canned/cooked","Cauliflower, raw",11135,0.816,n,"Cauliflower, cooked, boiled, drained, without salt"
+"Cauliflower, cooked","Cauliflower, raw",11135,0.916,n,"Cauliflower, cooked, boiled, drained, without salt"
+"Cauliflower, raw","Cauliflower, raw",11135,1,,
+"Celeriac, cooked","Celeriac, raw",11141,0.87,,
+"Celery, canned","Celery, raw",11143,0.794,n,"Celery, cooked, boiled, drained, without salt"
+"Celery, canned/cooked","Celery, raw",11143,0.648,n,"Celery, cooked, boiled, drained, without salt"
+"Celery, cooked","Celery, raw",11143,0.809,n,"Celery, cooked, boiled, drained, without salt"
+"Celery, raw","Celery, raw",11143,1,,
+"Cereal, infant, barley, whole grain","Barley, pearled, raw",20005,0.558,n,"Babyfood, cereal, barley, dry fortified"
+"Cereal, infant, oat","Infant Formula, MEAD JOHNSON, ENFAMIL, ENFACARE LIPIL, ready-to-feed, with ARA and DHA",3955,0.45,n,"Babyfood, cereal, oatmeal, dry fortified"
+"Cereal, infant, rice, brown","Babyfood, cereal, brown rice, dry, instant",42285,0.631,n,
+"Cereal, infant, rice, white",Rice and Wheat cereal bar,8546,0.531,n,"Babyfood, cereal, Rice, dry, fortified"
+"Cereal, infant, wheat, whole grain","Wheat flour, whole-grain",20080,0.652,,
+"Chamnamul, cooked","Cookies, graham crackers, plain or honey (includes cinnamon)",18173,0.257,n,
+"Chard, Swiss, cooked","Chard, swiss, raw",11147,0.889,n,"Chard, swiss, cooked, boiled, drained, without salt"
+"Chard, Swiss, raw","Chard, swiss, raw",11147,1,,
+"Cheese, Mexican blend","Cheese, Mexican blend",1251,1,,
+"Cheese, Mexican blend, reduced fat","Cheese, Mexican, blend, reduced fat",1209,1,,
+"Cheese, blue/roquefort","Salad dressing, blue or roquefort cheese dressing, fat-free",42192,0.77,n,"Cheese, blue"
+"Cheese, brick","Cheese, brick",1005,1,,
+"Cheese, brie","Cheese, brie",1006,1,,
+"Cheese, camembert","Cheese, camembert",1007,1,,
+"Cheese, cheddar","Cheese, cheddar",1009,1,,
+"Cheese, cheddar, dried","Cheese, cheddar",1009,0.913,n,
+"Cheese, cheddar, nonfat","Cheese, cheddar, nonfat or fat free",1265,0.937,,
+"Cheese, cheddar, reduced fat","Cheese, cheddar, reduced fat",1260,1,,
+"Cheese, colby","Cheese, colby",1011,1,,
+"Cheese, cotija","Cheese, cotija, solid",100301,0.894,,
+"Cheese, cottage","Cheese, cottage, with vegetables",43273,0.809,n,"Cheese, cottage, creamed, large or small curd"
+"Cheese, cottage, low fat","Cheese, cottage, lowfat, 1% milkfat",1016,0.772,n,"Cheese, cottage, lowfat, 2% milkfat"
+"Cheese, cream","Cheese, cream",1017,1,,
+"Cheese, cream, low fat","Cheese, cream, low fat",43274,1,,
+"Cheese, cream, nonfat","Cheese, cream",1017,0.731,n,"Cheese, cream, fat free"
+"Cheese, feta","Cheese, feta",1019,1,,
+"Cheese, fontina","Cheese, fontina",1020,1,,
+"Cheese, goat","Cheese, goat, hard type",1156,0.719,,
+"Cheese, gouda/edam","Cheese, gouda",1022,0.751,,
+"Cheese, gruyere","Cheese, gruyere",1023,1,,
+"Cheese, monterey","Cheese, monterey",1025,1,,
+"Cheese, monterey, reduced fat","Cheese, monterey",1025,0.837,n,"Cheese, monterey, low fat"
+"Cheese, mozzarella","Cheese, mozzarella, whole milk",1026,0.882,,
+"Cheese, mozzarella, low fat/nonfat","Cheese, mozzarella, nonfat",42304,0.878,n,"Cheese, mozzarella, part skim milk"
+"Cheese, muenster","Cheese, muenster",1030,1,,
+"Cheese, muenster, reduced fat","Cheese, muenster",1030,0.844,n,"Cheese, muenster, low fat"
+"Cheese, parmesan","Cheese, parmesan, grated",1032,0.897,,
+"Cheese, parmesan, reduced fat/fat free","Parmesan cheese topping, fat free",1185,0.676,,
+"Cheese, port du salut","Cheese, blue",1004,0.434,n,
+"Cheese, provolone","Cheese, provolone",1035,1,,
+"Cheese, provolone, reduced fat","Cheese, provolone, reduced fat",1208,1,,
+"Cheese, queso anejo","Cheese, mexican, queso anejo",1165,0.84,,
+"Cheese, queso chihuahua","Cheese, mexican, queso chihuahua",1167,0.905,,
+"Cheese, queso fresco","Cheese, fresh, queso fresco",1228,0.948,,
+"Cheese, queso seco","Cheese, dry white, queso seco",1227,0.873,,
+"Cheese, ricotta","Cheese, ricotta, whole milk",1036,0.809,,
+"Cheese, romano","Cheese, romano",1038,1,,
+"Cheese, swiss","Cheese, swiss",1040,1,,
+"Cheese, swiss, low fat/nonfat","Cheese, Swiss, nonfat or fat free",1266,0.813,,
+Cheese. Oaxaca,"Cheese, oaxaca, solid",100299,0.904,,
+"Cherries, canned (cherries only)","Maraschino cherries, canned, drained",9328,0.629,n,"Cherries, sweet, canned, water pack, solids and liquids"
+"Cherries, canned/cooked (cherries only)","Maraschino cherries, canned, drained",9328,0.522,n,"Cherries, sweet, canned, water pack, solids and liquids"
+"Cherries, cooked","Cherries, sour, red, raw",9063,0.636,n,"Cherries, sweet, canned, water pack, solids and liquids"
+"Cherries, dried, unsweetened","Cherries, tart, dried, sweetened",9044,0.843,n,
+"Cherries, raw/frozen","Cherries, sour, red, frozen, unsweetened",9068,0.56,n,"Cherries, sweet, raw"
+"Cherries, raw/frozen/canned (cherries only)","Cherries, sour, red, frozen, unsweetened",9068,0.528,n,"Cherries, sweet, raw"
+"Chicken, lean and fat, canned","Fat, chicken",4542,0.769,n,"Chicken, broilers or fryers, breast, meat only, cooked, roasted"
+"Chicken, lean and fat, canned/cooked","Fat, chicken",4542,0.667,n,"Chicken, broilers or fryers, breast, meat only, cooked, roasted"
+"Chicken, lean and fat, cooked","Fat, chicken",4542,0.812,n,"Chicken, broilers or fryers, breast, meat only, cooked, roasted"
+"Chicken, lean and fat, cooked, dried","Fat, chicken",4542,0.711,n,
+"Chicken, lean and fat, dried","Fat, chicken",4542,0.766,n,
+"Chicken, variety meat, giblets (incl liver/gizzard), cooked","Chicken, gizzard, all classes, cooked, simmered",5024,0.576,,
+"Chickpeas (garbanzo beans), mature, canned","Chickpeas (garbanzo beans, bengal gram), mature seeds, raw",16056,0.808,n,"Chickpeas (garbanzo beans, bengal gram), mature seeds, cooked, boiled, without salt"
+"Chickpeas (garbanzo beans), mature, canned/cooked","Chickpeas (garbanzo beans, bengal gram), mature seeds, raw",16056,0.764,n,"Chickpeas (garbanzo beans, bengal gram), mature seeds, cooked, boiled, without salt"
+"Chickpeas (garbanzo beans), mature, cooked","Chickpeas (garbanzo beans, bengal gram), mature seeds, raw",16056,0.808,n,"Chickpeas (garbanzo beans, bengal gram), mature seeds, cooked, boiled, without salt"
+"Chickpeas (garbanzo beans), mature, raw (consumed cooked/heat-treated)","Chickpeas (garbanzo beans, bengal gram), mature seeds, raw",16056,0.696,,
+Chicory root powder,"Chicory greens, raw",11152,0.575,n,
+"Chives, raw","Chives, raw",11156,1,,
+"Chocolate, unsweetened","Baking chocolate, unsweetened, squares",19078,0.754,,
+"Christophine/chayote, cooked","Chayote, fruit, raw",11149,0.491,n,"Chayote, fruit, cooked, boiled, drained, without salt"
+"Citron, dried","Citrus fruit juice drink, frozen concentrate",14262,0.403,n,
+"Cocoa, dry powder, unsweetened","Cocoa, dry powder, unsweetened",19165,1,,
+Coffee beans/grounds/instant powder,"Beverages, coffee, instant, regular, powder",14214,0.562,n,"Coffee, brewed, prepared with tap water"
+"Collards, canned","Collards, raw",11161,0.794,n,"Collards, cooked, boiled, drained, without salt"
+"Collards, canned/cooked","Collards, raw",11161,0.659,n,"Collards, cooked, boiled, drained, without salt"
+"Collards, cooked","Collards, raw",11161,0.816,n,"Collards, cooked, boiled, drained, without salt"
+"Collards, raw","Collards, raw",11161,1,,
+"Coriander (cilantro) leaves, raw","Coriander (cilantro) leaves, raw",11165,1,,
+"Corn (vegetable), canned","Vegetable oil, NFS",4321,0.72,n,"Corn, sweet, yellow, canned, whole kernel, drained solids"
+"Corn (vegetable), canned/cooked","Soup, vegetarian vegetable, canned, condensed",6068,0.624,n,"Corn, sweet, yellow, cooked, boiled, drained, without salt"
+"Corn (vegetable), cooked","Vegetable oil, NFS",4321,0.732,n,"Corn, sweet, yellow, cooked, boiled, drained, without salt"
+"Corn (vegetable), dried, cooked","Vegetable oil, NFS",4321,0.663,n,
+"Corn (vegetable), raw","Vegetable oil, NFS",4321,0.768,n,"Corn, sweet, yellow, raw"
+"Corn grain, uncooked (consumed cooked/heat-treated)","Chicken, cornish game hens, meat only, cooked, roasted",5310,0.45,n,"Cereals, corn grits, white, regular and quick, enriched, dry"
+"Corn grits, uncooked (consumed cooked/heat-treated)","Figs, dried, uncooked",9094,0.451,n,"Cereals, corn grits, white, regular and quick, enriched, dry"
+"Corn hominy, canned","Hominy, canned, white",20030,0.787,,
+"Corn hominy, canned/cooked","Hominy, canned, white",20030,0.691,,
+"Corn hominy, cooked","Hominy, canned, white",20030,0.641,,
+"Cornmeal, degermed","Cornmeal, degermed, enriched, yellow",20022,0.791,,
+"Cornmeal, whole grain","Cornmeal, degermed, enriched, yellow",20022,0.504,,
+"Cowpeas (black-eyed peas), immature, canned","Cowpeas (blackeyes), immature seeds, cooked, boiled, drained, without salt",11192,0.695,,
+"Cowpeas (black-eyed peas), immature, canned/cooked","Cowpeas (blackeyes), immature seeds, cooked, boiled, drained, without salt",11192,0.715,,
+"Cowpeas (black-eyed peas), immature, cooked","Cowpeas (blackeyes), immature seeds, cooked, boiled, drained, without salt",11192,0.738,,
+"Cowpeas (black-eyed peas), mature, canned/cooked","Cowpeas (blackeyes), immature seeds, cooked, boiled, drained, without salt",11192,0.67,,
+"Cowpeas (black-eyed peas), mature, cooked","Cowpeas (blackeyes), immature seeds, cooked, boiled, drained, without salt",11192,0.694,,
+"Crab, canned/cooked","Crustaceans, crab, blue, canned",15141,0.457,,
+"Crab, cooked","Crustaceans, crab, blue, cooked, moist heat",15140,0.479,,
+"Cranberries, canned/cooked (cranberries only)","Cranberries, raw",9078,0.744,n,"Cranberry sauce, canned, sweetened"
+"Cranberries, cooked","Cranberries, raw",9078,0.872,,
+"Cranberries, dried, unsweetened","Cranberries, dried, sweetened",9079,0.939,n,
+"Cranberries, raw","Cranberries, raw",9078,1,,
+"Cream, fluid","Cream, fluid, half and half",1049,0.767,,
+"Cream, fluid, fat free","Cream, fluid, half and half",1049,0.676,n,"Cream, half and half, fat free"
+"Cream, sour","Sour cream, fat free",1180,0.812,n,"Cream, sour, cultured"
+"Cream, sour, light/reduced fat/imitation/fat free","Sour cream, imitation, cultured",1074,0.597,n,"Sour cream, light"
+"Cress, cooked","Cress, garden, cooked, boiled, drained, without salt",11204,0.5,,
+"Crustaceans, crab, canned","Crustaceans, crab, blue, canned",15141,0.901,,
+"Crustaceans, crab, canned/cooked","Crustaceans, crab, blue, canned",15141,0.812,,
+"Crustaceans, crab, cooked","Crustaceans, crab, blue, canned",15141,0.794,,
+"Crustaceans, crayfish/crawfish, cooked","Crustaceans, crayfish, mixed species, wild, raw",15145,0.644,n,"Crustaceans, crayfish, mixed species, wild, cooked, moist heat"
+"Crustaceans, lobster, cooked","Crustaceans, lobster, northern, raw",15147,0.777,n,"Crustaceans, lobster, northern, cooked, moist heat"
+"Crustaceans, shrimp, canned","Crustaceans, shrimp, mixed species, canned",15152,0.81,,
+"Crustaceans, shrimp, canned/cooked","Crustaceans, shrimp, mixed species, canned",15152,0.752,,
+"Crustaceans, shrimp, cooked","Crustaceans, shrimp, mixed species, canned",15152,0.737,,
+"Crustaceans, shrimp, dried","Crustaceans, shrimp, mixed species, canned",15152,0.74,n,
+"Cucumber, cooked","Cucumber, with peel, raw",11205,0.802,,
+"Cucumber, raw","Cucumber, with peel, raw",11205,0.885,,
+"Currants, dried","Currants, zante, dried",9085,0.829,,
+"Dandelion greens, cooked","Dandelion greens, raw",11207,0.915,n,"Dandelion greens, cooked, boiled, drained, without salt"
+"Dandelion greens, raw","Dandelion greens, raw",11207,1,,
+Dates,"Dates, deglet noor",9087,0.469,,
+"Deer, lean and fat, cooked","Game meat, deer, loin, separable lean only, 1"" steak, cooked, broiled",17345,0.564,n,"Game meat, deer, ground, raw"
+"Deer, lean and fat, dried","Game meat, deer, loin, separable lean only, 1"" steak, cooked, broiled",17345,0.446,n,
+"Dove, lean and fat, cooked","Dove, cooked (includes squab)",43287,0.526,,
+"Dragon fruit, raw","Breadfruit, raw",9059,0.372,n,
+"Duck, lean and fat, cooked","Duck, domesticated, meat only, cooked, roasted",5142,0.486,,
+"Egg, duck, cooked","Egg, duck, whole, fresh, raw",1138,0.587,,
+"Egg, goose, cooked","Egg, goose, whole, fresh, raw",1139,0.705,,
+"Egg, quail, canned","Egg, quail, whole, fresh, raw",1140,0.657,,
+"Egg, white, cooked","Egg, white, raw, fresh",1124,0.69,,
+"Egg, white, dried","Egg, whole, dried",1133,0.69,,
+"Egg, white, raw","Egg, white, raw, fresh",1124,0.843,,
+"Egg, whole, cooked","Egg, whole, cooked, fried",1128,0.86,,
+"Egg, whole, dried","Egg, whole, dried",1133,1,,
+"Egg, whole, raw","Egg, whole, raw, fresh",1123,0.833,,
+"Egg, yolk, cooked","Egg, yolk, raw, fresh",1125,0.738,,
+"Egg, yolk, dried","Egg, yolk, raw, fresh",1125,0.717,n,
+"Egg, yolk, raw","Egg, yolk, raw, fresh",1125,0.863,,
+"Eggplant, cooked","Eggplant, raw",11209,0.89,n,"Eggplant, cooked, boiled, drained, without salt"
+"Eggplant, raw","Eggplant, raw",11209,1,,
+"Epazote, cooked","Pork, fresh, separable fat, cooked",10007,0.257,n,
+"Escarole, cooked","Escarole, cooked, boiled, drained, no salt added",11214,0.712,,
+"Fat, animal, beef","Animal fat, bacon grease",4609,0.628,,
+"Fat, animal, chicken","Fat, chicken",4542,0.686,,
+"Fat, animal, lamb","Animal fat, bacon grease",4609,0.588,,
+"Fat, animal, pork","Animal fat, bacon grease",4609,0.608,,
+"Fat, animal, turkey","Fat, turkey",4575,0.701,,
+"Fat, milk","Milk, lowfat, fluid, 1% milkfat, with added vitamin A and vitamin D",1082,0.65,n,
+"Fennel bulb, cooked","Fennel, bulb, raw",11957,0.898,,
+"Fennel bulb, raw","Fennel, bulb, raw",11957,1,,
+"Figs, canned (figs only)","Figs, raw",9089,0.637,n,"Figs, canned, water pack, solids and liquids"
+"Figs, canned/cooked (figs only)","Figs, dried, uncooked",9094,0.541,n,"Figs, canned, water pack, solids and liquids"
+"Figs, dried","Figs, dried, uncooked",9094,0.749,,
+"Figs, dried, cooked","Figs, dried, uncooked",9094,0.864,n,"Figs, dried, stewed"
+"Figs, raw","Figs, raw",9089,1,,
+"Fish roe, shad, cooked","Fish, roe, mixed species, raw",15072,0.471,,
+"Fish roe, sturgeon, raw","Fish, sturgeon, mixed species, raw",15104,0.665,n,"Fish, roe, mixed species, raw"
+"Fish, anchovy, canned","Fish, anchovy, european, canned in oil, drained solids",15002,0.696,,
+"Fish, anchovy, canned/cooked","Fish, anchovy, european, canned in oil, drained solids",15002,0.641,,
+"Fish, anchovy, cooked","Fish, anchovy, european, canned in oil, drained solids",15002,0.594,,
+"Fish, carp, cooked","Fish, carp, raw",15008,0.842,,
+"Fish, catfish, cooked","Fish, catfish, channel, farmed, raw",15234,0.734,,
+"Fish, cod, cooked","Fish, cod, Atlantic, cooked, dry heat",15016,0.63,,
+"Fish, cod, dried","Fish, cod, Atlantic, dried and salted",15018,0.632,,
+"Fish, cod, raw","Fish, carp, raw",15008,0.527,n,"Fish, cod, Pacific, raw (may have been previously frozen)"
+"Fish, croaker, cooked","Fish, croaker, Atlantic, raw",15020,0.667,,
+"Fish, eel, cooked","Fish, eel, mixed species, raw",15025,0.486,,
+"Fish, eel, smoked","Fish, salmon, chinook, smoked",15077,0.622,n,"Fish, eel, mixed species, raw"
+"Fish, flatfish, cooked","Fish, flatfish (flounder and sole species), raw",15028,0.718,,
+"Fish, flatfish, smoked","Fish, flatfish (flounder and sole species), raw",15028,0.666,,
+"Fish, haddock, cooked","Fish, haddock, raw",15033,0.904,,
+"Fish, haddock, smoked","Fish, haddock, smoked",15035,1,,
+"Fish, halibut, cooked","Fish, halibut, Atlantic and Pacific, raw",15036,0.639,,
+"Fish, herring, cooked","Fish, herring, Atlantic, cooked, dry heat",15040,0.711,,
+"Fish, herring, raw","Fish, herring, Atlantic, raw",15039,0.737,,
+"Fish, herring, smoked","Fish, herring, Atlantic, cooked, dry heat",15040,0.577,,
+"Fish, mackerel, canned","Fish, mackerel, jack, canned, drained solids",15048,0.772,,
+"Fish, mackerel, canned/cooked","Fish, mackerel, jack, canned, drained solids",15048,0.691,,
+"Fish, mackerel, cooked","Fish, mackerel, Atlantic, raw",15046,0.65,n,"Fish, mackerel, jack, canned, drained solids"
+"Fish, mackerel, raw","Fish, mackerel, Atlantic, raw",15046,0.745,,
+"Fish, mullet, cooked","Fish, mullet, striped, raw",15055,0.678,,
+"Fish, ocean perch, cooked","Fish, ocean perch, Atlantic, raw",15057,0.696,,
+"Fish, perch, cooked","Fish, perch, mixed species, raw",15060,0.594,,
+"Fish, pike, cooked","Fish, pike, northern, raw",15062,0.598,,
+"Fish, pollock, cooked","Fish, pollock, Alaska, raw (may have been previously frozen)",15066,0.47,,
+"Fish, pompano, cooked","Fish, pompano, florida, raw",15068,0.696,,
+"Fish, pompano, raw","Fish, pompano, florida, raw",15068,0.774,,
+"Fish, pompano, smoked","Fish, pompano, florida, raw",15068,0.625,,
+"Fish, porgy/scup, cooked","Fish, scup, raw",15090,0.574,,
+"Fish, ray, cooked","Crustaceans, crayfish, mixed species, wild, cooked, moist heat",15146,0.454,n,
+"Fish, salmon, canned","Fish, salmon, pink, raw",15083,0.747,n,"Fish, salmon, pink, canned, total can contents"
+"Fish, salmon, canned/cooked","Fish, salmon, pink, raw",15083,0.638,n,"Fish, salmon, pink, canned, total can contents"
+"Fish, salmon, cooked","Fish, salmon, pink, raw",15083,0.757,n,"Fish, salmon, pink, canned, total can contents"
+"Fish, salmon, dried","Fish, salmon, pink, raw",15083,0.731,n,
+"Fish, salmon, raw","Fish, salmon, pink, raw",15083,0.874,,
+"Fish, salmon, smoked","Fish, salmon, chinook, smoked",15077,0.854,,
+"Fish, sardines, canned","Fish, sardine, Atlantic, canned in oil, drained solids with bone",15088,0.707,,
+"Fish, sardines, canned/cooked","Fish, sardine, Atlantic, canned in oil, drained solids with bone",15088,0.642,,
+"Fish, sardines, cooked","Fish, sardine, Atlantic, canned in oil, drained solids with bone",15088,0.591,,
+"Fish, sardines, dried","Fish, sardine, Atlantic, canned in oil, drained solids with bone",15088,0.589,n,
+"Fish, sea bass, raw","Fish, sea bass, mixed species, raw",15091,0.685,,
+"Fish, shark, cooked","Fish, shark, mixed species, raw",15095,0.614,,
+"Fish, smelt, cooked","Fish, salmon, chinook, smoked",15077,0.396,n,
+"Fish, snapper, cooked","Fish, snapper, mixed species, raw",15101,0.649,,
+"Fish, snapper, raw","Fish, snapper, mixed species, raw",15101,0.718,,
+"Fish, sturgeon, cooked","Fish, sturgeon, mixed species, raw",15104,0.69,,
+"Fish, swordfish, cooked","Fish, swordfish, raw",15110,0.949,,
+"Fish, tilapia, cooked","Fish, tilapia, raw",15261,0.905,,
+"Fish, trout, cooked","Fish, trout, rainbow, farmed, raw",15240,0.484,,
+"Fish, trout, smoked","Fish, salmon, chinook, smoked",15077,0.575,n,"Fish, trout, rainbow, farmed, raw"
+"Fish, tuna, canned","Fish, tuna, light, canned in oil, drained solids",15119,0.672,n,"Fish, tuna, light, canned in water, drained solids"
+"Fish, tuna, canned/cooked","Fish, tuna, light, canned in oil, drained solids",15119,0.587,n,"Fish, tuna, light, canned in water, drained solids"
+"Fish, tuna, cooked","Fish, tuna, fresh, yellowfin, raw",15127,0.55,n,"Fish, tuna, light, canned in water, drained solids"
+"Fish, tuna, dried","Fish, tuna, light, canned in oil, drained solids",15119,0.538,n,
+"Fish, tuna, raw","Fish, tuna, fresh, yellowfin, raw",15127,0.649,,
+"Fish, whiting, cooked","Fish, whiting, mixed species, raw",15132,0.628,,
+"Flavorings, vanilla extract","Vanilla extract, imitation, no alcohol",2052,0.601,,
+"Flour, amaranth","Soy flour, low-fat",16118,0.441,n,
+"Flour, arrowroot","Cookies, animal crackers (includes arrowroot, tea biscuits)",28399,0.515,n,
+"Flour, barley","Barley, pearled, raw",20005,0.703,,
+"Flour, barley malt","Barley, pearled, raw",20005,0.64,n,
+"Flour, buckwheat","Buckwheat flour, whole-groat",20011,0.859,,
+"Flour, carob",Carob flour,16055,1,,
+"Flour, corn, degermed","Cornmeal, degermed, enriched, yellow",20022,0.573,n,"Corn flour, masa, enriched, white"
+"Flour, corn, masa","Corn flour, masa, enriched, white",20017,0.708,,
+"Flour, corn, whole grain","Wheat flour, whole-grain",20080,0.805,n,"Corn flour, masa, enriched, white"
+"Flour, millet","Millet, cooked",20032,0.624,n,"Millet, puffed"
+"Flour, oat","Soy flour, low-fat",16118,0.672,n,
+"Flour, peanut","Peanut flour, defatted",16099,0.708,,
+"Flour, potato",Potato flour,11413,1,,
+"Flour, rice, brown","Rice, brown, long-grain, raw",20036,0.608,n,
+"Flour, rice, white","Rice flour, white, unenriched",20061,0.747,,
+"Flour, rye","Rye flour, medium",20064,0.727,,
+"Flour, soy","Soy flour, low-fat",16118,0.875,n,"Soy flour, full-fat, raw"
+"Flour, tapioca","Tapioca, pearl, dry",20068,0.652,n,
+"Flour, teff","Soy flour, low-fat",16118,0.495,n,
+"Flour, wheat, refined","Wheat flour, whole-grain",20080,0.589,n,"Wheat flour, white, all-purpose, enriched, bleached"
+"Flour, wheat, whole grain","Wheat flour, whole-grain",20080,1,n,"Wheat flour, whole-grain (Includes foods for USDA's Food Distribution Program)"
+"Flowers or blossoms of sesbania, squash, or lily, cooked","Squash, summer, all varieties, cooked, boiled, drained, without salt",11642,0.326,n,"Pumpkin flowers, cooked, boiled, drained, without salt"
+"Frog legs, cooked","Frog legs, raw",80200,0.801,,
+"Garlic, canned","Garlic, raw",11215,0.813,,
+"Garlic, canned/cooked","Garlic, raw",11215,0.668,,
+"Garlic, cooked","Garlic, raw",11215,0.826,,
+"Garlic, raw","Garlic, raw",11215,1,,
+"Gelatin, dry powder, unsweetened","Gelatins, dry powder, unsweetened",19177,1,,
+"Germ, wheat","Oil, wheat germ",4038,0.913,n,
+"Ginger root, cooked","Ginger root, raw",11216,0.867,,
+"Ginger root, raw","Ginger root, raw",11216,1,,
+"Goat, lean and fat, cooked","Game meat, goat, cooked, roasted",17169,0.642,,
+"Goat, variety meat, brains, cooked","Beef, variety meats and by-products, brain, cooked, simmered",13320,0.628,n,
+"Grape leaves, canned/cooked","Grape leaves, raw",11974,0.679,,
+"Grapefruit, canned (grapefruit only)","Grapefruit, raw, pink and red, all areas",9112,0.72,n,"Grapefruit, sections, canned, water pack, solids and liquids"
+"Grapefruit, frozen/canned (grapefruit only)","Grapefruit, raw, pink and red, all areas",9112,0.591,n,"Grapefruit, sections, canned, water pack, solids and liquids"
+"Grapefruit, raw","Grapefruit juice, white, raw",9128,0.813,n,"Grapefruit, raw, pink and red and white, all areas"
+"Grapes, canned (grapes only)","Capers, canned",2054,0.657,n,"Grapes, red or green (European type, such as Thompson seedless), raw"
+"Grapes, canned/cooked (grapes only)","Capers, canned",2054,0.533,n,"Grapes, red or green (European type, such as Thompson seedless), raw"
+"Grapes, cooked","Grape leaves, raw",11974,0.604,n,"Grapes, red or green (European type, such as Thompson seedless), raw"
+"Grapes, raw","Grape leaves, raw",11974,0.81,n,"Grapes, red or green (European type, such as Thompson seedless), raw"
+"Grapes, raw/frozen/canned (grapes only)","Grape leaves, raw",11974,0.456,n,"Grapes, red or green (European type, such as Thompson seedless), raw"
+"Guava, canned (guava only)","Guava sauce, cooked",9143,0.692,,
+"Guava, cooked","Guava sauce, cooked",9143,0.855,,
+"Guava, raw","Guavas, common, raw",9139,0.768,,
+"Hearts of palm, cooked","Hearts of palm, raw",43392,0.861,,
+Honey,Honey,19296,1,,
+Hops,"Ham, chopped, not canned",7027,0.469,n,
+Hops,"Ham, chopped, canned",7026,0.469,n,
+Horseradish root,"Sauce, horseradish",27066,0.815,,
+"Huckleberries, raw/frozen","Blueberries, frozen, sweetened",9055,0.469,,
+"Juice, acai","Lime juice, raw",9160,0.463,n,
+"Juice, acerola","Lime juice, raw",9160,0.434,n,
+"Juice, alfalfa seeds","Alfalfa seeds, sprouted, raw",11001,0.835,n,
+"Juice, aloe vera","Beverages, aloe vera juice drink, fortified with Vitamin C",14216,0.632,n,
+"Juice, apple","Babyfood, juice, apple",3166,0.738,n,"Apple juice, canned or bottled, unsweetened, without added ascorbic acid"
+"Juice, apple (alcoholic)","Alcoholic beverage, rice (sake)",43479,0.595,n,"Beverages, Amber, hard cider"
+"Juice, apple, concentrate","Lemon juice from concentrate, canned or bottled",9153,0.645,n,"Apple juice, frozen concentrate, unsweetened, undiluted, without added ascorbic acid"
+"Juice, apricot","Apricots, raw",9021,0.786,n,"Apricot nectar, canned, without added ascorbic acid"
+"Juice, banana","Bananas, raw",9040,0.806,n,
+"Juice, barley grass","Barley, pearled, raw",20005,0.621,n,
+"Juice, beet","Lime juice, raw",9160,0.534,n,
+"Juice, beet, concentrate","Lemon juice from concentrate, canned or bottled",9153,0.675,n,
+"Juice, bilberry","Mulberries, raw",9190,0.514,n,
+"Juice, blackberry","Blackberry juice, canned",9043,0.933,,
+"Juice, blueberry","Blueberries, raw",9050,0.845,n,
+"Juice, broccoli","Broccoli, raw",11090,0.806,n,
+"Juice, carrot","Carrot juice, canned",11655,0.898,,
+"Juice, celery","Celery, raw",11143,0.758,n,
+"Juice, cherry","Babyfood, juice, apple - cherry",43535,0.666,n,
+"Juice, cranberry","Cranberries, raw",9078,0.826,n,"Cranberry juice blend, 100% juice, bottled, with added vitamin C and calcium"
+"Juice, cucumber","Cucumber, with peel, raw",11205,0.77,n,
+"Juice, elderberry","Blackberry juice, canned",9043,0.435,n,
+"Juice, garlic","Garlic, raw",11215,0.778,n,
+"Juice, ginger root","Ginger root, raw",11216,0.814,n,
+"Juice, grape","Babyfood, juice, apple and grape",3265,0.684,n,"Grape juice, canned or bottled, unsweetened, with added ascorbic acid"
+"Juice, grape, concentrate","Grape juice, white, with added vitamin C, from concentrate, shelf stable",100266,0.661,n,
+"Juice, grapefruit","Grapefruit juice, white, raw",9128,0.877,,
+"Juice, grapefruit, concentrate","Grapefruit juice, red, not fortified, not from concentrate, refrigerated",100267,0.774,n,"Grapefruit juice, white, frozen concentrate, unsweetened, undiluted"
+"Juice, guava","Guava sauce, cooked",9143,0.671,n,
+"Juice, kale","Kale, raw",11233,0.685,n,
+"Juice, kiwi","Kiwifruit, green, raw",9148,0.544,n,
+"Juice, lemon","Lemon juice, raw",9152,0.947,,
+"Juice, lettuce","Lettuce, red leaf, raw",11257,0.668,n,
+"Juice, lime","Lime juice, raw",9160,0.939,,
+"Juice, lime, concentrate","Lemon juice from concentrate, canned or bottled",9153,0.647,n,
+"Juice, mango","Mangos, raw",9176,0.733,n,"Mango nectar, canned"
+"Juice, orange","Orange juice, raw",9206,0.949,,
+"Juice, orange, concentrate","Orange juice, chilled, includes from concentrate",9209,0.763,n,"Orange juice, frozen concentrate, unsweetened, undiluted"
+"Juice, papaya","Papayas, raw",9226,0.838,n,"Papaya nectar, canned"
+"Juice, parsley","Parsley, fresh",11297,0.751,n,
+"Juice, passionfruit","Passion-fruit juice, purple, raw",9232,0.716,,
+"Juice, peach","Babyfood, juice, apple and peach",3168,0.659,n,"Peach nectar, canned, without added ascorbic acid"
+"Juice, pear","Babyfood, juice, pear",43408,0.692,n,"Pear nectar, canned, without added ascorbic acid"
+"Juice, pear, concentrate","Lemon juice from concentrate, canned or bottled",9153,0.662,n,
+"Juice, pepper","Spices, pepper, black",2030,0.666,n,
+"Juice, pineapple","Pineapple, canned, juice pack, drained",9354,0.791,n,"Pineapple juice, canned or bottled, unsweetened, without added ascorbic acid"
+"Juice, pineapple, concentrate","Pineapple, canned, juice pack, drained",9354,0.631,n,
+"Juice, pomegranate","Pomegranates, raw",9286,0.859,n,"Pomegranate juice, bottled"
+"Juice, prune","Prune juice, canned",9294,0.897,,
+"Juice, raspberry","Raspberries, raw",9302,0.849,n,
+"Juice, spinach","Spinach, raw",11457,0.757,n,
+"Juice, strawberry","Strawberries, raw",9316,0.84,n,
+"Juice, sweet potato","Babyfood, juice, apple-sweet potato",42266,0.75,n,
+"Juice, tamarind","Tamarinds, raw",9322,0.791,n,
+"Juice, tangerine/clementine/mandarin orange","Tangerines, (mandarin oranges), canned, juice pack",9219,0.763,n,
+"Juice, tangerine/clementine/mandarin orange, concentrate","Tangerines, (mandarin oranges), canned, juice pack",9219,0.709,n,
+"Juice, tomato","Tomato juice, canned, with salt added",11540,0.73,,
+"Juice, watercress","Watercress, raw",11591,0.83,n,
+"Juice, watermelon","Watermelon, raw",9326,0.842,n,
+"Juice, wheat grass",Rice and Wheat cereal bar,8546,0.435,n,
+"Juice, wolfberry","Blackberry juice, canned",9043,0.358,n,
+"Kale, canned","Kale, raw",11233,0.739,n,"Kale, cooked, boiled, drained, without salt"
+"Kale, canned/cooked","Kale, raw",11233,0.583,n,"Kale, cooked, boiled, drained, without salt"
+"Kale, cooked","Kale, raw",11233,0.759,n,"Kale, cooked, boiled, drained, without salt"
+"Kale, raw","Kale, raw",11233,1,,
+"Kiwis, raw","Kiwifruit, green, raw",9148,0.652,,
+"Kohlrabi, cooked","Kohlrabi, raw",11241,0.925,n,"Kohlrabi, cooked, boiled, drained, without salt"
+"Kohlrabi, raw","Kohlrabi, raw",11241,1,,
+"Kumquats, raw","Kumquats, raw",9149,1,,
+"Lamb, lean and fat, cooked","Lamb, ground, cooked, broiled",17225,0.559,,
+"Leavening agents, baking powder","Leavening agents, baking soda",18372,0.843,n,"Leavening agents, baking powder, double-acting, sodium aluminum sulfate"
+"Leavening agents, baking soda","Leavening agents, baking soda",18372,1,,
+"Leavening agents, cream of tartar","Leavening agents, cream of tartar",18373,1,,
+"Leavening agents, yeast","Leavening agents, yeast, baker's, active dry",18375,0.775,,
+"Leeks, (bulb and lower-leaf portion), cooked","Leeks, (bulb and lower leaf-portion), raw",11246,0.949,,
+"Leeks, (bulb and lower-leaf portion), dehydrated","Leeks, (bulb and lower leaf-portion), raw",11246,0.833,n,
+"Leeks, (bulb and lower-leaf portion), raw","Leeks, (bulb and lower leaf-portion), raw",11246,1,,
+"Lemon peel, cooked","Lemon peel, raw",9156,0.864,,
+"Lemon peel, raw","Lemon peel, raw",9156,1,,
+"Lemons, cooked","Lemon juice, raw",9152,0.627,n,
+"Lemons, raw","Lemon juice, raw",9152,0.796,,
+"Lentils, canned","Lentils, raw",16069,0.796,n,"Lentils, mature seeds, cooked, boiled, without salt"
+"Lentils, canned/cooked","Lentils, raw",16069,0.646,n,"Lentils, mature seeds, cooked, boiled, without salt"
+"Lentils, cooked","Lentils, raw",16069,0.807,n,"Lentils, mature seeds, cooked, boiled, without salt"
+"Lentils, raw (consumed cooked/heat-treated)","Lentils, raw",16069,0.525,,
+"Lettuce, cos/romaine, raw","Lettuce, cos or romaine, raw",11251,0.777,,
+"Lettuce, iceberg/butterhead, cooked","Lettuce, butterhead (includes boston and bibb types), raw",11250,0.526,n,"Lettuce, iceberg (includes crisphead types), raw"
+"Lettuce, iceberg/butterhead, raw","Lettuce, butterhead (includes boston and bibb types), raw",11250,0.546,n,"Lettuce, iceberg (includes crisphead types), raw"
+"Lettuce, leaf, cooked","Lettuce, red leaf, raw",11257,0.868,n,"Lettuce, green leaf, raw"
+"Lettuce, leaf, raw","Lettuce, red leaf, raw",11257,0.973,n,"Lettuce, green leaf, raw"
+"Limes, raw","Limes, raw",9159,1,,
+"Litchis/lychees, canned/cooked (litchis only)","Litchis, raw",9164,0.727,,
+"Litchis/lychees, dried","Litchis, dried",9165,0.652,,
+"Litchis/lychees, raw","Litchis, raw",9164,0.614,,
+"Loganberries, raw/frozen","Loganberries, frozen",9167,0.9,,
+"Lotus root, cooked","Lotus root, cooked, boiled, drained, without salt",11255,0.738,,
+"Luffa/loofah, cooked","Cheese puffs and twists, corn based, baked, low fat",19434,0.221,n,
+"Malt extract, dried",Yeast extract spread,43406,0.627,n,
+"Mangoes, canned (mangoes only)","Mangos, raw",9176,0.791,,
+"Mangoes, cooked","Mangos, raw",9176,0.799,,
+"Mangoes, dried, unsweetened","Mango, dried, sweetened",9178,0.924,n,
+"Mangoes, raw/frozen","Mangos, raw",9176,0.677,,
+"Melon, cantaloupe, raw","Melons, cantaloupe, raw",9181,1,,
+"Melon, casaba, raw","Melons, casaba, raw",9183,1,,
+"Melon, honeydew, raw","Melons, honeydew, raw",9184,1,,
+"Milk, 1% fat, dried","Milk, buttermilk, dried",1094,0.675,n,
+"Milk, 1% fat, evaporated","Milk, canned, evaporated, nonfat, with added vitamin A and vitamin D",1097,0.7,n,
+"Milk, 1% fat, fluid","Milk, lowfat, fluid, 1% milkfat, with added vitamin A and vitamin D",1082,0.71,,
+"Milk, 2% fat, evaporated","Milk, canned, evaporated, nonfat, with added vitamin A and vitamin D",1097,0.695,n,"Milk, canned, evaporated, with added vitamin D and without added vitamin A"
+"Milk, 2% fat, fluid","Milk, reduced fat, fluid, 2% milkfat, with added vitamin A and vitamin D",1079,0.703,,
+"Milk, buttermilk, 1% fat, dried","Milk, buttermilk, dried",1094,0.963,,
+"Milk, buttermilk, 1% fat, fluid","Milk, buttermilk, fluid, whole",1230,0.909,n,"Milk, buttermilk, fluid, cultured, lowfat"
+"Milk, buttermilk, 2% fat, fluid","Milk, buttermilk, fluid, whole",1230,0.905,n,"Milk, buttermilk, fluid, cultured, reduced fat"
+"Milk, buttermilk, nonfat, fluid","Milk, buttermilk, fluid, whole",1230,0.847,n,
+"Milk, buttermilk, whole, dried","Milk, buttermilk, dried",1094,0.934,,
+"Milk, buttermilk, whole, fluid","Milk, buttermilk, fluid, whole",1230,1,,
+"Milk, goat, whole, fluid","Milk, buttermilk, fluid, whole",1230,0.697,n,"Milk, goat, fluid, with added vitamin D"
+"Milk, nonfat, dried","Milk, dry, nonfat, regular, with added vitamin A and vitamin D",1154,0.58,,
+"Milk, nonfat, evaporated","Milk, canned, evaporated, nonfat, with added vitamin A and vitamin D",1097,0.806,,
+"Milk, nonfat, fluid","Milk, nonfat, fluid, with added vitamin A and vitamin D (fat free or skim)",1085,0.72,,
+"Milk, whole, dried","Egg, whole, dried",1133,0.708,n,"Milk, dry, whole, with added vitamin D"
+"Milk, whole, evaporated","Milk, canned, evaporated, with added vitamin D and without added vitamin A",1096,0.652,,
+"Milk, whole, fluid","Milk, buttermilk, fluid, whole",1230,0.807,n,"Milk, whole, 3.25% milkfat, with added vitamin D"
+"Milk, whole, with 77% moisture loss (for dulce de leche and condensed milk)",Dulce de Leche,1225,0.56,,
+"Millet, uncooked (consumed cooked/heat-treated)","Millet, cooked",20032,0.622,,
+"Miso, cooked",Miso,16112,0.839,,
+Molasses,Molasses,19304,1,,
+"Mollusks, abalone, cooked","Mollusks, abalone, mixed species, raw",15155,0.719,,
+"Mollusks, clam, canned","Mollusks, clam, mixed species, canned, drained solids",15160,0.693,,
+"Mollusks, clam, canned/cooked","Mollusks, clam, mixed species, canned, drained solids",15160,0.638,,
+"Mollusks, clam, cooked","Mollusks, clam, mixed species, raw",15157,0.67,n,"Mollusks, clam, mixed species, canned, drained solids"
+"Mollusks, clam, raw","Mollusks, clam, mixed species, raw",15157,0.73,,
+"Mollusks, mussels, cooked","Mollusks, mussel, blue, raw",15164,0.845,,
+"Mollusks, octopus, cooked","Mollusks, octopus, common, raw",15166,0.854,,
+"Mollusks, oysters, canned","Mollusks, oyster, eastern, canned",15170,0.9,,
+"Mollusks, oysters, canned/cooked","Mollusks, oyster, eastern, canned",15170,0.816,,
+"Mollusks, oysters, cooked","Mollusks, oyster, eastern, canned",15170,0.803,,
+"Mollusks, oysters, raw","Mollusks, oyster, eastern, wild, raw",15167,0.823,,
+"Mollusks, oysters, smoked","Mollusks, oyster, eastern, canned",15170,0.742,,
+"Mollusks, scallops, cooked","Mollusks, scallop, (bay and sea), cooked, steamed",90240,0.817,,
+"Mollusks, snails, cooked","Mollusks, snail, raw",90560,0.904,,
+"Mollusks, squid, canned","Mollusks, squid, mixed species, raw",15175,0.687,,
+"Mollusks, squid, canned/cooked","Mollusks, squid, mixed species, raw",15175,0.622,,
+"Mollusks, squid, cooked","Mollusks, squid, mixed species, raw",15175,0.695,,
+"Mollusks, squid, dried","Mollusks, squid, mixed species, raw",15175,0.702,,
+"Mollusks, squid, raw","Mollusks, squid, mixed species, raw",15175,0.75,,
+"Moose, lean and fat, cooked","Game meat, moose, cooked, roasted",17173,0.686,,
+"Mulberries, raw","Mulberries, raw",9190,1,,
+"Mushrooms, canned","Mushrooms, canned, drained solids",11264,0.817,,
+"Mushrooms, canned/cooked","Mushrooms, canned, drained solids",11264,0.734,,
+"Mushrooms, cooked","Mushrooms, white, raw",11260,0.767,n,"Mushrooms, white, cooked, boiled, drained, without salt"
+"Mushrooms, dried","Mushrooms, white, raw",11260,0.748,n,"Mushrooms, shiitake, dried"
+"Mushrooms, dried, cooked","Mushrooms, white, raw",11260,0.698,n,"Mushrooms, white, cooked, boiled, drained, without salt"
+"Mushrooms, raw","Mushrooms, white, raw",11260,0.874,,
+"Mustard greens, canned","Mustard greens, raw",11270,0.866,n,"Mustard greens, cooked, boiled, drained, without salt"
+"Mustard greens, canned/cooked","Mustard greens, raw",11270,0.748,n,"Mustard greens, cooked, boiled, drained, without salt"
+"Mustard greens, cooked","Mustard greens, raw",11270,0.875,n,"Mustard greens, cooked, boiled, drained, without salt"
+"Mustard greens, raw","Mustard greens, raw",11270,1,,
+"Nectarines, cooked","Nectarines, raw",9191,0.873,,
+"Nectarines, raw","Nectarines, raw",9191,1,,
+"Nopales, cooked","Nopales, raw",11963,0.873,n,"Nopales, cooked, without salt"
+"Nopales, raw","Nopales, raw",11963,1,,
+"Nuts, almonds, roasted/heat-treated","Nuts, almonds, oil roasted, with salt added",12565,0.669,n,"Nuts, almonds, dry roasted, without salt added"
+"Nuts, almonds, unroasted","Nuts, almond paste",12071,0.726,n,"Nuts, almonds"
+"Nuts, brazilnuts, roasted/heat-treated","Nuts, brazilnuts, dried, unblanched",12078,0.666,,
+"Nuts, brazilnuts, unroasted","Nuts, brazilnuts, dried, unblanched",12078,0.718,,
+"Nuts, cashew, roasted/heat-treated","Nuts, cashew nuts, dry roasted, without salt added",12085,0.65,,
+"Nuts, cashew, unroasted","Nuts, cashew nuts, dry roasted, without salt added",12085,0.67,,
+"Nuts, chestnuts, roasted/heat-treated","Nuts, chestnuts, european, roasted",12167,0.71,,
+"Nuts, coconut cream","Nuts, coconut meat, raw",12104,0.837,n,"Nuts, coconut cream, canned, sweetened"
+"Nuts, coconut meat, dried (desiccated)","Nuts, coconut meat, dried (desiccated), sweetened, shredded",12179,0.832,n,"Nuts, coconut meat, raw"
+"Nuts, coconut meat, raw","Nuts, coconut meat, raw",12104,1,,
+"Nuts, coconut milk","Nuts, coconut meat, raw",12104,0.821,n,"Nuts, coconut milk, raw (liquid expressed from grated meat and water)"
+"Nuts, coconut water (liquid from coconuts)","Nuts, coconut water (liquid from coconuts)",12119,1,,
+"Nuts, hazelnuts or filberts, roasted/heat-treated","Nuts, hazelnuts or filberts",12120,0.819,,
+"Nuts, hazelnuts or filberts, unroasted","Nuts, hazelnuts or filberts",12120,0.886,,
+"Nuts, macadamia, roasted/heat-treated","Nuts, macadamia nuts, dry roasted, with salt added",12632,0.759,,
+"Nuts, macadamia, unroasted","Nuts, macadamia nuts, dry roasted, with salt added",12632,0.794,,
+"Nuts, pecans, roasted/heat-treated","Nuts, pecans",12142,0.544,,
+"Nuts, pecans, unroasted","Nuts, pecans",12142,0.654,,
+"Nuts, pine, dried","Nuts, pine nuts, dried",12147,1,,
+"Nuts, pistachio, roasted/heat-treated","Nuts, pistachio nuts, dry roasted, without salt added",12152,0.694,,
+"Nuts, pistachio, unroasted","Nuts, pistachio nuts, dry roasted, without salt added",12152,0.718,,
+"Nuts, walnuts, raw","Oil, walnut",4528,0.866,n,"Nuts, walnuts, english"
+"Nuts, walnuts, roasted/heat-treated","Oil, walnut",4528,0.618,n,"Nuts, walnuts, english"
+"Nuts, walnuts, unroasted","Oil, walnut",4528,0.707,n,"Nuts, walnuts, english"
+"Oat groats (oatmeal), uncooked (consumed cooked/heat-treated)","Game meat, goat, cooked, roasted",17169,0.583,n,"Cereals, oats, regular and quick, not fortified, dry"
+"Oil, cocoa butter","Cookie, with peanut butter filling, chocolate-coated",28290,0.554,n,
+"Oil, vegetable/nut/seed (other than cocoa butter)","Vegetable oil, NFS",4321,0.5,,
+"Okra, canned","Okra, raw",11278,0.763,n,"Okra, cooked, boiled, drained, without salt"
+"Okra, canned/cooked","Okra, raw",11278,0.625,n,"Okra, cooked, boiled, drained, without salt"
+"Okra, cooked","Okra, raw",11278,0.794,n,"Okra, cooked, boiled, drained, without salt"
+"Okra, raw","Okra, raw",11278,1,,
+"Olives, green, pickled","Olives, pickled, canned or bottled, green",9195,0.815,,
+"Olives, ripe, pickled","Olives, pickled, canned or bottled, green",9195,0.652,,
+"Onions, canned","Onions, raw",11282,0.766,n,"Onions, cooked, boiled, drained, without salt"
+"Onions, canned/cooked","Onions, raw",11282,0.62,n,"Onions, cooked, boiled, drained, without salt"
+"Onions, cooked","Onions, raw",11282,0.781,n,"Onions, cooked, boiled, drained, without salt"
+"Onions, dehydrated","Onions, dehydrated flakes",11284,0.889,,
+"Onions, green/spring/scallions, cooked","Onions, spring or scallions (includes tops and bulb), raw",11291,0.616,,
+"Onions, green/spring/scallions, raw","Onions, spring or scallions (includes tops and bulb), raw",11291,0.639,,
+"Onions, raw","Onions, raw",11282,1,,
+"Orange peel, cooked","Orange juice, raw",9206,0.515,n,
+"Orange peel, dried","Orange juice, raw",9206,0.5,n,
+"Orange peel, raw","Orange juice, raw",9206,0.636,n,
+"Oranges, canned (oranges only)","Tangerines, (mandarin oranges), canned, juice pack",9219,0.685,n,"Oranges, raw, all commercial varieties"
+"Oranges, cooked","Orange juice, raw",9206,0.636,n,"Oranges, raw, all commercial varieties"
+"Oranges, raw","Orange juice, raw",9206,0.804,n,"Oranges, raw, all commercial varieties"
+"Papayas, canned (papaya only)","Papayas, raw",9226,0.872,,
+"Papayas, canned/cooked (papaya only)","Papayas, raw",9226,0.753,,
+"Papayas, cooked","Papayas, raw",9226,0.881,,
+"Papayas, dried","Papayas, raw",9226,0.86,,
+"Papayas, raw","Papayas, raw",9226,1,,
+"Parsley, canned/cooked","Parsley, fresh",11297,0.668,,
+"Parsley, cooked","Parsley, fresh",11297,0.794,,
+"Parsley, raw","Parsley, fresh",11297,0.832,,
+"Parsnips, cooked","Parsnips, cooked, boiled, drained, without salt",11299,0.695,,
+"Parsnips, dehydrated","Onions, dehydrated flakes",11284,0.57,n,
+"Passion-fruit, (granadilla), purple, raw","Passion-fruit, (granadilla), purple, raw",9231,1,,
+"Peaches, canned (peaches only)","Pie, peach",18323,0.651,n,"Peaches, canned, water pack, solids and liquids"
+"Peaches, canned/cooked (peaches only)","Pie, peach",18323,0.508,n,"Peaches, canned, water pack, solids and liquids"
+"Peaches, cooked","Pie, peach",18323,0.671,n,"Peaches, canned, water pack, solids and liquids"
+"Peaches, dried","Pie, peach",18323,0.693,n,"Peaches, dried, sulfured, uncooked"
+"Peaches, dried, cooked","Peaches, dried, sulfured, uncooked",9246,0.645,n,"Peaches, dried, sulfured, stewed, without added sugar"
+"Peaches, raw/frozen","Peaches, frozen, sliced, sweetened",9250,0.543,n,"Peaches, yellow, raw"
+"Peaches, raw/frozen/canned (peaches only)","Peaches, frozen, sliced, sweetened",9250,0.512,n,"Peaches, yellow, raw"
+"Peanuts, roasted/otherwise heat treated","Peanuts, all types, dry-roasted, without salt",16390,0.437,,
+"Peanuts, unroasted","Peanuts, all types, oil-roasted, with salt",16089,0.585,n,n
+"Pears, asian, raw","Pears, asian, raw",9340,1,,
+"Pears, canned (pears only)","Pears, raw",9252,0.608,n,"Pears, canned, water pack, solids and liquids"
+"Pears, canned/cooked (pears only)","Pears, canned, heavy syrup, drained",9374,0.456,n,"Pears, canned, water pack, solids and liquids"
+"Pears, cooked","Pears, raw",9252,0.622,n,"Pears, canned, water pack, solids and liquids"
+"Pears, dried","Pears, raw",9252,0.59,n,"Pears, dried, sulfured, uncooked"
+"Pears, dried, cooked","Pears, dried, sulfured, uncooked",9259,0.617,n,"Pears, dried, sulfured, stewed, without added sugar"
+"Pears, raw","Pears, raw",9252,1,,
+"Pears, raw/frozen/canned (pears only)","Pears, raw",9252,0.467,,
+"Peas, cooked","Peanuts, all types, cooked, boiled, with salt",16088,0.504,n,"Peas, green, cooked, boiled, drained, without salt"
+"Peas, edible-podded, cooked","Peas, edible-podded, raw",11300,0.918,n,"Peas, edible-podded, boiled, drained, without salt"
+"Peas, edible-podded, raw","Peas, edible-podded, raw",11300,1,,
+"Peas, green, canned","Peas, green, raw",11304,0.753,n,"Peas, green (includes baby and lesuer types), canned, drained solids, unprepared"
+"Peas, green, canned/cooked","Peas, green, raw",11304,0.599,n,"Peas, green (includes baby and lesuer types), canned, drained solids, unprepared"
+"Peas, green, cooked","Peas, green, raw",11304,0.762,n,"Peas, green, cooked, boiled, drained, without salt"
+"Peas, green, dehydrated","Onions, dehydrated flakes",11284,0.65,n,
+"Peas, green, mature (split), canned","Peas, split, mature seeds, cooked, boiled, without salt",16086,0.602,,
+"Peas, green, mature (split), cooked","Peas, split, mature seeds, cooked, boiled, without salt",16086,0.695,,
+"Peas, green, mature (split), raw (consumed cooked/heat-treated)","Peas, split, mature seeds, cooked, boiled, without salt",16086,0.569,,
+"Peas, green, mature (split), uncooked (consumed cooked/heat-treated)","Peas, split, mature seeds, cooked, boiled, without salt",16086,0.577,,
+"Peas, green, raw","Peas, green, raw",11304,1,,
+"Peas, green, split, uncooked (consumed cooked/heat-treated)","Peas, split, mature seeds, cooked, boiled, without salt",16086,0.503,,
+"Peppers, non-bell, canned","Peppers, hot pickled, canned",31034,0.601,n,"Peppers, hot chili, red, canned, excluding seeds, solids and liquids"
+"Peppers, non-bell, canned/cooked","Peppers, hot pickled, canned",31034,0.558,n,"Peppers, hot chili, red, canned, excluding seeds, solids and liquids"
+"Peppers, non-bell, cooked","Peppers, sweet, red, raw",11821,0.547,n,"Peppers, hot chili, red, canned, excluding seeds, solids and liquids"
+"Peppers, non-bell, raw","Peppers, sweet, red, raw",11821,0.638,n,"Peppers, hot chili, red, raw"
+"Peppers, sweet/bell, canned","Peppers, sweet, red, raw",11821,0.676,n,"Peppers, sweet, red, cooked, boiled, drained, without salt"
+"Peppers, sweet/bell, cooked","Peppers, sweet, red, raw",11821,0.681,n,"Peppers, sweet, red, cooked, boiled, drained, without salt"
+"Peppers, sweet/bell, dehydrated","Peppers, sweet, red, raw",11821,0.595,n,
+"Peppers, sweet/bell, dried","Peppers, sweet, red, raw",11821,0.678,n,
+"Peppers, sweet/bell, raw","Peppers, sweet, red, raw",11821,0.749,,
+"Persimmons, dried","Persimmons, japanese, raw",9263,0.654,n,
+"Persimmons, raw","Persimmons, japanese, raw",9263,0.743,,
+"Pheasant, lean and fat, cooked","Pheasant, cooked, total edible",43283,0.684,,
+"Pig, wild, lean and fat, cooked","Wild rice, cooked",20089,0.687,n,"Game meat, boar, wild, cooked, roasted"
+"Pigeonpeas, immature, canned","Pigeonpeas, immature seeds, cooked, boiled, drained, without salt",11345,0.745,,
+"Pigeonpeas, immature, canned/cooked","Pigeonpeas, immature seeds, cooked, boiled, drained, without salt",11345,0.759,,
+"Pigeonpeas, immature, cooked","Pigeonpeas, immature seeds, cooked, boiled, drained, without salt",11345,0.79,,
+"Pigeonpeas, immature, raw (consumed canned/cooked)","Pigeonpeas, immature seeds, cooked, boiled, drained, without salt",11345,0.702,,
+"Pigeonpeas, mature, canned/cooked","Pigeonpeas, immature seeds, cooked, boiled, drained, without salt",11345,0.712,,
+Pimento,"Pimento, canned",11943,0.888,,
+"Pineapple, canned (pineapple only)","Pineapple, canned, juice pack, drained",9354,0.807,,
+"Pineapple, canned/cooked (pineapple only)","Pineapple, canned, juice pack, drained",9354,0.719,,
+"Pineapple, cooked","Pineapple, canned, juice pack, drained",9354,0.668,,
+"Pineapple, dried","Pineapple, raw, all varieties",9266,0.701,n,
+"Pineapple, raw/frozen","Pineapple, frozen, chunks, sweetened",9272,0.646,,
+"Pineapple, raw/frozen/canned (pineapple only)","Pineapple, frozen, chunks, sweetened",9272,0.611,n,"Pineapple, canned, juice pack, drained"
+"Plantains, cooked","Plantains, cooked",9278,1,,
+"Plantains, dehydrated","Plantains, raw",9277,0.624,n,
+"Plantains, raw","Plantains, raw",9277,1,,
+"Plums, canned (plums only)","Plums, raw",9279,0.716,n,"Plums, canned, purple, water pack, solids and liquids"
+"Plums, canned/cooked (plums only)","Plums, raw",9279,0.547,n,"Plums, canned, purple, water pack, solids and liquids"
+"Plums, cooked","Plums, raw",9279,0.734,n,"Plums, canned, purple, water pack, solids and liquids"
+"Plums, dried (prunes)","Plums, dried (prunes), uncooked",9291,0.868,,
+"Plums, dried (prunes), cooked","Plums, dried (prunes), uncooked",9291,0.926,n,"Plums, dried (prunes), stewed, without added sugar"
+"Plums, raw","Plums, raw",9279,1,,
+"Pokeberry shoots (poke), cooked","Pokeberry shoots, (poke), cooked, boiled, drained, without salt",11351,0.838,,
+"Pomegranates, raw","Pomegranates, raw",9286,1,,
+"Popcorn, air-popped","Snacks, popcorn, air-popped",19034,0.937,,
+"Pork, lean and fat, canned","Beans, baked, canned, with pork and sweet sauce",16010,0.567,n,"Pork, fresh, leg (ham), whole, separable lean and fat, cooked, roasted"
+"Pork, lean and fat, canned/cooked","Beans, baked, canned, with pork and sweet sauce",16010,0.52,n,"Pork, fresh, leg (ham), whole, separable lean and fat, cooked, roasted"
+"Pork, lean and fat, cooked","Pork, fresh, separable fat, cooked",10007,0.624,n,"Pork, fresh, leg (ham), whole, separable lean and fat, cooked, roasted"
+"Pork, lean and fat, dried","Pork, fresh, loin, whole, separable lean and fat, raw",10020,0.468,n,
+"Pork, variety meat, blood","Pork, fresh, variety meats and by-products, feet, cooked, simmered",10173,0.546,n,
+"Pork, variety meat, chitterlings, cooked","Pork, fresh, variety meats and by-products, chitterlings, cooked, simmered",10099,0.81,,
+"Pork, variety meat, feet, cooked","Pork, fresh, variety meats and by-products, feet, cooked, simmered",10173,0.729,,
+"Pork, variety meat, heart, cooked","Beef, variety meats and by-products, heart, cooked, simmered",13322,0.678,n,
+"Pork, variety meat, liver, cooked","Beef, variety meats and by-products, liver, cooked, pan-fried",13327,0.719,n,
+"Pork, variety meat, skin, cooked","Pork, fresh, variety meats and by-products, feet, cooked, simmered",10173,0.621,n,
+"Pork, variety meat, skin, dehydrated (pork rinds)","Onions, dehydrated flakes",11284,0.511,n,"Snacks, pork skins, plain"
+"Pork, variety meat, stomach, cooked","Pork, fresh, variety meats and by-products, stomach, raw",10119,0.759,,
+"Pork, variety meat, tongue, cooked","Beef, variety meats and by-products, tongue, cooked, simmered",13340,0.721,n,
+"Potatoes, canned","Bread, potato",18971,0.692,n,"Potatoes, canned, drained solids, no salt added"
+"Potatoes, canned, peel not eaten or unknown","Beef, corned beef hash, with potato, canned",22908,0.415,n,"Potatoes, canned, drained solids, no salt added"
+"Potatoes, canned/cooked, peel not eaten or unknown","Beef, corned beef hash, with potato, canned",22908,0.414,n,"Potatoes, baked, flesh and skin, without salt"
+"Potatoes, cooked, peel not eaten or unknown","Bread, potato",18971,0.406,n,"Potatoes, baked, flesh and skin, without salt"
+"Potatoes, cooked, with peel","Bread, potato",18971,0.584,n,"Potatoes, boiled, cooked in skin, flesh, without salt"
+"Potatoes, dehydrated","Potatoes, mashed, dehydrated, flakes without milk, dry form",11378,0.708,,
+"Potatoes, raw","Bread, potato",18971,0.766,n,"Potatoes, flesh and skin, raw"
+"Protein, chickpea",Soy protein isolate,16122,0.473,n,
+"Protein, hydrolyzed corn",Soy sauce made from hydrolyzed vegetable protein,16125,0.748,n,
+"Protein, milk/whey concentrate/isolate",Soy protein isolate,16122,0.627,n,"Beverages, Whey protein powder isolate"
+"Protein, pea",Soy protein isolate,16122,0.647,n,
+"Protein, soy concentrate",Soy protein isolate,16122,0.628,,
+"Protein, soy isolate",Soy protein isolate,16122,1,,
+"Protein, textured vegetable","Vegetable oil, NFS",4321,0.517,n,"Bacon, meatless"
+"Pumpkin, canned","Pumpkin, raw",11422,0.871,n,"Pumpkin, canned, without salt"
+"Pumpkin, canned/cooked","Pumpkin, raw",11422,0.755,n,"Pumpkin, cooked, boiled, drained, without salt"
+"Pumpkin, cooked","Pumpkin, raw",11422,0.882,n,"Pumpkin, cooked, boiled, drained, without salt"
+"Quail, lean and fat, cooked","Quail, cooked, total edible",43282,0.612,,
+"Quinoa, uncooked (consumed cooked/heat-treated)","Quinoa, cooked",20137,0.663,,
+"Rabbit, domesticated, lean and fat, cooked","Game meat, rabbit, domesticated, composite of cuts, cooked, stewed",17179,0.729,,
+"Raccoon, lean and fat, cooked","Game meat, raccoon, cooked, roasted",17182,0.724,,
+"Radicchio, raw","Radicchio, raw",11952,1,,
+"Radishes, daikon, cooked","Radishes, raw",11429,0.498,,
+"Radishes, raw","Radishes, raw",11429,1,,
+Raisins,"Raisins, seedless",9298,0.629,,
+"Raisins, cooked","Cookies, raisin, soft-type",18191,0.582,n,"Raisins, seedless"
+"Raspberries, canned/cooked (raspberries only)","Raspberries, raw",9302,0.766,n,"Raspberries, canned, red, heavy syrup pack, solids and liquids"
+"Raspberries, cooked","Raspberries, raw",9302,0.89,,
+"Raspberries, dried, unsweetened","Raspberries, frozen, red, sweetened",9306,0.803,n,
+"Raspberries, raw/frozen","Raspberries, raw",9302,0.789,,
+"Rhubarb, canned/cooked (rhubarb only)","Rhubarb, raw",9307,0.772,,
+"Rhubarb, cooked","Rhubarb, raw",9307,0.894,,
+"Rhubarb, raw","Rhubarb, raw",9307,1,,
+"Rice, brown, uncooked (consumed cooked/heat-treated)","Rice, brown, long-grain, cooked",20037,0.535,n,"Rice, brown, long-grain, raw"
+"Rice, white, uncooked (consumed cooked/heat-treated)","Chicken, nuggets, dark and white meat, precooked, frozen, not reheated",22974,0.457,n,"Rice, white, long-grain, regular, raw, enriched"
+"Rutabagas, cooked","Rutabagas, raw",11435,0.89,n,"Rutabagas, cooked, boiled, drained, without salt"
+"Rutabagas, raw","Rutabagas, raw",11435,1,,
+"Rye grain, uncooked (consumed cooked/heat-treated)","Figs, dried, uncooked",9094,0.445,n,"Rye flour, medium"
+Salt,"Salt, table",2047,0.677,,
+"Sauce, pepper","Sauce, ready-to-serve, pepper, TABASCO",6169,0.672,,
+"Sauce, tomato","Sauce, steak, tomato based",27048,0.754,n,"Tomato products, canned, sauce"
+"Seaweed, agar, dried","Seaweed, agar, dried",11663,1,,
+"Seaweed, kelp, cooked","Seaweed, kelp, raw",11445,0.904,,
+"Seaweed, kelp, raw","Seaweed, kelp, raw",11445,1,,
+"Seaweed, kombu, raw","Seaweed, agar, raw",11442,0.585,n,
+"Seaweed, laver, cooked","Seaweed, laver, raw",11446,0.892,,
+"Seaweed, laver, raw","Seaweed, laver, raw",11446,1,,
+"Seaweed, nori, dried","Seaweed, agar, dried",11663,0.744,n,
+"Seaweed, spirulina, dried","Seaweed, spirulina, dried",11667,1,,
+"Seaweed, wakame, cooked","Seaweed, wakame, raw",11669,0.926,,
+"Seaweed, wakame, raw","Seaweed, wakame, raw",11669,1,,
+"Seeds, alfalfa, sprouted, raw","Alfalfa seeds, sprouted, raw",11001,1,,
+"Seeds, chia","Seeds, chia seeds, dried",12006,0.842,,
+"Seeds, flax, roasted","Seeds, flaxseed",12220,0.65,,
+"Seeds, flax, unroasted","Seeds, flaxseed",12220,0.557,,
+"Seeds, pumpkin/squash, roasted","Seeds, pumpkin and squash seed kernels, roasted, without salt",12016,0.776,,
+"Seeds, pumpkin/squash, unroasted","Seeds, pumpkin and squash seed kernels, roasted, without salt",12016,0.729,n,"Seeds, pumpkin and squash seed kernels, dried"
+"Seeds, sesame, dried/roasted","Seeds, sesame seeds, whole, dried",12023,0.731,,
+"Seeds, sunflower, roasted","Oil, sunflower",100262,0.782,n,"Seeds, sunflower seed kernels, dry roasted, without salt"
+"Soursop, canned/cooked (soursop only)","Soup, bean with pork, canned, condensed",6004,0.338,n,
+"Soy meal, defatted","Soy flour, defatted",16117,0.804,,
+Soy sauce,Soy sauce made from soy (tamari),16124,0.595,,
+"Spices, allspice","Spices, celery seed",2007,0.48,n,
+"Spices, basil, dried","Spices, basil, dried",2003,1,,
+"Spices, caraway seed","Spices, caraway seed",2005,1,,
+"Spices, celery seed","Spices, celery seed",2007,1,,
+"Spices, chili powder","Spices, chili powder",2009,1,,
+"Spices, chives, dehydrated","Onions, dehydrated flakes",11284,0.561,n,
+"Spices, cinnamon","Spices, cinnamon, ground",2010,0.854,,
+"Spices, cloves","Spices, cloves, ground",2011,0.829,,
+"Spices, cloves, ground","Spices, cloves, ground",2011,1,,
+"Spices, coriander (cilantro) leaf, dried","Coriander (cilantro) leaves, raw",11165,0.874,n,"Spices, coriander leaf, dried"
+"Spices, coriander leaf, dried","Spices, coriander leaf, dried",2012,1,,
+"Spices, cumin","Spices, cumin seed",2014,0.907,,
+"Spices, curry powder","Spices, curry powder",2015,1,,
+"Spices, fennel seed","Spices, celery seed",2007,0.549,n,
+"Spices, garlic powder","Spices, garlic powder",2020,1,,
+"Spices, ginger","Spices, ginger, ground",2021,0.816,,
+"Spices, marjoram, dried","Spices, marjoram, dried",2023,1,,
+"Spices, mustard seed, ground","Spices, mustard seed, ground",2024,1,,
+"Spices, nutmeg","Spices, nutmeg, ground",2025,0.844,,
+"Spices, nutmeg, ground","Spices, nutmeg, ground",2025,1,,
+"Spices, onion powder","Spices, onion powder",2026,1,,
+"Spices, oregano, dried","Spices, oregano, dried",2027,1,,
+"Spices, paprika","Spices, paprika",2028,1,,
+"Spices, parsley, dried","Spices, parsley, dried",2029,1,,
+"Spices, pepper, black","Spices, pepper, black",2030,1,,
+"Spices, pepper, red/cayenne","Spices, pepper, red or cayenne",2031,0.929,,
+"Spices, pepper, white","Spices, pepper, black",2030,0.751,n,
+"Spices, poppy seed","Salad dressing, poppyseed, creamy",4704,0.518,n,
+"Spices, pumpkin pie spice","Spices, pumpkin pie spice",2035,1,,
+"Spices, sage","Spices, sage, ground",2038,0.75,,
+"Spices, thyme, dried","Spices, thyme, dried",2042,1,,
+"Spices, turmeric, ground","Spices, turmeric, ground",2043,1,,
+"Spinach, canned","Spinach, raw",11457,0.804,n,"Spinach, canned, regular pack, drained solids"
+"Spinach, canned/cooked","Spinach, raw",11457,0.658,n,"Spinach, cooked, boiled, drained, without salt"
+"Spinach, cooked","Spinach, raw",11457,0.814,n,"Spinach, cooked, boiled, drained, without salt"
+"Spinach, dehydrated","Onions, dehydrated flakes",11284,0.61,n,
+"Spinach, raw","Spinach, raw",11457,1,,
+Spirulina,"Seaweed, spirulina, dried",11667,0.767,,
+"Squash, summer, canned","Squash, summer, all varieties, raw",11641,0.726,n,"Squash, summer, all varieties, cooked, boiled, drained, without salt"
+"Squash, summer, canned/cooked","Squash, summer, all varieties, raw",11641,0.645,n,"Squash, summer, all varieties, cooked, boiled, drained, without salt"
+"Squash, summer, cooked","Squash, summer, all varieties, raw",11641,0.73,n,"Squash, summer, all varieties, cooked, boiled, drained, without salt"
+"Squash, summer, raw","Squash, summer, all varieties, raw",11641,0.808,n,"Squash, summer, all varieties, cooked, boiled, drained, without salt"
+"Squash, winter, cooked","Squash, winter, all varieties, raw",11643,0.727,n,"Squash, winter, all varieties, cooked, baked, without salt"
+"Squash, winter, raw","Squash, winter, all varieties, raw",11643,0.807,n,"Squash, winter, all varieties, cooked, baked, without salt"
+"Squirrel, lean and fat, cooked","Game meat, squirrel, cooked, roasted",17184,0.773,,
+"Starches, gums, nutrients, other additives, misc spices","Beverages, Mixed vegetable and fruit juice drink, with added nutrients",14119,0.376,n,
+"Strawberries, canned (strawberries only)","Strawberries, raw",9316,0.874,n,"Strawberries, canned, heavy syrup pack, solids and liquids"
+"Strawberries, canned/cooked (strawberries only)","Strawberries, raw",9316,0.751,n,"Strawberries, canned, heavy syrup pack, solids and liquids"
+"Strawberries, cooked","Strawberries, raw",9316,0.886,,
+"Strawberries, dried, unsweetened","Strawberries, frozen, unsweetened",9318,0.86,n,
+"Strawberries, raw/frozen","Strawberries, raw",9316,0.791,,
+Sugars,"Sugars, brown",19334,0.694,n,"Sugars, granulated"
+"Sweet potato leaves, cooked","Sweet potato leaves, cooked, steamed, without salt",11506,0.772,,
+"Sweet potatoes, canned","Sweet potato, canned, vacuum pack",11512,0.646,,
+"Sweet potatoes, canned/cooked","Sweet potato, cooked, boiled, without skin",11510,0.632,,
+"Sweet potatoes, cooked","Sweet potato, cooked, boiled, without skin",11510,0.731,,
+"Sweet potatoes, dehydrated","Potatoes, mashed, dehydrated, flakes without milk, dry form",11378,0.66,n,
+"Syrup, agave","Sweetener, syrup, agave",19912,0.805,,
+"Syrup, brown rice",Fruit syrup,19018,0.559,n,
+"Syrup, corn","Syrups, corn, dark",19349,0.83,n,"Syrups, corn, high-fructose"
+"Syrup, malt",Fruit syrup,19018,0.68,n,
+"Syrup, maple","Syrups, maple",19353,1,,
+"Syrup, sorghum","Syrups, sorghum",19355,1,,
+"Tamarind, cooked","Tamarinds, raw",9322,0.844,,
+"Tamarind, dried","Tamarinds, raw",9322,0.828,n,
+"Tamarind, raw","Tamarinds, raw",9322,1,,
+"Tangerine/clementine/calamondin/mandarin orange, canned/cooked (oranges only)","Tangerines, (mandarin oranges), canned, juice pack, drained",9383,0.675,,
+"Tangerine/clementine/calamondin/mandarin orange, raw","Tangerines, (mandarin oranges), raw",9218,0.708,,
+"Tangerine/clementine/mandarin orange, frozen/canned (oranges only)","Tangerines, (mandarin oranges), raw",9218,0.722,n,"Tangerines, (mandarin oranges), canned, juice pack, drained"
+"Tapioca, dried","Tapioca, pearl, dry",20068,0.719,,
+"Taro leaves, cooked","Taro leaves, raw",11520,0.805,,
+"Taro, cooked","Taro, raw",11518,0.673,n,"Taro, cooked, without salt"
+"Taro, dehydrated","Onions, dehydrated flakes",11284,0.677,n,
+"Tea, black, instant powder","Beverages, tea, instant, unsweetened, powder",14366,0.637,,
+"Tea, black, leaves","Beverages, tea, black, ready to drink",14247,0.497,n,"Beverages, tea, black, brewed, prepared with tap water"
+"Tea, green, instant powder","Beverages, tea, instant, unsweetened, powder",14366,0.692,n,
+"Tea, green, leaves","Lettuce, green leaf, raw",11253,0.652,n,"Beverages, tea, green, brewed, regular"
+"Tea, herbal, leaves/flowers/seeds","Seeds, sunflower seed kernels, dried",12036,0.319,n,"Beverages, tea, herb, other than chamomile, brewed"
+"Tea, oolong, leaves","Beverages, tea, Oolong, brewed",14185,0.565,,
+Tofu,"Tofu, fried",16129,0.823,n,"Tofu, soft, prepared with calcium sulfate and magnesium chloride (nigari)"
+"Tomatillos, cooked","Tomatillos, raw",11954,0.864,,
+Tomato paste,"Tomato, roma",100261,0.732,n,"Tomato products, canned, paste, without salt added"
+"Tomato puree, canned","Tomato products, canned, puree, with salt added",11888,0.72,,
+"Tomato puree, canned/cooked","Tomato products, canned, puree, with salt added",11888,0.647,,
+"Tomato puree, cooked","Tomatoes, red, ripe, cooked",11530,0.689,n,"Tomato products, canned, puree, with salt added"
+"Tomato sauce, canned","Tomato products, canned, sauce",11549,0.801,,
+"Tomato sauce, canned/cooked","Tomato products, canned, sauce",11549,0.707,,
+"Tomatoes, canned","Tomato, roma",100261,0.757,n,"Tomatoes, red, ripe, canned, stewed"
+"Tomatoes, canned/cooked","Tomatoes, red, ripe, cooked",11530,0.661,n,"Tomatoes, red, ripe, canned, stewed"
+"Tomatoes, cooked","Tomatoes, red, ripe, cooked",11530,0.801,n,"Tomatoes, red, ripe, canned, stewed"
+"Tomatoes, dehydrated","Onions, dehydrated flakes",11284,0.626,n,"Tomatoes, sun-dried"
+"Tomatoes, dried","Tomatoes, sun-dried",11955,0.876,,
+"Tomatoes, raw","Tomato, roma",100261,0.841,n,"Tomatoes, red, ripe, raw, year round average"
+"Triticale grain, uncooked (consumed cooked/heat-treated)","Duck, domesticated, meat only, cooked, roasted",5142,0.437,n,
+"Turkey, lean and fat, canned","Fat, turkey",4575,0.773,n,"Turkey, whole, meat and skin, cooked, roasted"
+"Turkey, lean and fat, canned/cooked","Fat, turkey",4575,0.664,n,"Turkey, whole, meat and skin, cooked, roasted"
+"Turkey, lean and fat, cooked","Fat, turkey",4575,0.82,n,"Turkey, whole, meat and skin, cooked, roasted"
+"Turkey, variety meat, giblets (incl liver/gizzard), cooked","Turkey, whole, giblets, cooked, simmered",5172,0.532,,
+"Turnip greens, canned","Turnip greens, canned, no salt added",43387,0.852,,
+"Turnip greens, canned/cooked","Turnip greens, canned, no salt added",43387,0.762,,
+"Turnip greens, cooked","Turnip greens, canned, no salt added",43387,0.723,,
+"Turnips, canned","Turnips, raw",11564,0.82,n,"Turnips, cooked, boiled, drained, without salt"
+"Turnips, canned/cooked","Turnips, raw",11564,0.677,n,"Turnips, cooked, boiled, drained, without salt"
+"Turnips, cooked","Turnips, raw",11564,0.832,n,"Turnips, cooked, boiled, drained, without salt"
+"Turnips, raw","Turnips, raw",11564,1,,
+"Turtle, cooked","Turtle, green, raw",93600,0.701,,
+"Veal, lean and fat, cooked","Veal, loin, separable lean and fat, cooked, roasted",17106,0.677,,
+"Veal, variety meat, thymus, cooked","Veal, variety meats and by-products, thymus, cooked, braised",17219,0.817,,
+Vinegar,"Vinegar, cider",2048,0.803,,
+Wasabi powder,Wasabi,27064,0.814,n,
+"Water, bottled","Water, bottled, generic",14555,0.827,,
+"Water, bottled (amount based on powder)","Water, bottled, generic",14555,0.546,,
+"Water, tap","Water, tap, drinking",14411,0.611,,
+"Water, tap (amount based on powder)","Beverages, Protein powder soy based",14067,0.468,n,"Water, tap, drinking"
+"Waterchestnuts, canned/cooked","Waterchestnuts, chinese, (matai), raw",11588,0.728,n,"Waterchestnuts, chinese, canned, solids and liquids"
+"Watercress, cooked","Watercress, raw",11591,0.875,,
+"Watercress, raw","Watercress, raw",11591,1,,
+"Watermelon, raw","Watermelon, raw",9326,1,,
+"Wax gourd/winter melon, cooked","Waxgourd, (chinese preserving melon), cooked, boiled, drained, without salt",11594,0.521,,
+"Wheat endosperm, uncooked (consumed cooked/heat-treated)","Pasta, whole-wheat, cooked",20125,0.449,n,"Cereals, CREAM OF WHEAT, instant, dry"
+"Wheat grain, uncooked (consumed cooked/heat-treated)","Pasta, whole-wheat, cooked",20125,0.497,n,"Wheat flour, whole-grain (Includes foods for USDA's Food Distribution Program)"
+"Wheat, sprouted, uncooked","Bread, wheat, sprouted",28316,0.75,n,
+"Whey, dried","Whey, sweet, dried",1115,0.817,,
+"Whey, fluid","Cream, fluid, half and half",1049,0.482,n,
+"Wild rice, uncooked (consumed cooked/heat-treated)","Wild rice, cooked",20089,0.643,n,"Wild rice, raw"
+"Wine, sweet, NS as to red/white","Corn, sweet, white, cooked, boiled, drained, without salt",11901,0.503,n,"Alcoholic beverage, wine, dessert, sweet"
+"Wine, table, NS as to red/white","Alcoholic beverage, wine, table, white",14106,0.513,n,"Alcoholic beverage, wine, table, red"
+"Wine, table, red","Alcoholic beverage, wine, table, red",14096,0.564,,
+"Wine, table, rose","Alcoholic beverages, Wine, rose",14253,0.485,,
+"Wine, table, white","Alcoholic beverage, wine, table, white",14106,0.64,,
+"Yam, cooked","Yam, cooked, boiled, drained, or baked, without salt",11602,0.554,,
+"Yambean (jicama), raw","Yambean (jicama), raw",11603,1,,
+Yeast extract,Yeast extract spread,43406,0.903,,

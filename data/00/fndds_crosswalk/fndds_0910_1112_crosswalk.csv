@@ -1,0 +1,714 @@
+DRXFDCD,foodcode,food_description,CYCLE
+11623000,95110000,"Slim Fast Shake, meal replacement, regular, ready-to-drink",11_12
+11623000,95120000,"Nutritional drink or meal replacement, ready-to-drink, NFS",11_12
+11830970,95210020,"Slim Fast Shake Mix, high protein, powder",11_12
+11830970,95220010,"Nutritional drink mix or meal replacement, high protein, powder, NFS",11_12
+14010100,14104100,"Cheese, Cheddar",11_12
+14104010,14104100,"Cheese, Cheddar",11_12
+14410200,14104100,"Cheese, Cheddar",11_12
+14010100,14410110,"Cheese, American",11_12
+14104010,14410110,"Cheese, American",11_12
+14410200,14410110,"Cheese, American",11_12
+14104015,14104110,"Cheese, Cheddar, reduced fat",11_12
+14410300,14104110,"Cheese, Cheddar, reduced fat",11_12
+14104015,14410120,"Cheese, American, reduced fat",11_12
+14410300,14410120,"Cheese, American, reduced fat",11_12
+14410350,14104115,"Cheese, Cheddar, nonfat or fat free",11_12
+14410350,14410130,"Cheese, American, nonfat or fat free",11_12
+26100150,26100140,"Fish, NS as to type, coated, fried, made with oil",11_12
+26100150,26100141,"Fish, NS as to type, coated, fried, made with butter",11_12
+26100150,26100142,"Fish, NS as to type, coated, fried, made with margarine",11_12
+26100150,26100143,"Fish, NS as to type, coated, fried, made without fat",11_12
+26100150,26100144,"Fish, NS as to type, coated, fried, made with cooking spray",11_12
+26100210,26100260,"Fish stick, patty or nugget from fast food",11_12
+26100220,26100260,"Fish stick, patty or nugget from fast food",11_12
+26100230,26100260,"Fish stick, patty or nugget from fast food",11_12
+26100240,26100260,"Fish stick, patty or nugget from fast food",11_12
+26100250,26100260,"Fish stick, patty or nugget from fast food",11_12
+26100210,26100270,"Fish stick, patty or nugget from restaurant, home, or other place",11_12
+26100220,26100270,"Fish stick, patty or nugget from restaurant, home, or other place",11_12
+26100230,26100270,"Fish stick, patty or nugget from restaurant, home, or other place",11_12
+26100240,26100270,"Fish stick, patty or nugget from restaurant, home, or other place",11_12
+26100250,26100270,"Fish stick, patty or nugget from restaurant, home, or other place",11_12
+26107150,26107140,"Catfish, coated, fried, made with oil",11_12
+26107150,26107141,"Catfish, coated, fried, made with butter",11_12
+26109150,26107141,"Catfish, coated, fried, made with butter",11_12
+26107150,26107142,"Catfish, coated, fried, made with margarine",11_12
+26107150,26107143,"Catfish, coated, fried, made without fat",11_12
+26107150,26107144,"Catfish, coated, fried, made with cooking spray",11_12
+26109150,26109140,"Cod, coated, fried, made with oil",11_12
+26109150,26109142,"Cod, coated, fried, made with margarine",11_12
+26109150,26109143,"Cod, coated, fried, made without fat",11_12
+26109150,26109144,"Cod, coated, fried, made with cooking spray",11_12
+26115150,26115140,"Flounder, coated, fried, made with oil",11_12
+26115150,26115141,"Flounder, coated, fried, made with butter",11_12
+26115150,26115142,"Flounder, coated, fried, made with margarine",11_12
+26115150,26115143,"Flounder, coated, fried, made without fat",11_12
+26115150,26115144,"Flounder, coated, fried, made with cooking spray",11_12
+26127150,26127140,"Perch, coated, fried, made with oil",11_12
+26127150,26127141,"Perch, coated, fried, made with butter",11_12
+26127150,26127142,"Perch, coated, fried, made with margarine",11_12
+26127150,26127143,"Perch, coated, fried, made without fat",11_12
+26127150,26127144,"Perch, coated, fried, made with cooking spray",11_12
+26137150,26137140,"Salmon, coated, fried, made with oil",11_12
+26137150,26137141,"Salmon, coated, fried, made with butter",11_12
+26137150,26137142,"Salmon, coated, fried, made with margarine",11_12
+26137150,26137143,"Salmon, coated, fried, made without fat",11_12
+26137150,26137144,"Salmon, coated, fried, made with cooking spray",11_12
+26151150,26151140,"Trout, coated, fried, made with oil",11_12
+26151150,26151141,"Trout, coated, fried, made with butter",11_12
+26151150,26151142,"Trout, coated, fried, made with margarine",11_12
+26151150,26151143,"Trout, coated, fried, made without fat",11_12
+26151150,26151144,"Trout, coated, fried, made with cooking spray",11_12
+26157150,26157140,"Whiting, coated, fried, made with oil",11_12
+26157150,26157141,"Whiting, coated, fried, made with butter",11_12
+26157150,26157142,"Whiting, coated, fried, made with margarine",11_12
+26157150,26157143,"Whiting, coated, fried, made without fat",11_12
+26157150,26157144,"Whiting, coated, fried, made with cooking spray",11_12
+26158040,26158030,"Tilapia, coated, fried, made with oil",11_12
+26158040,26158031,"Tilapia, coated, fried, made with butter",11_12
+26158040,26158032,"Tilapia, coated, fried, made with margarine",11_12
+26158040,26158033,"Tilapia, coated, fried, made without fat",11_12
+26158040,26158034,"Tilapia, coated, fried, made with cooking spray",11_12
+31105000,31105010,"Egg, whole, fried without fat",11_12
+31105000,31105020,"Egg, whole, fried with margarine",11_12
+31105000,31105030,"Egg, whole, fried with oil",11_12
+31105000,31105040,"Egg, whole, fried with butter",11_12
+31105000,31105060,"Egg, whole, fried with animal fat or meat drippings",11_12
+31105000,31105080,"Egg, whole, fried with cooking spray",11_12
+31105000,31105090,"Egg, whole, fried, from fast food / restaurant",11_12
+31109020,32400060,"Egg white omelet, scrambled, or fried, made with margarine",11_12
+32400012,32400060,"Egg white omelet, scrambled, or fried, made with margarine",11_12
+31109020,32400065,"Egg white omelet, scrambled, or fried, made with oil",11_12
+32400012,32400065,"Egg white omelet, scrambled, or fried, made with oil",11_12
+31109020,32400070,"Egg white omelet, scrambled, or fried, made with butter",11_12
+32400012,32400070,"Egg white omelet, scrambled, or fried, made with butter",11_12
+31109020,32400075,"Egg white omelet, scrambled, or fried, made with cooking spray",11_12
+32400012,32400075,"Egg white omelet, scrambled, or fried, made with cooking spray",11_12
+32105000,32130000,"Egg omelet or scrambled egg, made with margarine",11_12
+32105000,32130010,"Egg omelet or scrambled egg, made with oil",11_12
+32105000,32130020,"Egg omelet or scrambled egg, made with butter",11_12
+32105000,32130040,"Egg omelet or scrambled egg, made with animal fat or meat drippings",11_12
+32105000,32130060,"Egg omelet or scrambled egg, made with cooking spray",11_12
+32105000,32130080,"Egg omelet or scrambled egg, from fast food / restaurant",11_12
+32105010,32130100,"Egg omelet or scrambled egg, with cheese, made with margarine",11_12
+32105010,32130110,"Egg omelet or scrambled egg, with cheese, made with oil",11_12
+32105010,32130120,"Egg omelet or scrambled egg, with cheese, made with butter",11_12
+32105010,32130140,"Egg omelet or scrambled egg, with cheese, made with animal fat or meat drippings",11_12
+32105010,32130160,"Egg omelet or scrambled egg, with cheese, made with cooking spray",11_12
+32105010,32130170,"Egg omelet or scrambled egg, with cheese, made without fat",11_12
+32105013,32130200,"Egg omelet or scrambled egg, with meat, made with margarine",11_12
+32105020,32130200,"Egg omelet or scrambled egg, with meat, made with margarine",11_12
+32105030,32130200,"Egg omelet or scrambled egg, with meat, made with margarine",11_12
+32105110,32130200,"Egg omelet or scrambled egg, with meat, made with margarine",11_12
+32105122,32130200,"Egg omelet or scrambled egg, with meat, made with margarine",11_12
+32105125,32130200,"Egg omelet or scrambled egg, with meat, made with margarine",11_12
+32105160,32130200,"Egg omelet or scrambled egg, with meat, made with margarine",11_12
+32105170,32130200,"Egg omelet or scrambled egg, with meat, made with margarine",11_12
+32105013,32130210,"Egg omelet or scrambled egg, with meat, made with oil",11_12
+32105020,32130210,"Egg omelet or scrambled egg, with meat, made with oil",11_12
+32105030,32130210,"Egg omelet or scrambled egg, with meat, made with oil",11_12
+32105110,32130210,"Egg omelet or scrambled egg, with meat, made with oil",11_12
+32105122,32130210,"Egg omelet or scrambled egg, with meat, made with oil",11_12
+32105125,32130210,"Egg omelet or scrambled egg, with meat, made with oil",11_12
+32105160,32130210,"Egg omelet or scrambled egg, with meat, made with oil",11_12
+32105170,32130210,"Egg omelet or scrambled egg, with meat, made with oil",11_12
+32105013,32130220,"Egg omelet or scrambled egg, with meat, made with butter",11_12
+32105020,32130220,"Egg omelet or scrambled egg, with meat, made with butter",11_12
+32105030,32130220,"Egg omelet or scrambled egg, with meat, made with butter",11_12
+32105110,32130220,"Egg omelet or scrambled egg, with meat, made with butter",11_12
+32105122,32130220,"Egg omelet or scrambled egg, with meat, made with butter",11_12
+32105125,32130220,"Egg omelet or scrambled egg, with meat, made with butter",11_12
+32105160,32130220,"Egg omelet or scrambled egg, with meat, made with butter",11_12
+32105170,32130220,"Egg omelet or scrambled egg, with meat, made with butter",11_12
+32105013,32130240,"Egg omelet or scrambled egg, with meat, made with animal fat or meat drippings",11_12
+32105020,32130240,"Egg omelet or scrambled egg, with meat, made with animal fat or meat drippings",11_12
+32105030,32130240,"Egg omelet or scrambled egg, with meat, made with animal fat or meat drippings",11_12
+32105110,32130240,"Egg omelet or scrambled egg, with meat, made with animal fat or meat drippings",11_12
+32105122,32130240,"Egg omelet or scrambled egg, with meat, made with animal fat or meat drippings",11_12
+32105125,32130240,"Egg omelet or scrambled egg, with meat, made with animal fat or meat drippings",11_12
+32105160,32130240,"Egg omelet or scrambled egg, with meat, made with animal fat or meat drippings",11_12
+32105170,32130240,"Egg omelet or scrambled egg, with meat, made with animal fat or meat drippings",11_12
+32105013,32130260,"Egg omelet or scrambled egg, with meat, made with cooking spray",11_12
+32105020,32130260,"Egg omelet or scrambled egg, with meat, made with cooking spray",11_12
+32105030,32130260,"Egg omelet or scrambled egg, with meat, made with cooking spray",11_12
+32105110,32130260,"Egg omelet or scrambled egg, with meat, made with cooking spray",11_12
+32105122,32130260,"Egg omelet or scrambled egg, with meat, made with cooking spray",11_12
+32105125,32130260,"Egg omelet or scrambled egg, with meat, made with cooking spray",11_12
+32105160,32130260,"Egg omelet or scrambled egg, with meat, made with cooking spray",11_12
+32105170,32130260,"Egg omelet or scrambled egg, with meat, made with cooking spray",11_12
+32105013,32130270,"Egg omelet or scrambled egg, with meat, made without fat",11_12
+32105020,32130270,"Egg omelet or scrambled egg, with meat, made without fat",11_12
+32105030,32130270,"Egg omelet or scrambled egg, with meat, made without fat",11_12
+32105110,32130270,"Egg omelet or scrambled egg, with meat, made without fat",11_12
+32105122,32130270,"Egg omelet or scrambled egg, with meat, made without fat",11_12
+32105125,32130270,"Egg omelet or scrambled egg, with meat, made without fat",11_12
+32105160,32130270,"Egg omelet or scrambled egg, with meat, made without fat",11_12
+32105170,32130270,"Egg omelet or scrambled egg, with meat, made without fat",11_12
+32105040,32130430,"Egg omelet or scrambled egg, with dark-green vegetables, fat added in cooking",11_12
+32105040,32130440,"Egg omelet or scrambled egg, with dark-green vegetables, fat not added in cooking",11_12
+32105040,32130450,"Egg omelet or scrambled egg, with dark-green vegetables, NS as to fat added in cooking",11_12
+32105045,32130630,"Egg omelet or scrambled egg, with cheese and dark-green vegetables, fat added in cooking",11_12
+32105045,32130640,"Egg omelet or scrambled egg, with cheese and dark-green vegetables, fat not added in cooking",11_12
+32105045,32130650,"Egg omelet or scrambled egg, with cheese and dark-green vegetables, NS as to fat added in cooking",11_12
+32105048,32130490,"Egg omelet or scrambled egg, with vegetables other than dark green and/or tomatoes, fat added in cooking",11_12
+32105050,32130490,"Egg omelet or scrambled egg, with vegetables other than dark green and/or tomatoes, fat added in cooking",11_12
+32105048,32130500,"Egg omelet or scrambled egg, with vegetables other than dark green and/or tomatoes, fat not added in cooking",11_12
+32105050,32130500,"Egg omelet or scrambled egg, with vegetables other than dark green and/or tomatoes, fat not added in cooking",11_12
+32105048,32130510,"Egg omelet or scrambled egg, with vegetables other than dark green and/or tomatoes, NS as to fat added in cooking",11_12
+32105050,32130510,"Egg omelet or scrambled egg, with vegetables other than dark green and/or tomatoes, NS as to fat added in cooking",11_12
+32105049,32130690,"Egg omelet or scrambled egg, with cheese and vegetables other than dark green and/or tomatoes, fat added in cooking",11_12
+32105055,32130690,"Egg omelet or scrambled egg, with cheese and vegetables other than dark green and/or tomatoes, fat added in cooking",11_12
+32105049,32130700,"Egg omelet or scrambled egg, with cheese and vegetables other than dark green and/or tomatoes, fat not added in cooking",11_12
+32105055,32130700,"Egg omelet or scrambled egg, with cheese and vegetables other than dark green and/or tomatoes, fat not added in cooking",11_12
+32105049,32130710,"Egg omelet or scrambled egg, with cheese and vegetables other than dark green and/or tomatoes, NS as to fat added in cooking",11_12
+32105055,32130710,"Egg omelet or scrambled egg, with cheese and vegetables other than dark green and/or tomatoes, NS as to fat added in cooking",11_12
+32105059,32130830,"Egg omelet or scrambled egg, with meat and dark-green vegetables, fat added in cooking",11_12
+32105116,32130830,"Egg omelet or scrambled egg, with meat and dark-green vegetables, fat added in cooking",11_12
+32105059,32130840,"Egg omelet or scrambled egg, with meat and dark-green vegetables, fat not added in cooking",11_12
+32105116,32130840,"Egg omelet or scrambled egg, with meat and dark-green vegetables, fat not added in cooking",11_12
+32105059,32130850,"Egg omelet or scrambled egg, with meat and dark-green vegetables, NS as to fat added in cooking",11_12
+32105116,32130850,"Egg omelet or scrambled egg, with meat and dark-green vegetables, NS as to fat added in cooking",11_12
+32105060,32130890,"Egg omelet or scrambled egg, with meat and vegetables other than dark-green and/or tomatoes, fat added in cooking",11_12
+32105118,32130890,"Egg omelet or scrambled egg, with meat and vegetables other than dark-green and/or tomatoes, fat added in cooking",11_12
+32105120,32130890,"Egg omelet or scrambled egg, with meat and vegetables other than dark-green and/or tomatoes, fat added in cooking",11_12
+32105060,32130900,"Egg omelet or scrambled egg, with meat and vegetables other than dark-green and/or tomatoes, fat not added in cooking",11_12
+32105118,32130900,"Egg omelet or scrambled egg, with meat and vegetables other than dark-green and/or tomatoes, fat not added in cooking",11_12
+32105120,32130900,"Egg omelet or scrambled egg, with meat and vegetables other than dark-green and/or tomatoes, fat not added in cooking",11_12
+32105060,32130910,"Egg omelet or scrambled egg, with meat and vegetables other than dark-green and/or tomatoes, NS as to fat added in cooking",11_12
+32105118,32130910,"Egg omelet or scrambled egg, with meat and vegetables other than dark-green and/or tomatoes, NS as to fat added in cooking",11_12
+32105120,32130910,"Egg omelet or scrambled egg, with meat and vegetables other than dark-green and/or tomatoes, NS as to fat added in cooking",11_12
+32105080,32130300,"Egg omelet or scrambled egg, with cheese and meat, made with margarine",11_12
+32105121,32130300,"Egg omelet or scrambled egg, with cheese and meat, made with margarine",11_12
+32105126,32130300,"Egg omelet or scrambled egg, with cheese and meat, made with margarine",11_12
+32105161,32130300,"Egg omelet or scrambled egg, with cheese and meat, made with margarine",11_12
+32105080,32130310,"Egg omelet or scrambled egg, with cheese and meat, made with oil",11_12
+32105121,32130310,"Egg omelet or scrambled egg, with cheese and meat, made with oil",11_12
+32105126,32130310,"Egg omelet or scrambled egg, with cheese and meat, made with oil",11_12
+32105161,32130310,"Egg omelet or scrambled egg, with cheese and meat, made with oil",11_12
+32105080,32130320,"Egg omelet or scrambled egg, with cheese and meat, made with butter",11_12
+32105121,32130320,"Egg omelet or scrambled egg, with cheese and meat, made with butter",11_12
+32105126,32130320,"Egg omelet or scrambled egg, with cheese and meat, made with butter",11_12
+32105161,32130320,"Egg omelet or scrambled egg, with cheese and meat, made with butter",11_12
+32105080,32130340,"Egg omelet or scrambled egg, with cheese and meat, made with animal fat or meat drippings",11_12
+32105121,32130340,"Egg omelet or scrambled egg, with cheese and meat, made with animal fat or meat drippings",11_12
+32105126,32130340,"Egg omelet or scrambled egg, with cheese and meat, made with animal fat or meat drippings",11_12
+32105161,32130340,"Egg omelet or scrambled egg, with cheese and meat, made with animal fat or meat drippings",11_12
+32105080,32130360,"Egg omelet or scrambled egg, with cheese and meat, made with cooking spray",11_12
+32105121,32130360,"Egg omelet or scrambled egg, with cheese and meat, made with cooking spray",11_12
+32105126,32130360,"Egg omelet or scrambled egg, with cheese and meat, made with cooking spray",11_12
+32105161,32130360,"Egg omelet or scrambled egg, with cheese and meat, made with cooking spray",11_12
+32105080,32130370,"Egg omelet or scrambled egg, with cheese and meat, made without fat",11_12
+32105121,32130370,"Egg omelet or scrambled egg, with cheese and meat, made without fat",11_12
+32105126,32130370,"Egg omelet or scrambled egg, with cheese and meat, made without fat",11_12
+32105161,32130370,"Egg omelet or scrambled egg, with cheese and meat, made without fat",11_12
+32105081,32131030,"Egg omelet or scrambled egg, with cheese, meat, and dark-green vegetables, fat added in cooking",11_12
+32105117,32131030,"Egg omelet or scrambled egg, with cheese, meat, and dark-green vegetables, fat added in cooking",11_12
+32105081,32131040,"Egg omelet or scrambled egg, with cheese, meat, and dark-green vegetables, fat not added in cooking",11_12
+32105117,32131040,"Egg omelet or scrambled egg, with cheese, meat, and dark-green vegetables, fat not added in cooking",11_12
+32105081,32131050,"Egg omelet or scrambled egg, with cheese, meat, and dark-green vegetables, NS as to fat added in cooking",11_12
+32105117,32131050,"Egg omelet or scrambled egg, with cheese, meat, and dark-green vegetables, NS as to fat added in cooking",11_12
+32105082,32131090,"Egg omelet or scrambled egg, with cheese, meat, and vegetables other than dark-green and/or tomatoes, fat added in cooking",11_12
+32105119,32131090,"Egg omelet or scrambled egg, with cheese, meat, and vegetables other than dark-green and/or tomatoes, fat added in cooking",11_12
+32105123,32131090,"Egg omelet or scrambled egg, with cheese, meat, and vegetables other than dark-green and/or tomatoes, fat added in cooking",11_12
+32105082,32131100,"Egg omelet or scrambled egg, with cheese, meat, and vegetables other than dark-green and/or tomatoes, fat not added in cooking",11_12
+32105119,32131100,"Egg omelet or scrambled egg, with cheese, meat, and vegetables other than dark-green and/or tomatoes, fat not added in cooking",11_12
+32105123,32131100,"Egg omelet or scrambled egg, with cheese, meat, and vegetables other than dark-green and/or tomatoes, fat not added in cooking",11_12
+32105082,32131110,"Egg omelet or scrambled egg, with cheese, meat, and vegetables other than dark-green and/or tomatoes, NS as to fat added in cooking",11_12
+32105119,32131110,"Egg omelet or scrambled egg, with cheese, meat, and vegetables other than dark-green and/or tomatoes, NS as to fat added in cooking",11_12
+32105123,32131110,"Egg omelet or scrambled egg, with cheese, meat, and vegetables other than dark-green and/or tomatoes, NS as to fat added in cooking",11_12
+32105085,32131000,"Egg omelet or scrambled egg, with cheese, meat, and tomatoes, fat added in cooking",11_12
+32105085,32131010,"Egg omelet or scrambled egg, with cheese, meat, and tomatoes, fat not added in cooking",11_12
+32105085,32131020,"Egg omelet or scrambled egg, with cheese, meat, and tomatoes, NS as to fat added in cooking",11_12
+32105100,32131200,"Egg omelet or scrambled egg, with potatoes and/or onions, fat added in cooking",11_12
+32105100,32131210,"Egg omelet or scrambled egg, with potatoes and/or onions, fat not added in cooking",11_12
+32105100,32131220,"Egg omelet or scrambled egg, with potatoes and/or onions, NS as to fat added in cooking",11_12
+32105130,32130400,"Egg omelet or scrambled egg, with tomatoes, fat added in cooking",11_12
+32105130,32130410,"Egg omelet or scrambled egg, with tomatoes, fat not added in cooking",11_12
+32105130,32130420,"Egg omelet or scrambled egg, with tomatoes, NS as to fat added in cooking",11_12
+32400050,32400100,"Egg white, omelet, scrambled, or fried, with cheese, fat added in cooking",11_12
+32400050,32400110,"Egg white, omelet, scrambled, or fried, with cheese, fat not added in cooking",11_12
+32400050,32400120,"Egg white, omelet, scrambled, or fried, with cheese, NS as to fat added in cooking",11_12
+33201010,33001000,"Egg substitute, omelet, scrambled, or fried, made with margarine",11_12
+33201010,33001010,"Egg substitute, omelet, scrambled, or fried, made with oil",11_12
+33201010,33001020,"Egg substitute, omelet, scrambled, or fried, made with butter",11_12
+33201010,33001040,"Egg substitute, omelet, scrambled, or fried, made with cooking spray",11_12
+33201010,33001050,"Egg substitute, omelet, scrambled, or fried, made without fat",11_12
+33201110,33001100,"Egg substitute, cheese flavored, omelet, scrambled, or fried, fat added in cooking",11_12
+33201110,33001110,"Egg substitute, cheese flavored, omelet, scrambled, or fried, fat not added in cooking",11_12
+33201110,33001120,"Egg substitute, cheese flavored, omelet, scrambled, or fried, NS as to fat added in cooking",11_12
+33201500,33001200,"Egg substitute, vegetable flavored, omelet, scrambled, or fried, fat added in cooking",11_12
+33201500,33001210,"Egg substitute, vegetable flavored, omelet, scrambled, or fried, fat not added in cooking",11_12
+33201500,33001220,"Egg substitute, vegetable flavored, omelet, scrambled, or fried, NS as to fat added in cooking",11_12
+53109000,53120270,"Cake or cupcake, white, with icing or filling",11_12
+53109000,53115200,"Cake or cupcake, marble, with icing or filling",11_12
+53109100,53120275,"Cake or cupcake, white, without icing or filling",11_12
+53109100,53115100,"Cake or cupcake, marble, without icing or filling",11_12
+53209000,53209005,"Cookie, chocolate, with icing or coating",11_12
+53209000,53209010,"Cookie, sugar wafer, chocolate-covered",11_12
+53209000,53209015,"Cookie, chocolate sandwich",11_12
+53209000,53244010,"Cookie, butter or sugar, with chocolate icing or filling",11_12
+53243100,53207000,"Cookie, chocolate or fudge",11_12
+53243100,53243000,"Cookie, vanilla sandwich",11_12
+56205420,56205002,"Rice, white, cooked, fat added in cooking, made with oil",11_12
+56205430,56205002,"Rice, white, cooked, fat added in cooking, made with oil",11_12
+56205440,56205002,"Rice, white, cooked, fat added in cooking, made with oil",11_12
+56205420,56205004,"Rice, white, cooked, fat added in cooking, made with butter",11_12
+56205430,56205004,"Rice, white, cooked, fat added in cooking, made with butter",11_12
+56205440,56205004,"Rice, white, cooked, fat added in cooking, made with butter",11_12
+56205420,56205006,"Rice, white, cooked, fat added in cooking, made with margarine",11_12
+56205430,56205006,"Rice, white, cooked, fat added in cooking, made with margarine",11_12
+56205440,56205006,"Rice, white, cooked, fat added in cooking, made with margarine",11_12
+56205510,56205012,"Rice, brown, cooked, fat added in cooking, made with oil",11_12
+56205550,56205012,"Rice, brown, cooked, fat added in cooking, made with oil",11_12
+56205510,56205014,"Rice, brown, cooked, fat added in cooking, made with butter",11_12
+56205550,56205014,"Rice, brown, cooked, fat added in cooking, made with butter",11_12
+56205510,56205016,"Rice, brown, cooked, fat added in cooking, made with margarine",11_12
+56205550,56205016,"Rice, brown, cooked, fat added in cooking, made with margarine",11_12
+58100110,58100120,Burrito with meat and beans,11_12
+58100180,58100120,Burrito with meat and beans,11_12
+58100110,58100125,"Burrito with meat and beans, from fast food",11_12
+58100180,58100125,"Burrito with meat and beans, from fast food",11_12
+58100310,58100320,"Burrito with beans, meatless",11_12
+58100310,58100325,"Burrito with beans, meatless, from fast food",11_12
+58100340,58100013,"Burrito, taco, or quesadilla with egg and breakfast meat, from fast food",11_12
+58100340,58100015,"Burrito, taco, or quesadilla with egg, potato, and breakfast meat",11_12
+58100340,58100017,"Burrito, taco, or quesadilla with egg, potato, and breakfast meat, from fast food",11_12
+58100400,58100530,"Enchilada with meat, red-chile or enchilada sauce",11_12
+58100560,58100530,"Enchilada with meat, red-chile or enchilada sauce",11_12
+58100400,58100535,"Enchilada with meat, green-chile or enchilada sauce",11_12
+58100560,58100535,"Enchilada with meat, green-chile or enchilada sauce",11_12
+58100510,58100520,"Enchilada with meat and beans, red-chile or enchilada sauce",11_12
+58100510,58100525,"Enchilada with meat and beans, green-chile or enchilada sauce",11_12
+58100710,58100720,"Enchilada with beans, meatless, red-chile or enchilada sauce",11_12
+58100710,58100725,"Enchilada with beans, green-chile or enchilada sauce",11_12
+58101300,58101320,Taco or tostada with meat,11_12
+58101300,58101323,"Taco or tostada with meat, from fast food",11_12
+58101400,58101345,Soft taco with meat,11_12
+58101530,58101345,Soft taco with meat,11_12
+58101400,58101347,"Soft taco with meat, from fast food",11_12
+58101530,58101347,"Soft taco with meat, from fast food",11_12
+58101530,58104290,"Gordita, sope, or chalupa with meat",11_12
+58106410,58106500,"Pizza with meat, prepared from frozen, thin crust",11_12
+58106411,58106500,"Pizza with meat, prepared from frozen, thin crust",11_12
+58106412,58106500,"Pizza with meat, prepared from frozen, thin crust",11_12
+58106900,58106500,"Pizza with meat, prepared from frozen, thin crust",11_12
+58106910,58106500,"Pizza with meat, prepared from frozen, thin crust",11_12
+58106915,58106500,"Pizza with meat, prepared from frozen, thin crust",11_12
+58106410,58106635,"Pizza, with meat other than pepperoni, from school lunch, thin crust",11_12
+58106411,58106635,"Pizza, with meat other than pepperoni, from school lunch, thin crust",11_12
+58106412,58106635,"Pizza, with meat other than pepperoni, from school lunch, thin crust",11_12
+58106900,58106635,"Pizza, with meat other than pepperoni, from school lunch, thin crust",11_12
+58106910,58106635,"Pizza, with meat other than pepperoni, from school lunch, thin crust",11_12
+58106915,58106635,"Pizza, with meat other than pepperoni, from school lunch, thin crust",11_12
+58106411,58106620,"Pizza with meat other than pepperoni, from restaurant or fast food, thin crust",11_12
+58106910,58106620,"Pizza with meat other than pepperoni, from restaurant or fast food, thin crust",11_12
+58106412,58106625,"Pizza with meat other than pepperoni, from restaurant or fast food, regular crust",11_12
+58106915,58106625,"Pizza with meat other than pepperoni, from restaurant or fast food, regular crust",11_12
+58106413,58106505,"Pizza with meat, prepared from frozen, thick crust",11_12
+58106920,58106505,"Pizza with meat, prepared from frozen, thick crust",11_12
+58106413,58106630,"Pizza with meat other than pepperoni, from restaurant or fast food, thick crust",11_12
+58106920,58106630,"Pizza with meat other than pepperoni, from restaurant or fast food, thick crust",11_12
+58106413,58106636,"Pizza, with meat other than pepperoni, from school lunch, thick crust",11_12
+58106920,58106636,"Pizza, with meat other than pepperoni, from school lunch, thick crust",11_12
+58106441,58106700,"Pizza with meat and vegetables, prepared from frozen, thin crust",11_12
+58106442,58106700,"Pizza with meat and vegetables, prepared from frozen, thin crust",11_12
+58106441,58106720,"Pizza with meat and vegetables, thin crust",11_12
+58106442,58106725,"Pizza with meat and vegetables, regular crust",11_12
+58106443,58106705,"Pizza with meat and vegetables, prepared from frozen, thick crust",11_12
+58106443,58106730,"Pizza with meat and vegetables, thick crust",11_12
+58145114,58145112,"Macaroni or noodles with cheese, made from packaged mix",11_12
+58145114,58145117,"Macaroni or noodles with cheese, Easy Mac type",11_12
+58145130,58145135,Macaroni or noodles with cheese and meat,11_12
+58145130,58145136,"Macaroni or noodles with cheese and meat, prepared from Hamburger Helper mix",11_12
+58160200,58160550,"Rice, white, with dark green vegetables, NS as to fat added in cooking",11_12
+58160200,58160610,"Rice, white, with dark green vegetables and tomatoes (and/or tomato-based sauce), NS as to fat added in cooking",11_12
+58160220,58160610,"Rice, white, with dark green vegetables and tomatoes (and/or tomato-based sauce), NS as to fat added in cooking",11_12
+58160200,58160640,"Rice, white, with carrots and dark green vegetables, NS as to fat added in cooking",11_12
+58160200,58160670,"Rice, white, with carrots, dark green vegetables, and tomatoes (and/or tomato-based sauce), NS as to fat added in cooking",11_12
+58160220,58160670,"Rice, white, with carrots, dark green vegetables, and tomatoes (and/or tomato-based sauce), NS as to fat added in cooking",11_12
+58160202,58160560,"Rice, white, with dark green vegetables, fat not added in cooking",11_12
+58160202,58160620,"Rice, white, with dark green vegetables and tomatoes (and/or tomato-based sauce), fat not added in cooking",11_12
+58160220,58160620,"Rice, white, with dark green vegetables and tomatoes (and/or tomato-based sauce), fat not added in cooking",11_12
+58160202,58160650,"Rice, white, with carrots and dark green vegetables, fat not added in cooking",11_12
+58160202,58160680,"Rice, white, with carrots, dark green vegetables, and tomatoes (and/or tomato-based sauce), fat not added in cooking",11_12
+58160220,58160680,"Rice, white, with carrots, dark green vegetables, and tomatoes (and/or tomato-based sauce), fat not added in cooking",11_12
+58160204,58160570,"Rice, white, with dark green vegetables, fat added in cooking",11_12
+58160204,58160630,"Rice, white, with dark green vegetables and tomatoes (and/or tomato-based sauce), fat added in cooking",11_12
+58160220,58160630,"Rice, white, with dark green vegetables and tomatoes (and/or tomato-based sauce), fat added in cooking",11_12
+58160204,58160660,"Rice, white, with carrots and dark green vegetables, fat added in cooking",11_12
+58160204,58160690,"Rice, white, with carrots, dark green vegetables, and tomatoes (and/or tomato-based sauce), fat added in cooking",11_12
+58160220,58160690,"Rice, white, with carrots, dark green vegetables, and tomatoes (and/or tomato-based sauce), fat added in cooking",11_12
+58161110,58164500,"Rice, white, with cheese and/or cream based sauce, NS as to fat added in cooking",11_12
+58163210,58164500,"Rice, white, with cheese and/or cream based sauce, NS as to fat added in cooking",11_12
+58161110,58164510,"Rice, white, with cheese and/or cream based sauce, fat not added in cooking",11_12
+58163210,58164510,"Rice, white, with cheese and/or cream based sauce, fat not added in cooking",11_12
+58161110,58164520,"Rice, white, with cheese and/or cream based sauce, fat added in cooking",11_12
+58163210,58164520,"Rice, white, with cheese and/or cream based sauce, fat added in cooking",11_12
+58161120,58164800,"Rice, brown, with cheese and/or cream based sauce, NS as to fat added in cooking",11_12
+58161120,58164810,"Rice, brown, with cheese and/or cream based sauce, fat not added in cooking",11_12
+58161120,58164820,"Rice, brown, with cheese and/or cream based sauce, fat added in cooking",11_12
+58161300,58160520,"Rice, white, with tomatoes (and/or tomato based sauce), NS as to fat added in cooking",11_12
+58161300,58160530,"Rice, white, with tomatoes (and/or tomato based sauce), fat not added in cooking",11_12
+58161300,58160540,"Rice, white, with tomatoes (and/or tomato based sauce), fat added in cooking",11_12
+58161310,58161460,"Rice, brown, with tomatoes (and/or tomato based sauce), NS as to fat added in cooking",11_12
+58161310,58161462,"Rice, brown, with tomatoes (and/or tomato based sauce), fat not added in cooking",11_12
+58161310,58161464,"Rice, brown, with tomatoes (and/or tomato based sauce), fat added in cooking",11_12
+58161400,58161470,"Rice, brown, with dark green vegetables, NS as to fat added in cooking",11_12
+58161400,58161490,"Rice, brown, with dark green vegetables and tomatoes (and/or tomato-based sauce) , NS as to fat added in cooking",11_12
+58161400,58161500,"Rice, brown, with carrots and dark green vegetables, NS as to fat added in cooking",11_12
+58161400,58161520,"Rice, brown, with carrots, dark green vegetables, and tomatoes (and/or tomato-based sauce), NS as to fat added in cooking",11_12
+58161402,58161472,"Rice, brown, with dark green vegetables, fat not added in cooking",11_12
+58161402,58161492,"Rice, brown, with dark green vegetables and tomatoes (and/or tomato-based sauce), fat not added in cooking",11_12
+58161402,58161502,"Rice, brown, with carrots and dark green vegetables, fat not added in cooking",11_12
+58161402,58161522,"Rice, brown, with carrots, dark green vegetables, and tomatoes (and/or tomato-based sauce), fat not added in cooking",11_12
+58161404,58161474,"Rice, brown, with dark green vegetables, fat added in cooking",11_12
+58161404,58161494,"Rice, brown, with dark green vegetables and tomatoes (and/or tomato-based sauce), fat added in cooking",11_12
+58161404,58161504,"Rice, brown, with carrots and dark green vegetables, fat added in cooking",11_12
+58161404,58161524,"Rice, brown, with carrots, dark green vegetables, and tomatoes (and/or tomato-based sauce), fat added in cooking",11_12
+58163110,58164530,"Rice, white, with gravy, NS as to fat added in cooking",11_12
+58163110,58164540,"Rice, white, with gravy, fat not added in cooking",11_12
+58163110,58164550,"Rice, white, with gravy, fat added in cooking",11_12
+71802010,71801000,"Potato soup, NS as to made with milk or water",11_12
+71802010,71801010,"Potato soup, cream of, prepared with milk",11_12
+71802010,71801020,"Potato soup, prepared with water",11_12
+74402300,74402150,"Salsa, red, commercially-prepared",11_12
+74402300,74402200,"Salsa, red, homemade",11_12
+14110030,14104110,"Cheese, Cheddar, reduced fat",11_12
+14410400,14109010,"Cheese, Swiss",11_12
+14410420,14109030,"Cheese, Swiss, reduced fat",11_12
+14420000,14420100,"Cheese spread, American or Cheddar cheese base",11_12
+14502010,14502000,Imitation cheese,11_12
+14502040,14502000,Imitation cheese,11_12
+14504010,14502000,Imitation cheese,11_12
+23108000,23107000,"Lamb, shoulder chop, cooked, NS as to fat eaten",11_12
+23108010,23107010,"Lamb, shoulder chop, cooked, lean and fat eaten",11_12
+23108020,23107020,"Lamb, shoulder chop, cooked, lean only eaten",11_12
+25220100,25220105,Beef sausage,11_12
+25220110,25220105,Beef sausage,11_12
+25220120,25220105,Beef sausage,11_12
+25220130,25220105,Beef sausage,11_12
+25220140,25220105,Beef sausage,11_12
+25220370,25220350,Bratwurst,11_12
+25221410,25221405,Pork sausage,11_12
+25221420,25221405,Pork sausage,11_12
+25221430,25221405,Pork sausage,11_12
+25221470,25221460,Pork and beef sausage,11_12
+25221650,25221405,Pork sausage,11_12
+25221660,25221460,Pork and beef sausage,11_12
+25221680,25221405,Pork sausage,11_12
+25221840,25221830,Turkey or chicken sausage,11_12
+25221850,25221830,Turkey or chicken sausage,11_12
+26117150,26117140,"Haddock, coated, fried",11_12
+26125150,26125140,"Ocean perch, coated, fried",11_12
+26129150,26129140,"Pike, coated, fried",11_12
+26131150,26131140,"Pompano, coated, fried",11_12
+26133150,26133140,"Porgy, coated, fried",11_12
+26303150,26303140,"Clams, coated, fried",11_12
+26311130,26311160,"Lobster, steamed or boiled",11_12
+26311150,26311140,"Lobster, coated, fried",11_12
+26315150,26315140,"Oysters, coated, fried",11_12
+26317150,26317140,"Scallops, coated, fried",11_12
+28310210,27111410,Chili con carne with beans,11_12
+28310220,27111410,Chili con carne with beans,11_12
+28315100,28315050,"Beef vegetable soup with potato, pasta, or rice, chunky style, canned, or ready-to-serve",11_12
+28315110,28315050,"Beef vegetable soup with potato, pasta, or rice, chunky style, canned, or ready-to-serve",11_12
+28315120,28315050,"Beef vegetable soup with potato, pasta, or rice, chunky style, canned, or ready-to-serve",11_12
+28315130,28315050,"Beef vegetable soup with potato, pasta, or rice, chunky style, canned, or ready-to-serve",11_12
+28320110,28320160,"Pork vegetable soup with potato, pasta, or rice, stew type, chunky style",11_12
+28320120,28320160,"Pork vegetable soup with potato, pasta, or rice, stew type, chunky style",11_12
+28320150,28320160,"Pork vegetable soup with potato, pasta, or rice, stew type, chunky style",11_12
+28340170,28340180,"Chicken or turkey broth, less or reduced sodium, canned or ready-to-serve",11_12
+28340530,58403010,"Chicken or turkey noodle soup, canned or ready-to-serve",11_12
+28340620,28340510,"Chicken or turkey noodle soup, chunky style, canned or ready-to-serve",11_12
+31103000,31103010,"Egg, whole, boiled or poached",11_12
+31104000,31103010,"Egg, whole, boiled or poached",11_12
+31109000,32400065,"Egg white omelet, scrambled, or fried, made with oil",11_12
+31109010,32400080,"Egg white omelet, scrambled, or fried, made without fat",11_12
+32104900,32130010,"Egg omelet or scrambled egg, made with oil",11_12
+32400010,32400065,"Egg white omelet, scrambled, or fried, made with oil",11_12
+32400011,32400080,"Egg white omelet, scrambled, or fried, made without fat",11_12
+41601060,41601090,"Bean soup, with macaroni, home recipe, canned, or ready-to-serve",11_12
+41601170,41601090,"Bean soup, with macaroni, home recipe, canned, or ready-to-serve",11_12
+51121040,51121010,"Bread, garlic",11_12
+51161100,51161000,"Roll, sweet, with fruit, no frosting",11_12
+51161150,51161020,"Roll, sweet, with fruit, frosted",11_12
+51161200,51160000,"Roll, sweet, no frosting",11_12
+51165060,51165000,"Coffee cake, yeast type",11_12
+51201110,51300210,"Bread, whole wheat, with raisins",11_12
+51201120,51300220,"Bread, whole wheat, with raisins, toasted",11_12
+51204010,51301010,"Bread, wheat or cracked wheat",11_12
+51204020,51301020,"Bread, wheat or cracked wheat, toasted",11_12
+51302010,51301010,"Bread, wheat or cracked wheat",11_12
+51302020,51301020,"Bread, wheat or cracked wheat, toasted",11_12
+51302050,51301120,"Bread, wheat or cracked wheat, with raisins",11_12
+51302060,51301130,"Bread, wheat or cracked wheat, with raisins, toasted",11_12
+51803010,51301010,"Bread, wheat or cracked wheat",11_12
+51803020,51301020,"Bread, wheat or cracked wheat, toasted",11_12
+52208750,52208760,"Gordita/sope shell, plain, no filling",11_12
+52304200,52304150,"Muffin, oat bran",11_12
+52405100,52405010,"Bread, fruit",11_12
+53101000,53101100,"Cake, angel food, without icing or filling",11_12
+53102000,53102100,"Cake or cupcake, applesauce, without icing or filling",11_12
+53102500,53102700,"Cake or cupcake, banana, with icing or filling",11_12
+53103500,53116000,"Cake, pound, without icing or filling",11_12
+53103550,53116000,"Cake, pound, without icing or filling",11_12
+53103600,53116020,"Cake, pound, with icing or filling",11_12
+53104000,53104260,"Cake or cupcake, carrot, with icing or filling",11_12
+53104900,53105270,"Cake or cupcake, chocolate, devil's food or fudge, with icing or filling",11_12
+53104920,53105275,"Cake or cupcake, chocolate, devil's food or fudge, without icing or filling",11_12
+53104950,53105270,"Cake or cupcake, chocolate, devil's food or fudge, with icing or filling",11_12
+53105000,53105270,"Cake or cupcake, chocolate, devil's food or fudge, with icing or filling",11_12
+53105050,53105270,"Cake or cupcake, chocolate, devil's food or fudge, with icing or filling",11_12
+53105100,53105275,"Cake or cupcake, chocolate, devil's food or fudge, without icing or filling",11_12
+53105160,53105275,"Cake or cupcake, chocolate, devil's food or fudge, without icing or filling",11_12
+53105200,53105270,"Cake or cupcake, chocolate, devil's food or fudge, with icing or filling",11_12
+53105260,53105270,"Cake or cupcake, chocolate, devil's food or fudge, with icing or filling",11_12
+53105900,53105270,"Cake or cupcake, chocolate, devil's food or fudge, with icing or filling",11_12
+53106000,53105275,"Cake or cupcake, chocolate, devil's food or fudge, without icing or filling",11_12
+53106050,53105270,"Cake or cupcake, chocolate, devil's food or fudge, with icing or filling",11_12
+53106100,53117100,"Cake or cupcake, spice, without icing or filling",11_12
+53107000,53100100,"Cake or cupcake, NS as to type",11_12
+53107100,53100100,"Cake or cupcake, NS as to type",11_12
+53107200,53100100,"Cake or cupcake, NS as to type",11_12
+53108000,53105270,"Cake or cupcake, chocolate, devil's food or fudge, with icing or filling",11_12
+53108100,53105275,"Cake or cupcake, chocolate, devil's food or fudge, without icing or filling",11_12
+53113950,53114100,"Cake or cupcake, lemon, with icing or filling",11_12
+53115000,53115200,"Cake or cupcake, marble, with icing or filling",11_12
+53115300,53115320,"Cake or cupcake, nut, with icing or filling",11_12
+53115400,53115410,"Cake or cupcake, oatmeal",11_12
+53115600,53121275,"Cake or cupcake, yellow, without icing or filling",11_12
+53116490,53116510,"Cake or cupcake, pumpkin, with icing or filling",11_12
+53116560,53116550,"Cake or cupcake, raisin-nut",11_12
+53117000,53117200,"Cake or cupcake, spice, with icing or filling",11_12
+53118000,53118100,"Cake, sponge, without icing or filling",11_12
+53118310,53118300,"Cake, sponge, chocolate",11_12
+53118350,53116510,"Cake or cupcake, pumpkin, with icing or filling",11_12
+53120000,53120270,"Cake or cupcake, white, with icing or filling",11_12
+53120060,53120270,"Cake or cupcake, white, with icing or filling",11_12
+53120100,53120275,"Cake or cupcake, white, without icing or filling",11_12
+53120160,53120275,"Cake or cupcake, white, without icing or filling",11_12
+53120200,53120270,"Cake or cupcake, white, with icing or filling",11_12
+53120260,53120270,"Cake or cupcake, white, with icing or filling",11_12
+53120300,53120270,"Cake or cupcake, white, with icing or filling",11_12
+53120330,53120275,"Cake or cupcake, white, without icing or filling",11_12
+53120350,53120270,"Cake or cupcake, white, with icing or filling",11_12
+53121000,53121270,"Cake or cupcake, yellow, with icing or filling",11_12
+53121060,53121270,"Cake or cupcake, yellow, with icing or filling",11_12
+53121100,53121275,"Cake or cupcake, yellow, without icing or filling",11_12
+53121160,53121275,"Cake or cupcake, yellow, without icing or filling",11_12
+53121200,53121270,"Cake or cupcake, yellow, with icing or filling",11_12
+53121260,53121270,"Cake or cupcake, yellow, with icing or filling",11_12
+53121280,53121270,"Cake or cupcake, yellow, with icing or filling",11_12
+53121300,53121275,"Cake or cupcake, yellow, without icing or filling",11_12
+53121330,53121270,"Cake or cupcake, yellow, with icing or filling",11_12
+53124100,53124110,"Cake or cupcake, zucchini",11_12
+53124120,53124110,"Cake or cupcake, zucchini",11_12
+53204800,53204840,"Cookie, brownie, reduced fat, NS as to icing",11_12
+53204830,53204840,"Cookie, brownie, reduced fat, NS as to icing",11_12
+53204850,53204860,"Cookie, brownie, fat free, NS as to icing",11_12
+53205500,53205250,"Cookie, butterscotch, brownie",11_12
+53209050,53209100,"Cookie, chocolate, sandwich, with extra filling",11_12
+53216000,53215500,"Cookie, coconut",11_12
+53220020,53220030,"Cookie, fig bar",11_12
+53233030,53233040,"Cookie, oatmeal, reduced fat, NS as to raisins",11_12
+53234010,53235000,"Cookie, peanut butter sandwich",11_12
+53245000,53247000,"Cookie, vanilla wafer",11_12
+53510200,53510000,"Danish pastry, plain or spice",11_12
+53610000,53610100,"Coffee cake, crumb or quick-bread type",11_12
+56204980,56205002,"Rice, white, cooked, fat added in cooking, made with oil",11_12
+56204990,56205002,"Rice, white, cooked, fat added in cooking, made with oil",11_12
+56205010,56205008,"Rice, white, cooked, fat not added in cooking",11_12
+56205020,56205002,"Rice, white, cooked, fat added in cooking, made with oil",11_12
+56205030,56205008,"Rice, white, cooked, fat not added in cooking",11_12
+56205040,56205008,"Rice, white, cooked, fat not added in cooking",11_12
+56205110,56205018,"Rice, brown, cooked, fat not added in cooking",11_12
+56205120,56205012,"Rice, brown, cooked, fat added in cooking, made with oil",11_12
+56205400,56205002,"Rice, white, cooked, fat added in cooking, made with oil",11_12
+56205530,56205012,"Rice, brown, cooked, fat added in cooking, made with oil",11_12
+56205540,56205018,"Rice, brown, cooked, fat not added in cooking",11_12
+58100130,58100100,Burrito with meat,11_12
+58100230,58100200,Burrito with chicken,11_12
+58100240,58100200,Burrito with chicken,11_12
+58100600,58100630,"Enchilada with chicken, red-chile or enchilada sauce",11_12
+58100610,58100620,"Enchilada with chicken and beans, red-chile or enchilada sauce",11_12
+58101200,58104820,Taquito or flauta with meat,11_12
+58101230,58104820,Taquito or flauta with meat,11_12
+58101240,58104830,Taquito or flauta with chicken,11_12
+58101310,58101320,Taco or tostada with meat,11_12
+58101510,58101520,Taco or tostada with chicken,11_12
+58101600,58101610,Soft taco with beans,11_12
+58101710,58101720,Taco or tostada with beans,11_12
+58101740,58100005,"Burrito, taco, or quesadilla with egg and potato",11_12
+58101741,58100005,"Burrito, taco, or quesadilla with egg and potato",11_12
+58101742,58100005,"Burrito, taco, or quesadilla with egg and potato",11_12
+58101910,58101930,Taco or tostada salad with meat,11_12
+58104100,58104120,Nachos with cheese,11_12
+58104140,58104130,Nachos with meat and cheese,11_12
+58104450,58104500,Chimichanga with meat,11_12
+58104490,58104500,Chimichanga with meat,11_12
+58104510,58104500,Chimichanga with meat,11_12
+58106440,58106700,"Pizza with meat and vegetables, prepared from frozen, thin crust",11_12
+58106460,58106755,"Pizza with meat and fruit, regular crust",11_12
+58106461,58106750,"Pizza with meat and fruit, thin crust",11_12
+58106462,58106755,"Pizza with meat and fruit, regular crust",11_12
+58106463,58106760,"Pizza with meat and fruit, thick crust",11_12
+58106733,58106736,"Pizza with extra meat and extra vegetables, thin crust",11_12
+58106734,58106737,"Pizza with extra meat and extra vegetables, thick crust",11_12
+58106810,58106820,"Pizza with beans and vegetables, thin crust",11_12
+58106825,58106820,"Pizza with beans and vegetables, thin crust",11_12
+58107030,58107050,"Pizza, no cheese, thin crust",11_12
+58107060,58107050,"Pizza, no cheese, thin crust",11_12
+58107210,58107220,"White pizza, thin crust",11_12
+58107225,58107220,"White pizza, thin crust",11_12
+58145115,58145112,"Macaroni or noodles with cheese, made from packaged mix",11_12
+58145150,58145135,Macaroni or noodles with cheese and meat,11_12
+58160205,58160700,"Rice, white, with other vegetables, NS as to fat added in cooking",11_12
+58160207,58160710,"Rice, white, with other vegetables, fat not added in cooking",11_12
+58160209,58160720,"Rice, white, with other vegetables, fat added in cooking",11_12
+58161405,58161530,"Rice, brown, with other vegetables, NS as to fat added in cooking",11_12
+58161407,58161532,"Rice, brown, with other vegetables, fat not added in cooking",11_12
+58161409,58161534,"Rice, brown, with other vegetables, fat added in cooking",11_12
+58406010,58403010,"Chicken or turkey noodle soup, canned or ready-to-serve",11_12
+58406020,58403040,"Chicken or turkey noodle soup, home recipe",11_12
+58407000,58407010,"Instant soup, noodle",11_12
+63401020,75141100,"Cabbage salad or coleslaw with apples and/or raisins, with dressing",11_12
+63401030,63401010,Apple salad with dressing,11_12
+63408010,63409010,Guacamole,11_12
+63408200,63409010,Guacamole,11_12
+63412010,63402950,Fruit salad (excluding citrus fruits) with salad dressing or mayonnaise,11_12
+63413020,63413010,Pineapple salad with dressing,11_12
+71402040,71401030,"White potato, french fries, from frozen, deep fried, from fast food / restaurant",11_12
+72305000,72307000,Spinach soup,11_12
+74402310,74402350,"Salsa verde or salsa, green",11_12
+74403010,74404010,"Spaghetti sauce, meatless",11_12
+74403050,74404050,"Spaghetti sauce, meatless, reduced sodium",11_12
+75603000,75603010,"Celery soup, cream of, prepared with milk, home recipe, canned or ready-to-serve",11_12
+75609000,41602050,Split pea soup,11_12
+75609020,41602050,Split pea soup,11_12
+81302020,81302010,Hollandaise sauce,11_12
+83103500,83106000,"Italian dressing, made with vinegar and oil",11_12
+83112600,83112500,Creamy dressing,11_12
+83112900,83201400,"Coleslaw dressing, light",11_12
+83112960,83112500,Creamy dressing,11_12
+83112980,83106000,"Italian dressing, made with vinegar and oil",11_12
+83113000,83104000,French or Catalina dressing,11_12
+83201050,83201000,"Blue or roquefort cheese dressing, light",11_12
+83202000,83202020,"French or Catalina dressing, light",11_12
+83202010,83300400,"French or Catalina dressing, fat free",11_12
+83203250,83300700,"Mayonnaise, fat free",11_12
+83205000,83205450,"Italian dressing, light",11_12
+83205500,83300600,"Italian dressing, fat free",11_12
+83208000,83300600,"Italian dressing, fat free",11_12
+83210000,83210100,"Creamy dressing, light",11_12
+83210050,83210100,"Creamy dressing, light",11_12
+83210200,83300300,"Creamy dressing, fat free",11_12
+83210250,83210100,"Creamy dressing, light",11_12
+83220000,83200100,"Salad dressing, light, NFS",11_12
+91361030,91361020,Fruit sauce,11_12
+94000000,94000100,"Water, tap",11_12
+11611000,95102000,"Carnation Instant Breakfast, nutritional drink, regular, ready-to-drink",11_12
+11641020,95101000,"Boost, nutritional drink, ready-to-drink",11_12
+11830800,95201000,"Carnation Instant Breakfast, nutritional drink mix, regular, powder",11_12
+11830810,95201010,"Carnation Instant Breakfast, nutritional drink mix, sugar free, powder",11_12
+11830900,95230000,"Protein powder, whey based, NFS",11_12
+11836000,95202000,"Muscle Milk, regular, powder",11_12
+11836100,95202010,"Muscle Milk, light, powder",11_12
+25210230,25210240,"Frankfurter or hot dog, beef and pork, reduced fat or light",11_12
+25210610,25210620,"Frankfurter or hot dog, beef, reduced fat or light",11_12
+25210700,25210290,"Frankfurter or hot dog, meat and poultry, reduced fat or light",11_12
+27560320,27564000,"Frankfurter or hot dog sandwich, NFS, plain, on bun",11_12
+27560360,27564440,"Frankfurter or hot dog sandwich, with chili, on bun",11_12
+27560400,27564240,"Frankfurter or hot dog sandwich, chicken and/or turkey, plain, on bun",11_12
+32104950,32130070,"Egg omelet or scrambled egg, made without fat",11_12
+41430000,95230030,"Protein powder, NFS",11_12
+41435110,53720700,Tiger's Milk bar,11_12
+41435120,53720800,Zone Perfect Classic Crunch nutrition bar,11_12
+41435300,53720100,Balance Original Bar,11_12
+41435500,53720200,Clif Bar,11_12
+41435700,53720610,South Beach Living High Protein Cereal Bar,11_12
+41435710,53720600,South Beach Living Meal Bar,11_12
+41436000,95104000,"Glucerna, nutritional shake, ready-to-drink",11_12
+41440010,95103000,"Ensure, nutritional shake, ready-to-drink",11_12
+41440050,95103010,"Ensure Plus, nutritional shake, ready-to-drink",11_12
+41440100,95120050,"Nutritional drink or meal replacement, liquid, soy-based",11_12
+53540000,53714500,"Breakfast bar, NFS",11_12
+53540200,53714520,"Breakfast bar, cereal crust with fruit filling, lowfat",11_12
+53540300,53710400,Fiber One Chewy Bar,11_12
+53540400,53710500,Kellogg's Nutri-Grain Cereal Bar,11_12
+53540402,53710502,Kellogg's Nutri-Grain Yogurt Bar,11_12
+53540404,53710504,Kellogg's Nutri-Grain Fruit and Nut Bar,11_12
+53540500,53714510,"Breakfast bar, date, with yogurt coating",11_12
+53540600,53710600,Milk 'n Cereal bar,11_12
+53540700,53710700,Kellogg's Special K bar,11_12
+53540800,53710800,Kashi GOLEAN Chewy Bars,11_12
+53540802,53710802,Kashi TLC Chewy Granola Bar,11_12
+53540804,53710804,Kashi GOLEAN Crunchy Bars,11_12
+53540806,53710806,Kashi TLC Crunchy Granola Bar,11_12
+53540900,53710900,Nature Valley Chewy Trail Mix Granola Bar,11_12
+53540902,53710902,Nature Valley Chewy Granola Bar with Yogurt Coating,11_12
+53540904,53710904,Nature Valley Sweet and Salty Granola Bar,11_12
+53540906,53710906,Nature Valley Crunchy Granola Bar,11_12
+53541000,53711000,Quaker Chewy Granola Bar,11_12
+53541002,53711002,Quaker Chewy 90 Calorie Granola Bar,11_12
+53541004,53711004,Quaker Chewy 25% Less Sugar Granola Bar,11_12
+53541006,53711006,Quaker Chewy Dipps Granola Bar,11_12
+53541200,53729000,"Nutrition bar or meal replacement bar, NFS",11_12
+53541300,53720400,Slim Fast Original Meal Bar,11_12
+53542000,53712000,"Snack bar, oatmeal",11_12
+53542100,53712100,"Granola bar, NFS",11_12
+53542200,53712200,"Granola bar, lowfat, NFS",11_12
+53542210,53712210,"Granola bar, nonfat",11_12
+53543000,53713000,"Granola bar, reduced sugar, NFS",11_12
+53543100,53713100,"Granola bar, peanuts , oats, sugar, wheat germ",11_12
+53544200,53714200,"Granola bar, chocolate-coated, NFS",11_12
+53544210,53714210,"Granola bar, with coconut, chocolate-coated",11_12
+53544220,53714220,"Granola bar with nuts, chocolate-coated",11_12
+53544230,53714230,"Granola bar, oats, nuts, coated with non-chocolate coating",11_12
+53544250,53714250,"Granola bar, coated with non-chocolate coating",11_12
+53544300,53714300,"Granola bar, high fiber, coated with non-chocolate yogurt coating",11_12
+53544400,53714400,"Granola bar, with rice cereal",11_12
+53544410,53711100,Quaker Granola Bites,11_12
+53544450,53720300,PowerBar,11_12
+54101010,53240000,"Cookie, animal",11_12
+58100210,58100220,Burrito with chicken and beans,11_12
+58100350,58100000,"Burrito, taco, or quesadilla with egg",11_12
+58100410,58100135,Burrito with meat and sour cream,11_12
+58104250,58104150,Nachos with chicken and cheese,11_12
+58160290,58160400,"Rice, white, with corn, NS as to fat added in cooking",11_12
+58160292,58160410,"Rice, white, with corn, fat not added in cooking",11_12
+58160294,58160420,"Rice, white, with corn, fat added in cooking",11_12
+58160300,58160430,"Rice, white, with peas, NS as to fat added in cooking",11_12
+58160302,58160440,"Rice, white, with peas, fat not added in cooking",11_12
+58160304,58160450,"Rice, white, with peas, fat added in cooking",11_12
+58160310,58160490,"Rice, white, with peas and carrots, NS as to fat added in cooking",11_12
+58160312,58160500,"Rice, white, with peas and carrots, fat not added in cooking ",11_12
+58160314,58160510,"Rice, white, with peas and carrots, fat added in cooking",11_12
+58160320,58160520,"Rice, white, with tomatoes (and/or tomato based sauce), NS as to fat added in cooking",11_12
+58160322,58160530,"Rice, white, with tomatoes (and/or tomato based sauce), fat not added in cooking",11_12
+58160324,58160540,"Rice, white, with tomatoes (and/or tomato based sauce), fat added in cooking",11_12
+58161450,58161460,"Rice, brown, with tomatoes (and/or tomato based sauce), NS as to fat added in cooking",11_12
+58161452,58161462,"Rice, brown, with tomatoes (and/or tomato based sauce), fat not added in cooking",11_12
+58161454,58161464,"Rice, brown, with tomatoes (and/or tomato based sauce), fat added in cooking",11_12
+75651050,28340600,"Chicken or turkey vegetable soup, canned, prepared with water or ready-to-serve",11_12
+91780010,53720510,Snickers Marathon Energy bar,11_12
+91781010,53720500,Snickers Marathon Protein bar,11_12
+92560000,95321000,Fruit-flavored thirst quencher beverage,11_12
+92560100,95320200,Gatorade Thirst Quencher sports drink,11_12
+92560200,95320500,Powerade sports drink,11_12
+92565000,95323000,"Fruit-flavored sports drink or thirst quencher beverage, low calorie",11_12
+92565100,95322200,"Gatorade G2 Thirst Quencher sports drink, low calorie",11_12
+92565200,95322500,"Powerade Zero sports drink, low calorie",11_12
+92570100,95330100,"Fluid replacement, electrolyte solution",11_12
+92570500,95330500,"Fluid replacement, 5% glucose in water",11_12
+92650000,95310600,Red Bull Energy Drink,11_12
+92650005,95312600,"Red Bull Energy Drink, sugar-free",11_12
+92650100,95310200,Full Throttle Energy Drink,11_12
+92650200,95310400,Monster Energy Drink,11_12
+92650205,95310500,Mountain Dew AMP Energy Drink,11_12
+92650210,95312500,"Mountain Dew AMP Energy Drink, sugar-free",11_12
+92650700,95310700,Rockstar Energy Drink,11_12
+92650705,95312700,"Rockstar Energy Drink, sugar-free",11_12
+92650800,95310800,Vault Energy Drink,11_12
+92650805,95312800,Vault Zero Energy drink,11_12
+92651000,95311000,Energy Drink,11_12

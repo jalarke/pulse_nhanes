@@ -1,0 +1,1394 @@
+DRXFDCD,foodcode,food_description,CYCLE
+11115100,11115300,"Buttermilk, whole",17_20
+11115200,11115300,"Buttermilk, whole",17_20
+11321200,11321000,"Soy milk, chocolate",17_20
+11440020,11440070,"Vegetable dip, yogurt based",17_20
+11480020,11480100,"Baby Toddler yogurt, with fruit",17_20
+11480030,11480100,"Baby Toddler yogurt, with fruit",17_20
+11480040,11480100,"Baby Toddler yogurt, with fruit",17_20
+11511610,11511300,"Chocolate milk, ready to drink, fat free",17_20
+11513000,11513150,"Chocolate milk, made from dry mix with reduced fat milk",17_20
+11513200,11513300,"Chocolate milk, made from dry mix with fat free milk",17_20
+11710050,11710051,"Infant formula, Similac Alimentum, ready-to-feed",17_20
+11710053,11710056,"Infant formula, Similac Alimentum, powder, made with water",17_20
+11710054,11710056,"Infant formula, Similac Alimentum, powder, made with water",17_20
+11710055,11710056,"Infant formula, Similac Alimentum, powder, made with water",17_20
+11710350,11710351,"Infant formula, Similac Advance, ready-to-feed",17_20
+11710360,11710955,"Infant formula, organic, ready-to-feed",17_20
+11710361,11710955,"Infant formula, organic, ready-to-feed",17_20
+11710363,11710954,"Infant formula, organic, powder, made with water",17_20
+11710367,11710954,"Infant formula, organic, powder, made with water",17_20
+11710368,11710954,"Infant formula, organic, powder, made with water",17_20
+11710369,11710954,"Infant formula, organic, powder, made with water",17_20
+11710370,11710371,"Infant formula, Similac Sensitive, ready-to-feed",17_20
+11710380,11710381,"Infant formula, Similac for Spit-Up, ready-to-feed",17_20
+11710470,11710945,"Infant formula, premature, ready-to-feed",17_20
+11710471,11710945,"Infant formula, premature, ready-to-feed",17_20
+11710473,11710935,"Infant formula, premature, powder, made with water",17_20
+11710477,11710935,"Infant formula, premature, powder, made with water",17_20
+11710478,11710935,"Infant formula, premature, powder, made with water",17_20
+11710479,11710935,"Infant formula, premature, powder, made with water",17_20
+11710480,11710481,"Toddler formula, Similac Go and Grow",17_20
+11710620,11710621,"Infant formula, Enfamil Premium Newborn, ready-to-feed",17_20
+11710626,11710629,"Infant formula, Enfamil Premium Newborn, powder, made with water",17_20
+11710627,11710629,"Infant formula, Enfamil Premium Newborn, powder, made with water",17_20
+11710628,11710629,"Infant formula, Enfamil Premium Newborn, powder, made with water",17_20
+11710630,11710631,"Infant formula, Enfamil Infant, ready-to-feed",17_20
+11710660,11710661,"Infant formula, Enfamil AR, ready-to-feed",17_20
+11710663,11710669,"Infant formula, Enfamil AR, powder, made with water",17_20
+11710664,11710669,"Infant formula, Enfamil AR, powder, made with water",17_20
+11710665,11710945,"Infant formula, premature, ready-to-feed",17_20
+11710666,11710945,"Infant formula, premature, ready-to-feed",17_20
+11710667,11710935,"Infant formula, premature, powder, made with water",17_20
+11710668,11710669,"Infant formula, Enfamil AR, powder, made with water",17_20
+11710670,11710671,"Infant formula, Enfamil Gentlease, ready-to-feed",17_20
+11710674,11710935,"Infant formula, premature, powder, made with water",17_20
+11710675,11710935,"Infant formula, premature, powder, made with water",17_20
+11710676,11710935,"Infant formula, premature, powder, made with water",17_20
+11710680,11710689,"Toddler formula, Enfamil Enfagrow",17_20
+11710681,11710689,"Toddler formula, Enfamil Enfagrow",17_20
+11710683,11710689,"Toddler formula, Enfamil Enfagrow",17_20
+11710687,11710689,"Toddler formula, Enfamil Enfagrow",17_20
+11710688,11710689,"Toddler formula, Enfamil Enfagrow",17_20
+11710690,11710689,"Toddler formula, Enfamil Enfagrow",17_20
+11710693,11710689,"Toddler formula, Enfamil Enfagrow",17_20
+11710697,11710689,"Toddler formula, Enfamil Enfagrow",17_20
+11710698,11710689,"Toddler formula, Enfamil Enfagrow",17_20
+11710699,11710689,"Toddler formula, Enfamil Enfagrow",17_20
+11710800,11710801,"Toddler formula, PediaSure",17_20
+11710805,11710801,"Toddler formula, PediaSure",17_20
+11710806,11710801,"Toddler formula, PediaSure",17_20
+11710910,11710911,"Infant formula, Gerber Good Start Gentle, Stage 1, ready-to-feed",17_20
+11710913,11710919,"Infant formula, Gerber Good Start Gentle, Stage 1, powder, made with baby water",17_20
+11710920,11720611,"Infant formula, Gerber Good Start Soy, Stage 1, ready-to-feed",17_20
+11710923,11720619,"Infant formula, Gerber Good Start Soy, Stage 1, powder, made with baby water",17_20
+11710927,11720617,"Infant formula, Gerber Good Start Soy, Stage 1, powder, made with tap water",17_20
+11710928,11720618,"Infant formula, Gerber Good Start Soy, Stage 1, powder, made with bottled water",17_20
+11710929,11720619,"Infant formula, Gerber Good Start Soy, Stage 1, powder, made with baby water",17_20
+11710940,11710921,"Infant formula, Gerber Good Start Gentle, Stage 2",17_20
+11710960,11710955,"Infant formula, organic, ready-to-feed",17_20
+11710962,11710954,"Infant formula, organic, powder, made with water",17_20
+11710963,11710955,"Infant formula, organic, ready-to-feed",17_20
+11720310,11720311,"Infant formula, Enfamil ProSobee, ready-to-feed",17_20
+11720313,11720319,"Infant formula, Enfamil ProSobee, powder, made with baby water",17_20
+11720320,11710689,"Toddler formula, Enfamil Enfagrow",17_20
+11720323,11710689,"Toddler formula, Enfamil Enfagrow",17_20
+11720410,11720411,"Infant formula, Similac Isomil Soy, ready-to-feed",17_20
+11720413,11720419,"Infant formula, Similac Isomil Soy, powder, made with baby water",17_20
+11720431,11720411,"Infant formula, Similac Isomil Soy, ready-to-feed",17_20
+11720610,11720611,"Infant formula, Gerber Good Start Soy, Stage 1, ready-to-feed",17_20
+11720613,11720619,"Infant formula, Gerber Good Start Soy, Stage 1, powder, made with baby water",17_20
+11720620,11720619,"Infant formula, Gerber Good Start Soy, Stage 1, powder, made with baby water",17_20
+11720800,11720809,"Infant formula, store brand, soy",17_20
+11720801,11720809,"Infant formula, store brand, soy",17_20
+11720803,11720809,"Infant formula, store brand, soy",17_20
+11720807,11720809,"Infant formula, store brand, soy",17_20
+11720808,11720809,"Infant formula, store brand, soy",17_20
+11740310,11740311,"Infant formula, Enfamil Nutramigen, ready-to-feed",17_20
+11740320,11740405,"Infant formula, amino acids",17_20
+11740323,11740405,"Infant formula, amino acids",17_20
+11740400,11740401,"Infant formula, Enfamil Pregestimil, ready-to-feed",17_20
+11740511,11710945,"Infant formula, premature, ready-to-feed",17_20
+11740521,11710945,"Infant formula, premature, ready-to-feed",17_20
+11811000,11810000,"Milk, dry, not reconstituted, NS as to fat content",17_20
+11812000,11810000,"Milk, dry, not reconstituted, NS as to fat content",17_20
+12350210,12350250,"Vegetable dip, regular",17_20
+12350215,12350255,"Vegetable dip, light",17_20
+13140710,13140700,Creamsicle,17_20
+13310000,67408010,Baby Toddler pudding,17_20
+13311000,67408010,Baby Toddler pudding,17_20
+13312000,67408010,Baby Toddler pudding,17_20
+14710200,72302100,"Broccoli cheese soup, prepared with milk, home recipe, canned, or ready-to-serve",17_20
+20000070,20000300,"Baby Toddler meat, NFS",17_20
+20000090,22820000,Baby Toddler meat stick,17_20
+21000110,21000100,"Beef, NFS",17_20
+21000120,21000100,"Beef, NFS",17_20
+21001010,21001000,"Steak, NS as to type of meat, NS as to fat eaten",17_20
+21001020,21001000,"Steak, NS as to type of meat, NS as to fat eaten",17_20
+21002000,21416000,"Beef, corned",17_20
+21003000,21000100,"Beef, NFS",17_20
+21101010,21101140,"Beef, steak, chuck",17_20
+21101020,21101140,"Beef, steak, chuck",17_20
+21101110,21101140,"Beef, steak, chuck",17_20
+21101120,21101140,"Beef, steak, chuck",17_20
+21101130,21101140,"Beef, steak, chuck",17_20
+21102110,21101140,"Beef, steak, chuck",17_20
+21102120,21101140,"Beef, steak, chuck",17_20
+21102130,21101140,"Beef, steak, chuck",17_20
+21103110,21104110,"Beef, steak, country fried",17_20
+21103120,21104110,"Beef, steak, country fried",17_20
+21103130,21104110,"Beef, steak, country fried",17_20
+21104120,21104110,"Beef, steak, country fried",17_20
+21104130,21104110,"Beef, steak, country fried",17_20
+21105110,21101140,"Beef, steak, chuck",17_20
+21105120,21101140,"Beef, steak, chuck",17_20
+21105130,21101140,"Beef, steak, chuck",17_20
+21304000,21304200,"Beef, shortribs",17_20
+21304110,21304200,"Beef, shortribs",17_20
+21304120,21304200,"Beef, shortribs",17_20
+21304210,21304200,"Beef, shortribs",17_20
+21304220,21304200,"Beef, shortribs",17_20
+21401110,21401000,"Beef, roast",17_20
+21401120,21401000,"Beef, roast",17_20
+26137142,26137140,"Fish, salmon, fried",17_20
+26137143,26137140,"Fish, salmon, fried",17_20
+26137144,26137140,"Fish, salmon, fried",17_20
+26137170,26137190,"Fish, salmon, smoked",17_20
+26139110,26139180,"Fish, sardines, canned",17_20
+26139170,26100190,"Fish, smoked",17_20
+26139190,26139180,"Fish, sardines, canned",17_20
+26141131,26141130,"Fish, bass, baked or broiled, coated",17_20
+26141180,26119180,"Fish, pickled",17_20
+26143120,26143110,"Fish, shark",17_20
+26143121,26143110,"Fish, shark",17_20
+26143130,26143110,"Fish, shark",17_20
+26143131,26143110,"Fish, shark",17_20
+26143140,26143110,"Fish, shark",17_20
+26143160,26143110,"Fish, shark",17_20
+26149120,26149110,"Fish, swordfish",17_20
+26149121,26149110,"Fish, swordfish",17_20
+26149130,26149110,"Fish, swordfish",17_20
+26149131,26149110,"Fish, swordfish",17_20
+26149140,26149110,"Fish, swordfish",17_20
+26149160,26149110,"Fish, swordfish",17_20
+26151121,26151120,"Fish, trout, baked or broiled",17_20
+26151122,26151120,"Fish, trout, baked or broiled",17_20
+26151124,26151120,"Fish, trout, baked or broiled",17_20
+26151131,26151130,"Fish, trout, baked or broiled, coated",17_20
+26151132,26151130,"Fish, trout, baked or broiled, coated",17_20
+26151133,26151130,"Fish, trout, baked or broiled, coated",17_20
+26151134,26151130,"Fish, trout, baked or broiled, coated",17_20
+26151141,26151140,"Fish, trout, fried",17_20
+26151142,26151140,"Fish, trout, fried",17_20
+26151143,26151140,"Fish, trout, fried",17_20
+26151144,26151140,"Fish, trout, fried",17_20
+26151190,26100190,"Fish, smoked",17_20
+26153122,26153120,"Fish, tuna, cooked",17_20
+26153130,26153120,"Fish, tuna, cooked",17_20
+26153131,26153120,"Fish, tuna, cooked",17_20
+26153140,26153120,"Fish, tuna, cooked",17_20
+26153160,26153120,"Fish, tuna, cooked",17_20
+26153170,26100190,"Fish, smoked",17_20
+26153190,26100190,"Fish, smoked",17_20
+26155180,26155110,"Fish, tuna, canned",17_20
+26155190,26155110,"Fish, tuna, canned",17_20
+26157121,26157120,"Fish, whiting, baked or broiled",17_20
+26157122,26157120,"Fish, whiting, baked or broiled",17_20
+26157124,26157120,"Fish, whiting, baked or broiled",17_20
+26157131,26157130,"Fish, whiting, baked or broiled, coated",17_20
+26157132,26157130,"Fish, whiting, baked or broiled, coated",17_20
+26157133,26157130,"Fish, whiting, baked or broiled, coated",17_20
+26157134,26157130,"Fish, whiting, baked or broiled, coated",17_20
+26157141,26157140,"Fish, whiting, fried",17_20
+26157142,26157140,"Fish, whiting, fried",17_20
+26157143,26157140,"Fish, whiting, fried",17_20
+26157144,26157140,"Fish, whiting, fried",17_20
+26158011,26158010,"Fish, tilapia, baked or broiled",17_20
+26158012,26158010,"Fish, tilapia, baked or broiled",17_20
+26158014,26158010,"Fish, tilapia, baked or broiled",17_20
+26158021,26158020,"Fish, tilapia, baked or broiled, coated",17_20
+26158022,26158020,"Fish, tilapia, baked or broiled, coated",17_20
+26158023,26158020,"Fish, tilapia, baked or broiled, coated",17_20
+26158024,26158020,"Fish, tilapia, baked or broiled, coated",17_20
+26158031,26158030,"Fish, tilapia, fried",17_20
+26158032,26158030,"Fish, tilapia, fried",17_20
+26158033,26158030,"Fish, tilapia, fried",17_20
+26158034,26158030,"Fish, tilapia, fried",17_20
+26203160,26203110,Frog legs,17_20
+26205160,26205110,Octopus,17_20
+26205170,26205110,Octopus,17_20
+26205180,26205110,Octopus,17_20
+26205190,26205110,Octopus,17_20
+26207110,26211100,Caviar,17_20
+26209100,26211100,Caviar,17_20
+26213100,26213120,"Calamari, cooked",17_20
+26213121,26213120,"Calamari, cooked",17_20
+26213130,26213120,"Calamari, cooked",17_20
+26213131,26213120,"Calamari, cooked",17_20
+26213160,26213120,"Calamari, cooked",17_20
+26213170,26213120,"Calamari, cooked",17_20
+26213180,26213120,"Calamari, cooked",17_20
+26213190,26213120,"Calamari, cooked",17_20
+26301140,26301110,Abalone,17_20
+26301160,26301110,Abalone,17_20
+26303121,26303120,"Clams, baked or broiled",17_20
+26303130,26303120,"Clams, baked or broiled",17_20
+26303131,26303120,"Clams, baked or broiled",17_20
+26303190,26303110,"Clams, NFS",17_20
+26305110,26305160,Crab,17_20
+26305120,26305160,Crab,17_20
+26305121,26305160,Crab,17_20
+26305130,26307140,"Crab, soft shell",17_20
+26305131,26307140,"Crab, soft shell",17_20
+26311120,26311110,Lobster,17_20
+26311121,26311110,Lobster,17_20
+26311140,26311110,Lobster,17_20
+26311160,26311110,Lobster,17_20
+26311170,26311110,Lobster,17_20
+26311171,26311110,Lobster,17_20
+26311180,26311110,Lobster,17_20
+26313100,26313110,Mussels,17_20
+26313160,26313110,Mussels,17_20
+26315110,26315120,"Oysters, baked or broiled",17_20
+26315121,26315120,"Oysters, baked or broiled",17_20
+26315160,26315120,"Oysters, baked or broiled",17_20
+26315161,26315120,"Oysters, baked or broiled",17_20
+26315190,26315120,"Oysters, baked or broiled",17_20
+26317110,26317120,"Scallops, baked or broiled",17_20
+26317160,26317120,"Scallops, baked or broiled",17_20
+26317161,26317120,"Scallops, baked or broiled",17_20
+26319121,26319120,"Shrimp, baked or broiled",17_20
+26319122,26319120,"Shrimp, baked or broiled",17_20
+26319124,26319120,"Shrimp, baked or broiled",17_20
+26319141,26319140,"Shrimp, fried",17_20
+26319142,26319140,"Shrimp, fried",17_20
+26319143,26319140,"Shrimp, fried",17_20
+26319144,26319140,"Shrimp, fried",17_20
+26319145,26319140,"Shrimp, fried",17_20
+26319161,26319160,"Shrimp, baked or broiled, coated",17_20
+26319162,26319160,"Shrimp, baked or broiled, coated",17_20
+26319163,26319160,"Shrimp, baked or broiled, coated",17_20
+26319164,26319160,"Shrimp, baked or broiled, coated",17_20
+27111310,27111300,"Beef stew, no potatoes, tomato-based sauce, Mexican style",17_20
+27130050,27330210,"Lamb or mutton stew with potatoes and vegetables including carrots, broccoli, and/or dark-green leafy; tomato-based sauce",17_20
+27150020,27250040,"Crab, cake",17_20
+27150030,27250040,"Crab, cake",17_20
+27150060,27150130,Seafood thermidor,17_20
+27150070,26311110,Lobster,17_20
+27150330,26313110,Mussels,17_20
+27150350,26139180,"Fish, sardines, canned",17_20
+27150370,26139180,"Fish, sardines, canned",17_20
+27160010,27116200,"Barbecue beef, with sauce",17_20
+27211100,27311410,"Beef stew with potatoes and vegetables including carrots, broccoli, and/or dark-green leafy; gravy",17_20
+27211150,27311410,"Beef stew with potatoes and vegetables including carrots, broccoli, and/or dark-green leafy; gravy",17_20
+27211200,27311410,"Beef stew with potatoes and vegetables including carrots, broccoli, and/or dark-green leafy; gravy",17_20
+27250020,27250270,Clams Casino,17_20
+27250030,27250050,"Fish, cake or patty",17_20
+27250080,27250070,"Fish, salmon cake or patty",17_20
+27250220,26315140,"Oysters, fried",17_20
+27250300,27250050,"Fish, cake or patty",17_20
+27250310,27250050,"Fish, cake or patty",17_20
+27260510,58111110,"Wonton, dumpling or pot sticker, fried",17_20
+27320020,58116120,"Empanada, beef, with vegetables",17_20
+27330010,27311510,Shepherd's pie,17_20
+27330030,27330210,"Lamb or mutton stew with potatoes and vegetables including carrots, broccoli, and/or dark-green leafy; tomato-based sauce",17_20
+27330110,27330210,"Lamb or mutton stew with potatoes and vegetables including carrots, broccoli, and/or dark-green leafy; tomato-based sauce",17_20
+27330220,27330210,"Lamb or mutton stew with potatoes and vegetables including carrots, broccoli, and/or dark-green leafy; tomato-based sauce",17_20
+27332100,27330210,"Lamb or mutton stew with potatoes and vegetables including carrots, broccoli, and/or dark-green leafy; tomato-based sauce",17_20
+27332110,27330210,"Lamb or mutton stew with potatoes and vegetables including carrots, broccoli, and/or dark-green leafy; tomato-based sauce",17_20
+27336150,27330210,"Lamb or mutton stew with potatoes and vegetables including carrots, broccoli, and/or dark-green leafy; tomato-based sauce",17_20
+27341320,27341520,"Chicken or turkey stew with potatoes and vegetables excluding carrots, broccoli, and dark-green leafy; tomato- based sauce",17_20
+27341510,27341520,"Chicken or turkey stew with potatoes and vegetables excluding carrots, broccoli, and dark-green leafy; tomato- based sauce",17_20
+27350030,27151070,Bacalao guisado,17_20
+27350070,27347100,"Pot pie, chicken",17_20
+27350200,27347100,"Pot pie, chicken",17_20
+27351030,27151070,Bacalao guisado,17_20
+27360010,27311410,"Beef stew with potatoes and vegetables including carrots, broccoli, and/or dark-green leafy; gravy",17_20
+27360050,58116120,"Empanada, beef, with vegetables",17_20
+27360100,27341520,"Chicken or turkey stew with potatoes and vegetables excluding carrots, broccoli, and dark-green leafy; tomato- based sauce",17_20
+27430410,27330210,"Lamb or mutton stew with potatoes and vegetables including carrots, broccoli, and/or dark-green leafy; tomato-based sauce",17_20
+27430500,27311410,"Beef stew with potatoes and vegetables including carrots, broccoli, and/or dark-green leafy; gravy",17_20
+27430510,27311410,"Beef stew with potatoes and vegetables including carrots, broccoli, and/or dark-green leafy; gravy",17_20
+67104060,67100105,"Baby Toddler multiple fruit, Stage 3",17_20
+67104070,67100100,"Baby Toddler multiple fruit, Stage 2",17_20
+67104080,67100105,"Baby Toddler multiple fruit, Stage 3",17_20
+67104090,67100100,"Baby Toddler multiple fruit, Stage 2",17_20
+67106010,67100100,"Baby Toddler multiple fruit, Stage 2",17_20
+67106030,67100100,"Baby Toddler multiple fruit, Stage 2",17_20
+67106050,67100100,"Baby Toddler multiple fruit, Stage 2",17_20
+67108000,67108040,"Baby Toddler peaches, Stage 2",17_20
+67108020,67108040,"Baby Toddler peaches, Stage 2",17_20
+67108030,67108040,"Baby Toddler peaches, Stage 2",17_20
+67109000,67109040,"Baby Toddler pears, Stage 2",17_20
+67109020,67109040,"Baby Toddler pears, Stage 2",17_20
+67109030,67109040,"Baby Toddler pears, Stage 2",17_20
+67113000,67100100,"Baby Toddler multiple fruit, Stage 2",17_20
+67113010,67100100,"Baby Toddler multiple fruit, Stage 2",17_20
+67113020,67100105,"Baby Toddler multiple fruit, Stage 3",17_20
+67114000,67100100,"Baby Toddler multiple fruit, Stage 2",17_20
+67114010,67100100,"Baby Toddler multiple fruit, Stage 2",17_20
+67114020,67100105,"Baby Toddler multiple fruit, Stage 3",17_20
+67202010,67202000,"Baby Toddler juice, apple",17_20
+67203000,67202000,"Baby Toddler juice, apple",17_20
+67203200,67202000,"Baby Toddler juice, apple",17_20
+67203400,67202000,"Baby Toddler juice, apple",17_20
+67203500,67202000,"Baby Toddler juice, apple",17_20
+67203600,67202000,"Baby Toddler juice, apple",17_20
+67203700,67202000,"Baby Toddler juice, apple",17_20
+67204100,67204000,"Baby Toddler juice, mixed fruit",17_20
+67205000,67201000,"Baby Toddler juice, NFS",17_20
+67211000,67204000,"Baby Toddler juice, mixed fruit",17_20
+67230000,67230600,"Baby Toddler juice, fruit and vegetable",17_20
+67230500,67230600,"Baby Toddler juice, fruit and vegetable",17_20
+67250100,67250150,"Baby Toddler juice, fruit and yogurt blend",17_20
+67260000,67201000,"Baby Toddler juice, NFS",17_20
+67304000,67110000,Baby Toddler prunes,17_20
+67304010,67110000,Baby Toddler prunes,17_20
+67304020,67110000,Baby Toddler prunes,17_20
+67304030,67100250,"Baby Toddler fruit, with grain",17_20
+67304500,67100250,"Baby Toddler fruit, with grain",17_20
+67307000,67100000,"Baby Toddler fruit, NFS",17_20
+67307010,67100000,"Baby Toddler fruit, NFS",17_20
+67307020,67100000,"Baby Toddler fruit, NFS",17_20
+67308000,67105040,"Baby Toddler bananas, Stage 2",17_20
+67308020,67105040,"Baby Toddler bananas, Stage 2",17_20
+67309000,67100100,"Baby Toddler multiple fruit, Stage 2",17_20
+67309010,67100100,"Baby Toddler multiple fruit, Stage 2",17_20
+67309020,67100105,"Baby Toddler multiple fruit, Stage 3",17_20
+67309030,67100105,"Baby Toddler multiple fruit, Stage 3",17_20
+67404070,67100260,"Baby Toddler fruit, with yogurt",17_20
+67404300,67100260,"Baby Toddler fruit, with yogurt",17_20
+67404500,67100260,"Baby Toddler fruit, with yogurt",17_20
+67408500,67100260,"Baby Toddler fruit, with yogurt",17_20
+67410000,67408010,Baby Toddler pudding,17_20
+67413700,67100260,"Baby Toddler fruit, with yogurt",17_20
+67415000,67408010,Baby Toddler pudding,17_20
+67415010,67408010,Baby Toddler pudding,17_20
+67415020,67408010,Baby Toddler pudding,17_20
+67430000,53800000,"Baby Toddler snack, NFS",17_20
+67501000,67100480,Baby Toddler fruit and meat,17_20
+67501100,67100480,Baby Toddler fruit and meat,17_20
+67600100,67100350,"Baby Toddler fruit and vegetables, Stage 2",17_20
+71201060,71201050,"Potato chips, reduced fat",17_20
+71201210,71201200,"Potato chips, restructured, reduced fat, lightly salted",17_20
+71202100,71201200,"Potato chips, restructured, reduced fat, lightly salted",17_20
+71945010,73401000,"Sweet potato, NFS",17_20
+71950010,71962040,"Taro, cooked",17_20
+71980100,71962040,"Taro, cooked",17_20
+72107223,72107234,"Collards, canned, cooked with butter or margarine",17_20
+72118213,72128213,"Turnip greens, canned, cooked, no added fat",17_20
+72119223,72128213,"Turnip greens, canned, cooked, no added fat",17_20
+72121211,75210020,"Cabbage, Chinese, cooked, fat added",17_20
+72122223,72128223,"Turnip greens, canned, cooked, fat added",17_20
+21407110,21407000,"Beef, pot roast",17_20
+21407120,21407000,"Beef, pot roast",17_20
+21410110,21410000,"Beef, stew meat",17_20
+21410120,21410000,"Beef, stew meat",17_20
+21416110,21416000,"Beef, corned",17_20
+21416120,21416000,"Beef, corned",17_20
+21416150,21416000,"Beef, corned",17_20
+21417110,21417100,"Beef, brisket",17_20
+21417120,21417100,"Beef, brisket",17_20
+21701000,21701010,Baby Toddler beef,17_20
+21701020,21701010,Baby Toddler beef,17_20
+22000110,22000100,"Pork, NFS",17_20
+22000120,22000100,"Pork, NFS",17_20
+22000200,22000100,"Pork, NFS",17_20
+22000210,22000100,"Pork, NFS",17_20
+22000220,22000100,"Pork, NFS",17_20
+22000300,22101300,"Pork, chop, coated, NS as to fat eaten",17_20
+22000310,22101300,"Pork, chop, coated, NS as to fat eaten",17_20
+22000320,22101320,"Pork, chop, coated, lean only eaten",17_20
+22001000,22707020,"Pork, pig's feet, pickled",17_20
+22002100,22002000,"Pork, ground",17_20
+22101100,22101000,"Pork, chop, NS as to fat eaten",17_20
+22101110,22101010,"Pork, chop, lean and fat eaten",17_20
+22101120,22101020,"Pork, chop, lean only eaten",17_20
+22101130,22101300,"Pork, chop, coated, NS as to fat eaten",17_20
+22101140,22101310,"Pork, chop, coated, lean and fat eaten",17_20
+22101150,22101320,"Pork, chop, coated, lean only eaten",17_20
+22101200,22101300,"Pork, chop, coated, NS as to fat eaten",17_20
+22101210,22101310,"Pork, chop, coated, lean and fat eaten",17_20
+22101220,22101320,"Pork, chop, coated, lean only eaten",17_20
+22101400,22101310,"Pork, chop, coated, lean and fat eaten",17_20
+22101410,22101310,"Pork, chop, coated, lean and fat eaten",17_20
+22101420,22101320,"Pork, chop, coated, lean only eaten",17_20
+22101500,22101000,"Pork, chop, NS as to fat eaten",17_20
+22101510,22101010,"Pork, chop, lean and fat eaten",17_20
+22101520,22101020,"Pork, chop, lean only eaten",17_20
+22107000,22101000,"Pork, chop, NS as to fat eaten",17_20
+22107010,22101010,"Pork, chop, lean and fat eaten",17_20
+22107020,22101020,"Pork, chop, lean only eaten",17_20
+22201000,22201100,"Pork, steak, NS as to fat eaten",17_20
+22201010,22201110,"Pork, steak, lean and fat eaten",17_20
+22201020,22201120,"Pork, steak, lean only eaten",17_20
+22201050,22201400,"Pork, steak, coated",17_20
+22201060,22201400,"Pork, steak, coated",17_20
+22201070,22201400,"Pork, steak, coated",17_20
+22201200,22201100,"Pork, steak, NS as to fat eaten",17_20
+22201210,22201110,"Pork, steak, lean and fat eaten",17_20
+22201220,22201120,"Pork, steak, lean only eaten",17_20
+22201300,22201400,"Pork, steak, coated",17_20
+22201310,22201400,"Pork, steak, coated",17_20
+22201320,22201400,"Pork, steak, coated",17_20
+22201410,22201400,"Pork, steak, coated",17_20
+22201420,22201400,"Pork, steak, coated",17_20
+22210310,22210300,"Pork, tenderloin",17_20
+22210350,22210300,"Pork, tenderloin",17_20
+22210400,22210300,"Pork, tenderloin",17_20
+22210450,22210300,"Pork, tenderloin",17_20
+22300120,22311000,Ham,17_20
+22300130,22311000,Ham,17_20
+22300140,22311000,Ham,17_20
+22300150,22311000,Ham,17_20
+22300160,22311000,Ham,17_20
+22300170,22311000,Ham,17_20
+22301000,22311000,Ham,17_20
+22301110,22311000,Ham,17_20
+22301120,22311000,Ham,17_20
+22311010,22311000,Ham,17_20
+22311020,22311000,Ham,17_20
+22311510,22311500,"Ham, canned",17_20
+22311520,22311500,"Ham, canned",17_20
+22400110,22400100,"Pork, roast",17_20
+22400120,22400100,"Pork, roast",17_20
+22401000,22400100,"Pork, roast",17_20
+22401010,22400100,"Pork, roast",17_20
+22401020,22400100,"Pork, roast",17_20
+22411000,22400100,"Pork, roast",17_20
+22411010,22400100,"Pork, roast",17_20
+22411020,22400100,"Pork, roast",17_20
+22421000,22400100,"Pork, roast",17_20
+22421010,22400100,"Pork, roast",17_20
+22421020,22400100,"Pork, roast",17_20
+22621000,22621100,"Fat back, cooked",17_20
+22701010,22701000,"Pork, ribs",17_20
+22701020,22701000,"Pork, ribs",17_20
+22701030,22701000,"Pork, ribs",17_20
+22701040,22701000,"Pork, ribs",17_20
+22701050,22701000,"Pork, ribs",17_20
+22709110,22709010,Pork skin rinds,17_20
+23101010,23101000,"Lamb, chop",17_20
+23101020,23101000,"Lamb, chop",17_20
+23104000,23101000,"Lamb, chop",17_20
+23104010,23101000,"Lamb, chop",17_20
+23104020,23101000,"Lamb, chop",17_20
+23107000,23101000,"Lamb, chop",17_20
+23107010,23101000,"Lamb, chop",17_20
+23107020,23101000,"Lamb, chop",17_20
+23110000,23000100,"Lamb, NS as to cut",17_20
+23110010,23000100,"Lamb, NS as to cut",17_20
+23110050,23000100,"Lamb, NS as to cut",17_20
+23111010,23000100,"Lamb, NS as to cut",17_20
+23120100,23000100,"Lamb, NS as to cut",17_20
+23120110,23000100,"Lamb, NS as to cut",17_20
+23120120,23000100,"Lamb, NS as to cut",17_20
+23150200,23150100,Goat,17_20
+23150250,23150100,Goat,17_20
+23150300,23150100,Goat,17_20
+23200100,23201010,"Veal, chop",17_20
+23200110,23201010,"Veal, chop",17_20
+23200120,23201010,"Veal, chop",17_20
+23201020,23201010,"Veal, chop",17_20
+23201030,23201010,"Veal, chop",17_20
+23203010,23201010,"Veal, chop",17_20
+23203020,23201010,"Veal, chop",17_20
+23203030,23201010,"Veal, chop",17_20
+23203100,23201010,"Veal, chop",17_20
+23203110,23201010,"Veal, chop",17_20
+23203120,23201010,"Veal, chop",17_20
+23204010,23201010,"Veal, chop",17_20
+23204020,23201010,"Veal, chop",17_20
+23204030,23201010,"Veal, chop",17_20
+23204200,23201010,"Veal, chop",17_20
+23204210,23201010,"Veal, chop",17_20
+23204220,23201010,"Veal, chop",17_20
+23205010,23201010,"Veal, chop",17_20
+23205020,23201010,"Veal, chop",17_20
+23205030,23201010,"Veal, chop",17_20
+23210010,23201010,"Veal, chop",17_20
+23210020,23201010,"Veal, chop",17_20
+23210030,23201010,"Veal, chop",17_20
+23220030,23220010,"Veal, ground",17_20
+23311100,23310000,Rabbit,17_20
+23311120,23310000,Rabbit,17_20
+23311200,23310000,Rabbit,17_20
+23321050,23321900,Venison/deer jerky,17_20
+23321100,23321200,"Venison, steak",17_20
+23321250,23321200,"Venison, steak",17_20
+23322300,23321200,"Venison, steak",17_20
+23322350,23321200,"Venison, steak",17_20
+23322400,23321200,"Venison, steak",17_20
+23410010,20000300,"Baby Toddler meat, NFS",17_20
+23420010,20000300,"Baby Toddler meat, NFS",17_20
+24209000,27146011,Barbecue chicken,17_20
+24209001,27146011,Barbecue chicken,17_20
+24701000,24701010,Baby Toddler chicken,17_20
+24701020,24701010,Baby Toddler chicken,17_20
+24703000,24703010,Baby Toddler turkey,17_20
+24703020,24703010,Baby Toddler turkey,17_20
+24705010,22820000,Baby Toddler meat stick,17_20
+24706010,22820000,Baby Toddler meat stick,17_20
+25110120,25110140,"Liver, beef",17_20
+25110420,25110450,"Liver, chicken",17_20
+25160110,25160000,Tongue,17_20
+25210150,25210110,"Hot dog, NFS",17_20
+25210220,25210280,"Hot dog, meat and poultry",17_20
+25210240,25210290,"Hot dog, reduced fat",17_20
+25210250,25210290,"Hot dog, reduced fat",17_20
+25210310,25210410,"Hot dog, turkey",17_20
+25210620,25210290,"Hot dog, reduced fat",17_20
+25210750,25210290,"Hot dog, reduced fat",17_20
+25220445,25220435,"Bologna, reduced sodium",17_20
+25230540,25230550,"Spam, reduced sodium",17_20
+26100121,26100120,"Fish, NS as to type, baked or broiled",17_20
+26100122,26100120,"Fish, NS as to type, baked or broiled",17_20
+26100123,26100120,"Fish, NS as to type, baked or broiled",17_20
+26100124,26100120,"Fish, NS as to type, baked or broiled",17_20
+26100131,26100130,"Fish, NS as to type, baked or broiled, coated",17_20
+26100132,26100130,"Fish, NS as to type, baked or broiled, coated",17_20
+26100133,26100130,"Fish, NS as to type, baked or broiled, coated",17_20
+26100134,26100130,"Fish, NS as to type, baked or broiled, coated",17_20
+26100141,26100140,"Fish, NS as to type, fried",17_20
+26100142,26100140,"Fish, NS as to type, fried",17_20
+26100143,26100140,"Fish, NS as to type, fried",17_20
+26100144,26100140,"Fish, NS as to type, fried",17_20
+26100170,26100190,"Fish, smoked",17_20
+26100200,26100140,"Fish, NS as to type, fried",17_20
+26100260,26100270,"Fish, stick",17_20
+26101180,26101110,"Fish, anchovy",17_20
+26105120,26105110,"Fish, carp",17_20
+26105121,26105110,"Fish, carp",17_20
+26105130,26105110,"Fish, carp",17_20
+26105131,26105110,"Fish, carp",17_20
+26105140,26105110,"Fish, carp",17_20
+26105160,26105110,"Fish, carp",17_20
+26105190,26100190,"Fish, smoked",17_20
+26107121,26107120,"Fish, catfish, baked or broiled",17_20
+26107122,26107120,"Fish, catfish, baked or broiled",17_20
+26107124,26107120,"Fish, catfish, baked or broiled",17_20
+26107131,26107130,"Fish, catfish, baked or broiled, coated",17_20
+26107132,26107130,"Fish, catfish, baked or broiled, coated",17_20
+26107133,26107130,"Fish, catfish, baked or broiled, coated",17_20
+26107134,26107130,"Fish, catfish, baked or broiled, coated",17_20
+26107141,26107140,"Fish, catfish, fried",17_20
+26107142,26107140,"Fish, catfish, fried",17_20
+26107143,26107140,"Fish, catfish, fried",17_20
+26107144,26107140,"Fish, catfish, fried",17_20
+26109121,26109120,"Fish, cod, baked or broiled",17_20
+26109122,26109120,"Fish, cod, baked or broiled",17_20
+26109124,26109120,"Fish, cod, baked or broiled",17_20
+26109131,26109130,"Fish, cod, baked or broiled, coated",17_20
+26109132,26109130,"Fish, cod, baked or broiled, coated",17_20
+26109133,26109130,"Fish, cod, baked or broiled, coated",17_20
+26109134,26109130,"Fish, cod, baked or broiled, coated",17_20
+26109141,26109140,"Fish, cod, fried",17_20
+26109142,26109140,"Fish, cod, fried",17_20
+26109143,26109140,"Fish, cod, fried",17_20
+26109144,26109140,"Fish, cod, fried",17_20
+26109170,26100190,"Fish, smoked",17_20
+26109180,26109160,"Fish, cod, steamed",17_20
+26109190,26100190,"Fish, smoked",17_20
+26111120,26111110,"Fish, croaker",17_20
+26111121,26111110,"Fish, croaker",17_20
+26111130,26111110,"Fish, croaker",17_20
+26111131,26111110,"Fish, croaker",17_20
+26111140,26111110,"Fish, croaker",17_20
+26111160,26111110,"Fish, croaker",17_20
+26113160,26113110,"Fish, eel",17_20
+26113190,26100190,"Fish, smoked",17_20
+26115000,26100100,"Fish, raw",17_20
+26115121,26115120,"Fish, flounder, baked or broiled",17_20
+26115122,26115120,"Fish, flounder, baked or broiled",17_20
+26115124,26115120,"Fish, flounder, baked or broiled",17_20
+26115131,26115130,"Fish, flounder, baked or broiled, coated",17_20
+26115132,26115130,"Fish, flounder, baked or broiled, coated",17_20
+26115133,26115130,"Fish, flounder, baked or broiled, coated",17_20
+26115134,26115130,"Fish, flounder, baked or broiled, coated",17_20
+26115141,26115140,"Fish, flounder, fried",17_20
+26115142,26115140,"Fish, flounder, fried",17_20
+26115143,26115140,"Fish, flounder, fried",17_20
+26115144,26115140,"Fish, flounder, fried",17_20
+26115190,26100190,"Fish, smoked",17_20
+26117131,26117130,"Fish, haddock, baked or broiled, coated",17_20
+26117190,26100190,"Fish, smoked",17_20
+26118000,26100100,"Fish, raw",17_20
+26118020,26118010,"Fish, halibut",17_20
+26118021,26118010,"Fish, halibut",17_20
+26118022,26118010,"Fish, halibut",17_20
+26118023,26118010,"Fish, halibut",17_20
+26118024,26118010,"Fish, halibut",17_20
+26118030,26118010,"Fish, halibut",17_20
+26118031,26118010,"Fish, halibut",17_20
+26118032,26118010,"Fish, halibut",17_20
+26118033,26118010,"Fish, halibut",17_20
+26118034,26118010,"Fish, halibut",17_20
+26118040,26118010,"Fish, halibut",17_20
+26118041,26118010,"Fish, halibut",17_20
+26118042,26118010,"Fish, halibut",17_20
+26118043,26118010,"Fish, halibut",17_20
+26118044,26118010,"Fish, halibut",17_20
+26118050,26118010,"Fish, halibut",17_20
+26118060,26100190,"Fish, smoked",17_20
+26119100,26100100,"Fish, raw",17_20
+26119120,26119110,"Fish, herring",17_20
+26119121,26119110,"Fish, herring",17_20
+26119130,26119110,"Fish, herring",17_20
+26119131,26119110,"Fish, herring",17_20
+26119140,26119110,"Fish, herring",17_20
+26119160,26119180,"Fish, pickled",17_20
+26119170,26100190,"Fish, smoked",17_20
+26119190,26100190,"Fish, smoked",17_20
+26121100,26100100,"Fish, raw",17_20
+26121132,26121131,"Fish, mackerel, baked or broiled, coated",17_20
+26121160,26119180,"Fish, pickled",17_20
+26121190,26100190,"Fish, smoked",17_20
+26123100,26100100,"Fish, raw",17_20
+26123120,26123110,"Fish, mullet",17_20
+26123121,26123110,"Fish, mullet",17_20
+26123130,26123110,"Fish, mullet",17_20
+26123131,26123110,"Fish, mullet",17_20
+26123140,26123110,"Fish, mullet",17_20
+26123160,26100160,"Fish, NS as to type, steamed",17_20
+26125100,26100100,"Fish, raw",17_20
+26125110,26127110,"Fish, perch, NFS",17_20
+26125120,26127120,"Fish, perch, baked or broiled",17_20
+26125121,26127120,"Fish, perch, baked or broiled",17_20
+26125130,26127130,"Fish, perch, baked or broiled, coated",17_20
+26125131,26127130,"Fish, perch, baked or broiled, coated",17_20
+26125140,26127140,"Fish, perch, fried",17_20
+26125160,26127160,"Fish, perch, steamed",17_20
+26127121,26127120,"Fish, perch, baked or broiled",17_20
+26127122,26127120,"Fish, perch, baked or broiled",17_20
+26127124,26127120,"Fish, perch, baked or broiled",17_20
+26127131,26127130,"Fish, perch, baked or broiled, coated",17_20
+26127132,26127130,"Fish, perch, baked or broiled, coated",17_20
+26127133,26127130,"Fish, perch, baked or broiled, coated",17_20
+26127134,26127130,"Fish, perch, baked or broiled, coated",17_20
+26127141,26127140,"Fish, perch, fried",17_20
+26127142,26127140,"Fish, perch, fried",17_20
+26127143,26127140,"Fish, perch, fried",17_20
+26127144,26127140,"Fish, perch, fried",17_20
+26129120,26129110,"Fish, pike",17_20
+26129121,26129110,"Fish, pike",17_20
+26129130,26129110,"Fish, pike",17_20
+26129131,26129110,"Fish, pike",17_20
+26129140,26129110,"Fish, pike",17_20
+26129160,26129110,"Fish, pike",17_20
+26131100,26100100,"Fish, raw",17_20
+26131131,26131130,"Fish, pompano, baked or broiled, coated",17_20
+26131190,26100190,"Fish, smoked",17_20
+26133100,26100100,"Fish, raw",17_20
+26133120,26133110,"Fish, snapper",17_20
+26133121,26133110,"Fish, snapper",17_20
+26133130,26133110,"Fish, snapper",17_20
+26133131,26133110,"Fish, snapper",17_20
+26133140,26133110,"Fish, snapper",17_20
+26133160,26133110,"Fish, snapper",17_20
+26135110,26100120,"Fish, NS as to type, baked or broiled",17_20
+26135120,26100120,"Fish, NS as to type, baked or broiled",17_20
+26135121,26100120,"Fish, NS as to type, baked or broiled",17_20
+26135130,26100120,"Fish, NS as to type, baked or broiled",17_20
+26135131,26100130,"Fish, NS as to type, baked or broiled, coated",17_20
+26135140,26100140,"Fish, NS as to type, fried",17_20
+26135160,26100160,"Fish, NS as to type, steamed",17_20
+26137121,26137120,"Fish, salmon, baked or broiled",17_20
+26137122,26137120,"Fish, salmon, baked or broiled",17_20
+26137124,26137120,"Fish, salmon, baked or broiled",17_20
+26137131,26137130,"Fish, salmon, baked or broiled, coated",17_20
+26137132,26137130,"Fish, salmon, baked or broiled, coated",17_20
+26137133,26137130,"Fish, salmon, baked or broiled, coated",17_20
+26137134,26137130,"Fish, salmon, baked or broiled, coated",17_20
+26137141,26137140,"Fish, salmon, fried",17_20
+27550740,27550720,Tuna salad sandwich on white,17_20
+27550745,27550730,"Tuna salad sandwich on white, with cheese",17_20
+27564002,27564001,"Hot dog sandwich, NFS, on wheat bun",17_20
+27564003,27564001,"Hot dog sandwich, NFS, on wheat bun",17_20
+27564004,27564001,"Hot dog sandwich, NFS, on wheat bun",17_20
+27564030,27564020,"Hot dog sandwich, NFS, on wheat bread",17_20
+27564040,27564020,"Hot dog sandwich, NFS, on wheat bread",17_20
+27564050,27564020,"Hot dog sandwich, NFS, on wheat bread",17_20
+27564062,27564061,"Hot dog sandwich, beef, on wheat bun",17_20
+27564063,27564061,"Hot dog sandwich, beef, on wheat bun",17_20
+27564064,27564061,"Hot dog sandwich, beef, on wheat bun",17_20
+27564090,27564080,"Hot dog sandwich, beef, on wheat bread",17_20
+27564100,27564080,"Hot dog sandwich, beef, on wheat bread",17_20
+27564110,27564080,"Hot dog sandwich, beef, on wheat bread",17_20
+27564120,27564180,"Hot dog sandwich, meat and poultry, on white bun",17_20
+27564121,27564181,"Hot dog sandwich, meat and poultry, on wheat bun",17_20
+27564122,27564181,"Hot dog sandwich, meat and poultry, on wheat bun",17_20
+27564123,27564181,"Hot dog sandwich, meat and poultry, on wheat bun",17_20
+27564124,27564181,"Hot dog sandwich, meat and poultry, on wheat bun",17_20
+27564130,27564190,"Hot dog sandwich, meat and poultry, on white bread",17_20
+27564140,27564200,"Hot dog sandwich, meat and poultry, on wheat bread",17_20
+27564150,27564200,"Hot dog sandwich, meat and poultry, on wheat bread",17_20
+27564160,27564200,"Hot dog sandwich, meat and poultry, on wheat bread",17_20
+27564170,27564200,"Hot dog sandwich, meat and poultry, on wheat bread",17_20
+27564182,27564181,"Hot dog sandwich, meat and poultry, on wheat bun",17_20
+27564183,27564181,"Hot dog sandwich, meat and poultry, on wheat bun",17_20
+27564184,27564181,"Hot dog sandwich, meat and poultry, on wheat bun",17_20
+27564210,27564200,"Hot dog sandwich, meat and poultry, on wheat bread",17_20
+27564220,27564200,"Hot dog sandwich, meat and poultry, on wheat bread",17_20
+27564230,27564200,"Hot dog sandwich, meat and poultry, on wheat bread",17_20
+27564242,27564241,"Hot dog sandwich, turkey, on wheat bun",17_20
+27564243,27564241,"Hot dog sandwich, turkey, on wheat bun",17_20
+27564244,27564241,"Hot dog sandwich, turkey, on wheat bun",17_20
+27564270,27564260,"Hot dog sandwich, turkey, on wheat bread",17_20
+27564280,27564260,"Hot dog sandwich, turkey, on wheat bread",17_20
+27564290,27564260,"Hot dog sandwich, turkey, on wheat bread",17_20
+27564302,27564301,"Hot dog sandwich, reduced fat, on wheat bun",17_20
+27564303,27564301,"Hot dog sandwich, reduced fat, on wheat bun",17_20
+27564304,27564301,"Hot dog sandwich, reduced fat, on wheat bun",17_20
+27564330,27564320,"Hot dog sandwich, reduced fat, on wheat bread",17_20
+27564340,27564320,"Hot dog sandwich, reduced fat, on wheat bread",17_20
+27564350,27564320,"Hot dog sandwich, reduced fat, on wheat bread",17_20
+27564360,27564300,"Hot dog sandwich, reduced fat, on white bun",17_20
+27564361,27564301,"Hot dog sandwich, reduced fat, on wheat bun",17_20
+27564362,27564301,"Hot dog sandwich, reduced fat, on wheat bun",17_20
+27564363,27564301,"Hot dog sandwich, reduced fat, on wheat bun",17_20
+27564364,27564301,"Hot dog sandwich, reduced fat, on wheat bun",17_20
+27564370,27564310,"Hot dog sandwich, reduced fat, on white bread",17_20
+27564380,27564320,"Hot dog sandwich, reduced fat, on wheat bread",17_20
+27564390,27564320,"Hot dog sandwich, reduced fat, on wheat bread",17_20
+27564400,27564320,"Hot dog sandwich, reduced fat, on wheat bread",17_20
+27564410,27564320,"Hot dog sandwich, reduced fat, on wheat bread",17_20
+27564418,27564300,"Hot dog sandwich, reduced fat, on white bun",17_20
+27564442,27564441,"Chili hot dog sandwich, on wheat bun",17_20
+27564443,27564441,"Chili hot dog sandwich, on wheat bun",17_20
+27564444,27564441,"Chili hot dog sandwich, on wheat bun",17_20
+27564470,27564460,"Chili hot dog sandwich, on wheat bread",17_20
+27564480,27564460,"Chili hot dog sandwich, on wheat bread",17_20
+27564490,27564460,"Chili hot dog sandwich, on wheat bread",17_20
+27601000,76700000,"Toddler meal, NFS",17_20
+27610100,76407080,Baby Toddler vegetables and meat,17_20
+27610110,76407080,Baby Toddler vegetables and meat,17_20
+27610120,76407080,Baby Toddler vegetables and meat,17_20
+27610710,76407080,Baby Toddler vegetables and meat,17_20
+27610730,76702100,"Toddler meal, meat and vegetables",17_20
+27640050,76407080,Baby Toddler vegetables and meat,17_20
+27640100,76407080,Baby Toddler vegetables and meat,17_20
+27640110,76407080,Baby Toddler vegetables and meat,17_20
+27640120,76407080,Baby Toddler vegetables and meat,17_20
+27640810,76702400,"Toddler meal, pasta and vegetables",17_20
+27641000,76700000,"Toddler meal, NFS",17_20
+27642100,76407080,Baby Toddler vegetables and meat,17_20
+27642110,76407080,Baby Toddler vegetables and meat,17_20
+27642120,76407080,Baby Toddler vegetables and meat,17_20
+27642130,76702200,"Toddler meal, rice and vegetables",17_20
+27644110,76407080,Baby Toddler vegetables and meat,17_20
+28310160,28340120,"Chicken or turkey broth, without tomato, home recipe",17_20
+28310320,75652010,"Vegetable beef soup, home recipe",17_20
+28310420,75652010,"Vegetable beef soup, home recipe",17_20
+28311030,28315150,"Meat and corn hominy soup, home recipe, Mexican style",17_20
+28317010,75652010,"Vegetable beef soup, home recipe",17_20
+28340130,28340120,"Chicken or turkey broth, without tomato, home recipe",17_20
+28340150,28340670,"Chicken or turkey vegetable soup with rice, home recipe, Mexican style",17_20
+28340179,28340120,"Chicken or turkey broth, without tomato, home recipe",17_20
+28340210,58403040,"Chicken or turkey noodle soup, home recipe",17_20
+28340220,28340670,"Chicken or turkey vegetable soup with rice, home recipe, Mexican style",17_20
+28340690,28340660,"Chicken or turkey vegetable soup, home recipe",17_20
+28345010,28345110,"Chicken or turkey soup, cream of, NS as to prepared with milk or water",17_20
+28345020,58403060,"Chicken or turkey noodle soup, reduced sodium, canned or ready-to-serve",17_20
+28345030,58403060,"Chicken or turkey noodle soup, reduced sodium, canned or ready-to-serve",17_20
+28345130,28345110,"Chicken or turkey soup, cream of, NS as to prepared with milk or water",17_20
+28345160,28345110,"Chicken or turkey soup, cream of, NS as to prepared with milk or water",17_20
+28350040,28340120,"Chicken or turkey broth, without tomato, home recipe",17_20
+28350110,28355250,Lobster bisque,17_20
+28350120,28350220,"Clam chowder, Manhattan",17_20
+28351120,28355480,"Seafood soup with vegetables excluding carrots, broccoli, and dark-green leafy; no potatoes",17_20
+28351170,28355480,"Seafood soup with vegetables excluding carrots, broccoli, and dark-green leafy; no potatoes",17_20
+28355210,28355250,Lobster bisque,17_20
+28355310,28355250,Lobster bisque,17_20
+28355350,28355110,"Clam chowder, New England, NS as to prepared with water or milk",17_20
+28355430,28355110,"Clam chowder, New England, NS as to prepared with water or milk",17_20
+28360210,75649110,"Vegetable soup, home recipe",17_20
+41601040,41601180,"Bean and ham soup, home recipe",17_20
+41601080,41601180,"Bean and ham soup, home recipe",17_20
+41601090,41601010,"Bean soup, NFS",17_20
+41601110,41601180,"Bean and ham soup, home recipe",17_20
+41601130,41601180,"Bean and ham soup, home recipe",17_20
+41602010,41602030,Split pea and ham soup,17_20
+41602070,41602050,Split pea soup,17_20
+41602090,41602030,Split pea and ham soup,17_20
+42301025,42301020,"Peanut butter sandwich, with regular peanut butter, on wheat bread",17_20
+42301125,42301120,"Peanut butter sandwich, with reduced fat peanut butter, on wheat bread",17_20
+42302025,42302020,"Peanut butter and jelly sandwich, with regular peanut butter, regular jelly, on wheat bread",17_20
+42302065,42302060,"Peanut butter and jelly sandwich, with reduced fat peanut butter, on wheat bread",17_20
+42302115,42302020,"Peanut butter and jelly sandwich, with regular peanut butter, regular jelly, on wheat bread",17_20
+42302155,42302055,"Peanut butter and jelly sandwich, with reduced fat peanut butter, on white bread",17_20
+42302160,42302060,"Peanut butter and jelly sandwich, with reduced fat peanut butter, on wheat bread",17_20
+42302165,42302060,"Peanut butter and jelly sandwich, with reduced fat peanut butter, on wheat bread",17_20
+44201000,91705200,Chocolate chips,17_20
+51184240,51184220,"Breadsticks, soft, frozen",17_20
+51184250,51184260,"Breadsticks, soft, stuffed or topped with melted cheese",17_20
+52101040,51186010,"Muffin, English",17_20
+53101200,53101100,"Cake, angel food",17_20
+53101250,53101100,"Cake, angel food",17_20
+53102100,53102200,"Cake or cupcake, apple",17_20
+53102600,53102700,"Cake or cupcake, banana",17_20
+53104100,53104260,"Cake or cupcake, carrot",17_20
+53104300,53104260,"Cake or cupcake, carrot",17_20
+53105500,53108200,"Snack cake, chocolate",17_20
+53108220,53108200,"Snack cake, chocolate",17_20
+53109220,53109200,"Snack cake, white",17_20
+53109300,53118500,"Cake, torte",17_20
+53114000,53114100,"Cake or cupcake, lemon",17_20
+53115100,53115200,"Cake or cupcake, marble",17_20
+53115310,53100100,"Cake or cupcake, NFS",17_20
+53115320,53100100,"Cake or cupcake, NFS",17_20
+53115410,53100100,"Cake or cupcake, NFS",17_20
+53116020,53116000,"Cake, pound",17_20
+53116270,53116000,"Cake, pound",17_20
+53116350,53116000,"Cake, pound",17_20
+53116390,53116000,"Cake, pound",17_20
+53116500,53116510,"Cake or cupcake, pumpkin",17_20
+53116550,53102200,"Cake or cupcake, apple",17_20
+53116570,53441210,Basbousa,17_20
+53116600,53105310,"Cake or cupcake, gluten free",17_20
+53116650,51161250,"Pan Dulce, no topping",17_20
+53117100,53117200,"Cake or cupcake, spice",17_20
+53118200,53118100,"Cake, sponge",17_20
+53118300,53118100,"Cake, sponge",17_20
+53118410,53106500,"Cake, cream",17_20
+53120275,53121275,"Cake or cupcake, white, no icing",17_20
+53122070,53123070,"Cake, strawberry shortcake",17_20
+53122080,53123070,"Cake, strawberry shortcake",17_20
+53123080,53123070,"Cake, strawberry shortcake",17_20
+53123500,53123070,"Cake, strawberry shortcake",17_20
+53204860,53204840,"Cookie, brownie, reduced fat, NS as to icing",17_20
+53220040,53220030,"Cookie, fig bar",17_20
+53300170,53300200,"Tart, all types",17_20
+53300180,53301070,"Pie, apple, fast food",17_20
+53301080,53301070,"Pie, apple, fast food",17_20
+53301500,53301000,"Pie, apple",17_20
+53302000,53300100,"Pie, NFS",17_20
+53302070,53300200,"Tart, all types",17_20
+53302080,53301070,"Pie, apple, fast food",17_20
+53303000,53303500,"Pie, berry",17_20
+53303070,53300200,"Tart, all types",17_20
+53303510,53303500,"Pie, berry",17_20
+53303570,53300200,"Tart, all types",17_20
+53304070,53300200,"Tart, all types",17_20
+53305010,53305000,"Pie, cherry",17_20
+53305070,53300200,"Tart, all types",17_20
+53305080,53301070,"Pie, apple, fast food",17_20
+53305720,53300200,"Tart, all types",17_20
+53305750,53301070,"Pie, apple, fast food",17_20
+53306000,53300100,"Pie, NFS",17_20
+53307050,53307000,"Pie, peach",17_20
+53307070,53300200,"Tart, all types",17_20
+53307080,53301070,"Pie, apple, fast food",17_20
+53307500,53300100,"Pie, NFS",17_20
+53307570,53300200,"Tart, all types",17_20
+53308000,53300100,"Pie, NFS",17_20
+53308070,53300200,"Tart, all types",17_20
+53309000,53300100,"Pie, NFS",17_20
+53309070,53300200,"Tart, all types",17_20
+53310000,53303500,"Pie, berry",17_20
+53310050,53303500,"Pie, berry",17_20
+53311000,53312000,"Pie, strawberry",17_20
+53313000,53312000,"Pie, strawberry",17_20
+53314000,53300200,"Tart, all types",17_20
+53340000,53301000,"Pie, apple",17_20
+53340500,53305000,"Pie, cherry",17_20
+53341070,53300200,"Tart, all types",17_20
+53341500,53344000,"Pie, custard",17_20
+53341750,53344000,"Pie, custard",17_20
+53342070,53300200,"Tart, all types",17_20
+53343070,53300200,"Tart, all types",17_20
+53344070,53300200,"Tart, all types",17_20
+53344200,53300200,"Tart, all types",17_20
+53345000,53381000,"Pie, lemon meringue",17_20
+53345070,53300200,"Tart, all types",17_20
+53347070,53300200,"Tart, all types",17_20
+53347500,53300100,"Pie, NFS",17_20
+53347600,53360000,"Pie, sweet potato",17_20
+53348000,53300100,"Pie, NFS",17_20
+53348070,53300200,"Tart, all types",17_20
+53370000,53365000,"Pie, vanilla cream",17_20
+53371000,53342000,"Pie, chocolate cream",17_20
+53373000,53342000,"Pie, chocolate cream",17_20
+53381070,53300200,"Tart, all types",17_20
+53382000,53342000,"Pie, chocolate cream",17_20
+53385070,53300200,"Tart, all types",17_20
+53386000,53365000,"Pie, vanilla cream",17_20
+53387000,53206020,"Cookie, chocolate chip, made from home recipe or purchased at a bakery",17_20
+53390000,53300100,"Pie, NFS",17_20
+53390100,53300100,"Pie, NFS",17_20
+53391200,53300100,"Pie, NFS",17_20
+53400200,55400010,"Crepe, NFS",17_20
+53400300,55400010,"Crepe, NFS",17_20
+53410200,53410100,"Cobbler, apple",17_20
+53410850,53410100,"Cobbler, apple",17_20
+53410880,53410100,"Cobbler, apple",17_20
+53410900,53410300,"Cobbler, berry",17_20
+53415200,53415120,"Fritter, fruit",17_20
+53415220,53415120,"Fritter, fruit",17_20
+53420310,53415110,"Fritter, plain",17_20
+53430000,55400010,"Crepe, NFS",17_20
+53430750,53430700,"Tamale, sweet",17_20
+53440800,53440000,"Strudel, apple",17_20
+53450300,53450000,"Turnover, fruit",17_20
+53450500,53450000,"Turnover, fruit",17_20
+53450800,53450000,"Turnover, fruit",17_20
+53451000,53450000,"Turnover, fruit",17_20
+53451500,53450000,"Turnover, fruit",17_20
+53451750,53450000,"Turnover, fruit",17_20
+53453170,53453150,"Empanada, fruit",17_20
+53803050,53803100,Baby Toddler cookie,17_20
+53803250,53803300,Baby Toddler biscuit,17_20
+54339000,54001000,"Crackers, NFS",17_20
+54350010,54350100,"Baby Toddler puffs, fruit",17_20
+54350020,54350100,"Baby Toddler puffs, fruit",17_20
+54401095,54404000,"Popcorn chips, plain",17_20
+54403055,54403054,"Popcorn, microwave, low sodium",17_20
+54403061,54403057,"Popcorn, microwave, flavored, light",17_20
+54403062,54403058,"Popcorn, microwave, cheese flavored",17_20
+54403084,54403083,"Popcorn, ready-to-eat, low sodium",17_20
+54403086,54403057,"Popcorn, microwave, flavored, light",17_20
+54403091,54403057,"Popcorn, microwave, flavored, light",17_20
+54403092,54403058,"Popcorn, microwave, cheese flavored",17_20
+55100015,55101015,"Pancakes, plain, reduced fat",17_20
+55100035,55105205,"Pancakes, whole grain, reduced fat",17_20
+55100040,55106000,"Pancakes, gluten free",17_20
+55100070,55100065,"Pancakes, whole grain, fast food / restaurant",17_20
+55105000,55105200,"Pancakes, whole grain",17_20
+55105100,55105200,"Pancakes, whole grain",17_20
+55200090,55208000,"Waffle, gluten free",17_20
+55204000,55205000,"Waffle, whole grain",17_20
+55211050,55200030,"Waffle, plain, reduced fat",17_20
+55212000,55200070,"Waffle, whole grain, reduced fat",17_20
+55300030,55301015,"French toast, whole grain",17_20
+55300040,55301025,"French toast, gluten free",17_20
+55300055,55301015,"French toast, whole grain",17_20
+55301010,55301000,"French toast, plain",17_20
+55301020,55301015,"French toast, whole grain",17_20
+55301030,55301031,French toast sticks,17_20
+55301050,55301031,French toast sticks,17_20
+55301055,55301015,"French toast, whole grain",17_20
+56200390,56200410,Barley,17_20
+56200400,56200410,Barley,17_20
+56200490,56200510,Buckwheat groats,17_20
+56200500,56200510,Buckwheat groats,17_20
+56201000,56200990,"Grits, NFS",17_20
+56201040,56200990,"Grits, NFS",17_20
+56201055,56201050,"Grits, regular or quick, made with water, NS as to fat",17_20
+56201056,56201051,"Grits, regular or quick, made with water, no added fat",17_20
+56201057,56201052,"Grits, regular or quick, made with water, fat added",17_20
+56201065,56201050,"Grits, regular or quick, made with water, NS as to fat",17_20
+56201066,56201051,"Grits, regular or quick, made with water, no added fat",17_20
+56201067,56201052,"Grits, regular or quick, made with water, fat added",17_20
+56201340,56201220,"Grits, instant, made with water, fat added",17_20
+56201342,56201210,"Grits, instant, made with water, no added fat",17_20
+56201344,56201230,"Grits, instant, made with water, NS as to fat",17_20
+56201350,56201230,"Grits, instant, made with water, NS as to fat",17_20
+56201355,56201210,"Grits, instant, made with water, no added fat",17_20
+56201360,56201220,"Grits, instant, made with water, fat added",17_20
+56201550,52202060,"Cornbread, made from home recipe",17_20
+56201990,56202000,Millet,17_20
+56202100,56202000,Millet,17_20
+56202910,56202905,"Oatmeal, fast food, flavored",17_20
+56202920,56202905,"Oatmeal, fast food, flavored",17_20
+56203000,56202960,"Oatmeal, NFS",17_20
+56203040,56202960,"Oatmeal, NFS",17_20
+56203055,56203057,"Oatmeal, regular or quick, made with water, fat added",17_20
+56203065,56203067,"Oatmeal, regular or quick, made with milk, fat added",17_20
+56203075,56203077,"Oatmeal, regular or quick, made with non-dairy milk, fat added",17_20
+56203085,56203087,"Oatmeal, instant, plain, made with water, fat added",17_20
+56203095,56203097,"Oatmeal, instant, plain, made with milk, fat added",17_20
+56203105,56203107,"Oatmeal, instant, plain, made with non-dairy milk, fat added",17_20
+56203125,56203130,"Oatmeal, instant, maple flavored, no added fat",17_20
+56203150,56203155,"Oatmeal, instant, fruit flavored, no added fat",17_20
+56203170,56203130,"Oatmeal, instant, maple flavored, no added fat",17_20
+56203175,56203130,"Oatmeal, instant, maple flavored, no added fat",17_20
+56203180,56203135,"Oatmeal, instant, maple flavored, fat added",17_20
+56203500,56203555,"Oatmeal, reduced sugar",17_20
+56203510,56203555,"Oatmeal, reduced sugar",17_20
+56203520,56203555,"Oatmeal, reduced sugar",17_20
+56203550,56203555,"Oatmeal, reduced sugar",17_20
+56203560,56203555,"Oatmeal, reduced sugar",17_20
+56203600,56203610,"Oatmeal, multigrain",17_20
+56203620,56203610,"Oatmeal, multigrain",17_20
+56205090,56205050,Cream of rice,17_20
+56205092,56205050,Cream of rice,17_20
+56205094,56205050,Cream of rice,17_20
+56207000,56206990,"Cream of wheat, NFS",17_20
+56207005,56206990,"Cream of wheat, NFS",17_20
+56207015,56207016,"Cream of wheat, regular or quick, made with water, no added fat",17_20
+56207021,56207016,"Cream of wheat, regular or quick, made with water, no added fat",17_20
+56207022,56207016,"Cream of wheat, regular or quick, made with water, no added fat",17_20
+56207023,56207017,"Cream of wheat, regular or quick, made with water, fat added",17_20
+56207025,56207016,"Cream of wheat, regular or quick, made with water, no added fat",17_20
+56207026,56207016,"Cream of wheat, regular or quick, made with water, no added fat",17_20
+56207027,56207017,"Cream of wheat, regular or quick, made with water, fat added",17_20
+56207070,56207030,"Cream of wheat, instant, made with water, no added fat",17_20
+56207094,56207060,"Cream of wheat, instant, made with water, fat added",17_20
+56207095,56207030,"Cream of wheat, instant, made with water, no added fat",17_20
+56207096,56207030,"Cream of wheat, instant, made with water, no added fat",17_20
+56207101,56207030,"Cream of wheat, instant, made with water, no added fat",17_20
+56207102,56207030,"Cream of wheat, instant, made with water, no added fat",17_20
+56207103,56207060,"Cream of wheat, instant, made with water, fat added",17_20
+56207190,56207200,"Whole wheat cereal, cooked",17_20
+56207210,56207200,"Whole wheat cereal, cooked",17_20
+56208510,56208500,"Oat bran cereal, cooked",17_20
+56208520,56208500,"Oat bran cereal, cooked",17_20
+56209000,56205050,Cream of rice,17_20
+56210000,57820200,"Baby Toddler cereal, oatmeal, ready-to-eat",17_20
+57000100,57123000,"Cereal, O's, plain",17_20
+57101000,57207000,"Cereal, bran flakes, plain",17_20
+57103000,57304100,"Cereal, oat squares",17_20
+57104000,57221700,"Cereal, fruit rings",17_20
+57106050,57301600,"Cereal, multigrain",17_20
+57106060,57103100,"Cereal, O's, flavored",17_20
+57106260,57103100,"Cereal, O's, flavored",17_20
+57117000,57119000,"Cereal, crunch",17_20
+57117500,57119000,"Cereal, crunch",17_20
+57120000,57119000,"Cereal, crunch",17_20
+57124030,57240100,"Cereal, corn squares, flavored",17_20
+57124050,57240100,"Cereal, corn squares, flavored",17_20
+57124100,57103100,"Cereal, O's, flavored",17_20
+57124300,57305150,"Cereal, frosted oats with marshmallows",17_20
+57127000,57126000,"Cereal, chocolate crispy",17_20
+57128000,57124200,"Cereal, chocolate puffs",17_20
+57130000,57124200,"Cereal, chocolate puffs",17_20
+57135000,57134000,"Cereal, corn flakes, plain",17_20
+57143500,57301600,"Cereal, multigrain",17_20
+57206700,57207000,"Cereal, bran flakes, plain",17_20
+57206710,57301600,"Cereal, multigrain",17_20
+57206715,57301600,"Cereal, multigrain",17_20
+57208000,57207000,"Cereal, bran flakes, plain",17_20
+57209000,57207000,"Cereal, bran flakes, plain",17_20
+57213000,57221700,"Cereal, fruit rings",17_20
+57213010,57221700,"Cereal, fruit rings",17_20
+57213850,57103100,"Cereal, O's, flavored",17_20
+57221810,57103100,"Cereal, O's, flavored",17_20
+57224000,57240100,"Cereal, corn squares, flavored",17_20
+57228000,57227000,"Cereal, granola",17_20
+57229000,57227000,"Cereal, granola",17_20
+57230000,57207000,"Cereal, bran flakes, plain",17_20
+57231200,57301600,"Cereal, multigrain",17_20
+57237200,57237100,"Cereal, oat bunches",17_20
+57237300,57237100,"Cereal, oat bunches",17_20
+57238000,57347000,"Cereal, flavored puffs",17_20
+57243000,57347000,"Cereal, flavored puffs",17_20
+57301500,57301600,"Cereal, multigrain",17_20
+57301505,57301600,"Cereal, multigrain",17_20
+57301510,57301600,"Cereal, multigrain",17_20
+57301511,57301600,"Cereal, multigrain",17_20
+57301512,57301600,"Cereal, multigrain",17_20
+57301530,57301600,"Cereal, multigrain",17_20
+57303100,57137000,"Cereal, corn puffs",17_20
+57303200,57124200,"Cereal, chocolate puffs",17_20
+57305100,57305150,"Cereal, frosted oats with marshmallows",17_20
+57305210,57348000,"Cereal, corn flakes, flavored",17_20
+57305600,57305150,"Cereal, frosted oats with marshmallows",17_20
+57306500,57347000,"Cereal, flavored puffs",17_20
+57308190,57227000,"Cereal, granola",17_20
+57309100,57227000,"Cereal, granola",17_20
+57316380,57103100,"Cereal, O's, flavored",17_20
+57316385,57103100,"Cereal, O's, flavored",17_20
+57316710,57103100,"Cereal, O's, flavored",17_20
+57320500,57227000,"Cereal, granola",17_20
+57327500,57304100,"Cereal, oat squares",17_20
+57330000,57329000,"Cereal, bran flakes, flavored",17_20
+57330010,57329000,"Cereal, bran flakes, flavored",17_20
+57331000,57329000,"Cereal, bran flakes, flavored",17_20
+57339000,57151000,"Cereal, rice crispy, plain",17_20
+57339500,57216000,"Cereal, rice crispy, flavored",17_20
+57340000,57416000,"Cereal, plain puffs",17_20
+57341300,57124200,"Cereal, chocolate puffs",17_20
+57344001,57344010,"Cereal, K's, flavored",17_20
+57344005,57344010,"Cereal, K's, flavored",17_20
+57344015,57344010,"Cereal, K's, flavored",17_20
+57344020,57344010,"Cereal, K's, flavored",17_20
+57344025,57344010,"Cereal, K's, flavored",17_20
+57349000,57348000,"Cereal, corn flakes, flavored",17_20
+57407100,57347000,"Cereal, flavored puffs",17_20
+57803000,57805000,"Baby Toddler cereal, rice, dry",17_20
+57805080,57805090,"Baby Toddler cereal, rice with fruit, dry",17_20
+57805100,57805090,"Baby Toddler cereal, rice with fruit, dry",17_20
+57805500,57805000,"Baby Toddler cereal, rice, dry",17_20
+57806200,57806100,"Baby Toddler cereal, oatmeal with fruit, dry",17_20
+57807010,57806000,"Baby Toddler cereal, multigrain with fruit, dry",17_20
+57824500,57824000,"Baby Toddler cereal, rice with fruit, ready-to-eat",17_20
+57830100,54350100,"Baby Toddler puffs, fruit",17_20
+58100370,58100360,Chilaquiles,17_20
+58101820,58101830,Frito pie,17_20
+58103210,58103250,"Tamale, no meat",17_20
+58104090,58104120,"Nachos, cheese only",17_20
+58104160,58104135,"Nachos, beef or pork, with beans",17_20
+58104180,58104130,"Nachos, beef or pork",17_20
+58104190,58104150,"Nachos, chicken",17_20
+58104270,58104260,"Gordita, with beans",17_20
+58104280,58104290,"Gordita, meat",17_20
+58104320,58104290,"Gordita, meat",17_20
+58104340,58104290,"Gordita, meat",17_20
+58104535,58104500,"Chimichanga, meat",17_20
+58104540,58104520,"Chimichanga, with beans",17_20
+58104550,58104530,"Chimichanga, chicken",17_20
+58104720,58104710,"Quesadilla, cheese only",17_20
+58104745,58104740,"Quesadilla, chicken",17_20
+58104820,58104825,"Taquito, beef or pork",17_20
+58104830,58104835,"Taquito, chicken",17_20
+58111130,58111110,"Wonton, dumpling or pot sticker, fried",17_20
+58117110,58105100,"Pupusa, cheese only",17_20
+58120120,58120110,"Crepe, with meat",17_20
+58121510,58121610,Pierogi,17_20
+58121620,58121610,Pierogi,17_20
+58122310,58122320,Knish,17_20
+58122330,58122320,Knish,17_20
+58126000,58126125,"Turnover or hot pocket, beef",17_20
+58126110,58126125,"Turnover or hot pocket, beef",17_20
+58126170,58126125,"Turnover or hot pocket, beef",17_20
+58126180,58126125,"Turnover or hot pocket, beef",17_20
+58126280,58126270,"Turnover or hot pocket, chicken",17_20
+58126300,58126150,"Turnover or hot pocket, pizza pocket, meat",17_20
+58126410,58126400,"Turnover or breakfast pocket, egg",17_20
+58127110,58126105,"Turnover or hot pocket, meatless",17_20
+58127150,58126105,"Turnover or hot pocket, meatless",17_20
+58201025,58201015,"Jelly sandwich, on wheat bread",17_20
+58201035,58201005,"Jelly sandwich, on white bread",17_20
+58201045,58201015,"Jelly sandwich, on wheat bread",17_20
+58201055,58201015,"Jelly sandwich, on wheat bread",17_20
+58401200,58401010,"Barley soup, home recipe, canned, or ready-to-serve",17_20
+58402020,75652010,"Vegetable beef soup, home recipe",17_20
+58402030,75652010,"Vegetable beef soup, home recipe",17_20
+58403100,58421020,"Sopa de Fideo Aguada, Mexican style noodle soup, home recipe",17_20
+58404050,58403060,"Chicken or turkey noodle soup, reduced sodium, canned or ready-to-serve",17_20
+58409000,28310330,Pho,17_20
+58503000,76407080,Baby Toddler vegetables and meat,17_20
+58503010,76407080,Baby Toddler vegetables and meat,17_20
+58503020,76407080,Baby Toddler vegetables and meat,17_20
+58503050,76702400,"Toddler meal, pasta and vegetables",17_20
+58508000,76702300,"Toddler meal, pasta",17_20
+58508300,76702300,"Toddler meal, pasta",17_20
+58509020,76407080,Baby Toddler vegetables and meat,17_20
+58509100,76702300,"Toddler meal, pasta",17_20
+58509200,76407050,"Baby Toddler vegetables, with grain",17_20
+67100110,53801000,Baby Toddler bar,17_20
+67100200,67100100,"Baby Toddler multiple fruit, Stage 2",17_20
+67100300,67102030,"Baby Toddler apples, Stage 2",17_20
+67101000,67100100,"Baby Toddler multiple fruit, Stage 2",17_20
+67101010,67100100,"Baby Toddler multiple fruit, Stage 2",17_20
+67101020,67100105,"Baby Toddler multiple fruit, Stage 3",17_20
+67102000,67102030,"Baby Toddler apples, Stage 2",17_20
+67102020,67102030,"Baby Toddler apples, Stage 2",17_20
+67104000,67100100,"Baby Toddler multiple fruit, Stage 2",17_20
+67104010,67100100,"Baby Toddler multiple fruit, Stage 2",17_20
+67104020,67100105,"Baby Toddler multiple fruit, Stage 3",17_20
+67104030,67100100,"Baby Toddler multiple fruit, Stage 2",17_20
+67104040,67100100,"Baby Toddler multiple fruit, Stage 2",17_20
+72128237,72128213,"Turnip greens, canned, cooked, no added fat",17_20
+72128238,72128223,"Turnip greens, canned, cooked, fat added",17_20
+73210010,73201020,"Pumpkin, cooked",17_20
+73304010,75418010,"Fried summer squash, yellow or green",17_20
+73402000,73403000,"Sweet potato, baked, NS as to fat",17_20
+73402010,73403010,"Sweet potato, baked, no added fat",17_20
+73402020,73403020,"Sweet potato, baked, fat added",17_20
+73402021,73403020,"Sweet potato, baked, fat added",17_20
+73402022,73403020,"Sweet potato, baked, fat added",17_20
+73402023,73403020,"Sweet potato, baked, fat added",17_20
+73403021,73403020,"Sweet potato, baked, fat added",17_20
+73403022,73403020,"Sweet potato, baked, fat added",17_20
+73403023,73403020,"Sweet potato, baked, fat added",17_20
+73405021,73405020,"Sweet potato, boiled, fat added",17_20
+73405022,73405020,"Sweet potato, boiled, fat added",17_20
+73405023,73405020,"Sweet potato, boiled, fat added",17_20
+73410300,73410200,"Sweet potato fries, NFS",17_20
+73410310,73410320,"Sweet potato fries, frozen",17_20
+73410330,73410340,"Sweet potato fries, from fresh",17_20
+73420000,73420020,Sweet potato tots,17_20
+73420010,73420020,Sweet potato tots,17_20
+73420030,73420020,Sweet potato tots,17_20
+73501000,73502000,"Squash, winter type, soup, home recipe, canned, or ready-to-serve",17_20
+73501010,73502000,"Squash, winter type, soup, home recipe, canned, or ready-to-serve",17_20
+74602300,74602200,"Tomato soup, canned, reduced sodium, prepared with water, or ready-to-serve",17_20
+74604010,75652010,"Vegetable beef soup, home recipe",17_20
+74604100,75652010,"Vegetable beef soup, home recipe",17_20
+74604600,74601000,"Tomato soup, NFS",17_20
+74605010,74601000,"Tomato soup, NFS",17_20
+75121400,75122100,"Pepper, sweet, green, raw",17_20
+75121500,75226111,"Hot peppers, cooked",17_20
+75141005,75141000,Coleslaw,17_20
+75141020,75141000,Coleslaw,17_20
+75141025,75141000,Coleslaw,17_20
+75141030,75141000,Coleslaw,17_20
+75141035,75141000,Coleslaw,17_20
+75141200,75141100,"Coleslaw, with fruit",17_20
+75201012,75201020,"Artichokes, NS as to form, cooked",17_20
+75201021,75201020,"Artichokes, NS as to form, cooked",17_20
+75201022,75201020,"Artichokes, NS as to form, cooked",17_20
+75201023,75201020,"Artichokes, NS as to form, cooked",17_20
+75220101,75220020,"Okra, NS as to form, cooked",17_20
+75600150,74601010,"Tomato soup, cream of, prepared with milk",17_20
+75601020,75611010,"Vegetable soup, cream of, prepared with milk",17_20
+75603010,75611010,"Vegetable soup, cream of, prepared with milk",17_20
+75604010,71801000,"Potato soup, NS as to made with milk or water",17_20
+75604020,71801000,"Potato soup, NS as to made with milk or water",17_20
+75605010,75611010,"Vegetable soup, cream of, prepared with milk",17_20
+75607000,75607060,"Mushroom soup, cream of, NS as to made with milk or water",17_20
+75607050,75607060,"Mushroom soup, cream of, NS as to made with milk or water",17_20
+75607080,75607060,"Mushroom soup, cream of, NS as to made with milk or water",17_20
+75607090,75607060,"Mushroom soup, cream of, NS as to made with milk or water",17_20
+75607100,75607060,"Mushroom soup, cream of, NS as to made with milk or water",17_20
+75608010,75611010,"Vegetable soup, cream of, prepared with milk",17_20
+75612010,75611010,"Vegetable soup, cream of, prepared with milk",17_20
+75651030,75656060,"Vegetable beef soup, chunky style",17_20
+75651080,75656060,"Vegetable beef soup, chunky style",17_20
+75651110,58403040,"Chicken or turkey noodle soup, home recipe",17_20
+75651140,75649110,"Vegetable soup, home recipe",17_20
+75651150,75649040,"Vegetable soup, reduced sodium, canned, ready to serve",17_20
+75652030,75656060,"Vegetable beef soup, chunky style",17_20
+75654010,75649110,"Vegetable soup, home recipe",17_20
+75656010,75649110,"Vegetable soup, home recipe",17_20
+75656020,75649110,"Vegetable soup, home recipe",17_20
+75656040,75649110,"Vegetable soup, home recipe",17_20
+76102010,76000000,"Baby Toddler vegetable, NFS",17_20
+76102030,76407020,"Baby Toddler multiple vegetables, Stage 3",17_20
+76201000,76201040,"Baby Toddler carrots, Stage 2",17_20
+76201020,76201040,"Baby Toddler carrots, Stage 2",17_20
+76201030,76201040,"Baby Toddler carrots, Stage 2",17_20
+76202000,76407010,"Baby Toddler multiple vegetables, Stage 2",17_20
+76205000,76205040,"Baby Toddler squash, Stage 2",17_20
+76205020,76205040,"Baby Toddler squash, Stage 2",17_20
+76205030,76407010,"Baby Toddler multiple vegetables, Stage 2",17_20
+76205060,76407010,"Baby Toddler multiple vegetables, Stage 2",17_20
+76209000,76209040,"Baby Toddler sweet potatoes, Stage 2",17_20
+76209020,76209040,"Baby Toddler sweet potatoes, Stage 2",17_20
+76401000,76401040,"Baby Toddler green beans, Stage 2",17_20
+76401020,76401040,"Baby Toddler green beans, Stage 2",17_20
+76401060,76401040,"Baby Toddler green beans, Stage 2",17_20
+76402000,76407010,"Baby Toddler multiple vegetables, Stage 2",17_20
+76405000,76000000,"Baby Toddler vegetable, NFS",17_20
+76405010,76000000,"Baby Toddler vegetable, NFS",17_20
+76405020,76000000,"Baby Toddler vegetable, NFS",17_20
+76407000,76407010,"Baby Toddler multiple vegetables, Stage 2",17_20
+76409000,76409040,"Baby Toddler peas, Stage 2",17_20
+76409020,76409040,"Baby Toddler peas, Stage 2",17_20
+76409030,76409040,"Baby Toddler peas, Stage 2",17_20
+76420000,76000000,"Baby Toddler vegetable, NFS",17_20
+76501000,76407050,"Baby Toddler vegetables, with grain",17_20
+76502000,76407050,"Baby Toddler vegetables, with grain",17_20
+76602000,76407080,Baby Toddler vegetables and meat,17_20
+76603000,76407080,Baby Toddler vegetables and meat,17_20
+76603010,76407080,Baby Toddler vegetables and meat,17_20
+76603020,76407080,Baby Toddler vegetables and meat,17_20
+76604000,76407080,Baby Toddler vegetables and meat,17_20
+76604500,76407080,Baby Toddler vegetables and meat,17_20
+76605000,76407080,Baby Toddler vegetables and meat,17_20
+76605010,76407080,Baby Toddler vegetables and meat,17_20
+76605020,76407080,Baby Toddler vegetables and meat,17_20
+76607100,76407010,"Baby Toddler multiple vegetables, Stage 2",17_20
+76611000,76407080,Baby Toddler vegetables and meat,17_20
+76611010,76407080,Baby Toddler vegetables and meat,17_20
+76611020,76407080,Baby Toddler vegetables and meat,17_20
+77205110,71900200,"Plantain, cooked with oil",17_20
+83112500,83112400,Creamy Italian dressing,17_20
+83210100,83201500,"Creamy Italian dressing, light",17_20
+83300300,83300250,"Creamy Italian dressing, fat free",17_20
+91406000,91405000,"Jam or jelly, sugar free",17_20
+91406600,91405500,"Jam or jelly, reduced sugar",17_20
+91550100,53104400,"Cake or cupcake, coconut",17_20
+91700500,91746110,"Chocolate candy, candy shell with nuts",17_20
+91701020,42101350,"Almonds, honey roasted",17_20
+91701030,42101350,"Almonds, honey roasted",17_20
+91702010,91705200,Chocolate chips,17_20
+91703010,91723030,"Candy, caramel",17_20
+91703020,91723030,"Candy, caramel",17_20
+91703030,91723030,"Candy, caramel",17_20
+91703040,91705450,"Chocolate candy, caramel filled",17_20
+91703050,91705460,"Chocolate candy, caramel filled with nuts",17_20
+91703060,91705460,"Chocolate candy, caramel filled with nuts",17_20
+91703070,91705450,"Chocolate candy, caramel filled",17_20
+91703080,91770060,"Candy, non chocolate, sugar free",17_20
+91703150,91705015,Chocolate candy with nuts,17_20
+91703200,91705080,"Chocolate candy, cookie filled",17_20
+91703250,91705080,"Chocolate candy, cookie filled",17_20
+91703300,91705080,"Chocolate candy, cookie filled",17_20
+91703400,91705520,"Chocolate candy, nougat filled with nuts",17_20
+91703500,42101350,"Almonds, honey roasted",17_20
+91703600,91705005,"Chocolate candy, other, NFS",17_20
+91705030,91705080,"Chocolate candy, cookie filled",17_20
+91705040,91705015,Chocolate candy with nuts,17_20
+91705050,91705012,"Chocolate candy with nuts, other, NFS",17_20
+91705060,91705015,Chocolate candy with nuts,17_20
+91705070,91705015,Chocolate candy with nuts,17_20
+91705090,91705510,"Chocolate candy, nougat filled",17_20
+91705310,91705315,Dark chocolate candy with nuts,17_20
+91705410,91705400,White chocolate candy,17_20
+91705420,91705400,White chocolate candy,17_20
+91705430,91705400,White chocolate candy,17_20
+91705500,91705200,Chocolate chips,17_20
+91706000,91705470,"Chocolate candy, coconut filled",17_20
+91706100,91706020,"Candy, non chocolate, other, NFS",17_20
+91706400,91706020,"Candy, non chocolate, other, NFS",17_20
+91707000,91750000,"Candy, taffy",17_20
+91707010,91705480,"Chocolate candy, cream filled",17_20
+91708000,91746300,"Candy, fruit snacks",17_20
+91708010,91746300,"Candy, fruit snacks",17_20
+91708020,91746300,"Candy, fruit snacks",17_20
+91708030,91746350,"Candy, fruit leather",17_20
+91708040,91746300,"Candy, fruit snacks",17_20
+91708070,91746300,"Candy, fruit snacks",17_20
+91708100,91746300,"Candy, fruit snacks",17_20
+91708150,91746300,"Candy, fruit snacks",17_20
+91708160,91746300,"Candy, fruit snacks",17_20
+91709000,91705005,"Chocolate candy, other, NFS",17_20
+91713010,91705440,"Chocolate candy, fudge",17_20
+91713020,91705440,"Chocolate candy, fudge",17_20
+91713030,91705440,"Chocolate candy, fudge",17_20
+91713040,91705440,"Chocolate candy, fudge",17_20
+91713050,91705440,"Chocolate candy, fudge",17_20
+91713060,91705440,"Chocolate candy, fudge",17_20
+91713070,91705440,"Chocolate candy, fudge",17_20
+91713080,91705440,"Chocolate candy, fudge",17_20
+91713090,91705440,"Chocolate candy, fudge",17_20
+91713100,91705440,"Chocolate candy, fudge",17_20
+91715000,91705440,"Chocolate candy, fudge",17_20
+91715100,91705520,"Chocolate candy, nougat filled with nuts",17_20
+91715200,91705520,"Chocolate candy, nougat filled with nuts",17_20
+91715300,91705020,Chocolate candy with cereal,17_20
+91716010,91706020,"Candy, non chocolate, other, NFS",17_20
+91716110,91705005,"Chocolate candy, other, NFS",17_20
+91718000,91733000,"Candy, peanut brittle",17_20
+91718050,91705530,"Chocolate candy, peanut butter filled",17_20
+91718100,91705530,"Chocolate candy, peanut butter filled",17_20
+91718110,91705530,"Chocolate candy, peanut butter filled",17_20
+91718200,91705250,"Candy, sprinkles",17_20
+91723010,91705480,"Chocolate candy, cream filled",17_20
+91723020,91723000,"Candy, marshmallow",17_20
+91726000,91728000,"Candy, nougat with nuts",17_20
+91726110,91705510,"Chocolate candy, nougat filled",17_20
+91726130,91705510,"Chocolate candy, nougat filled",17_20
+91726140,91705510,"Chocolate candy, nougat filled",17_20
+91726150,91705520,"Chocolate candy, nougat filled with nuts",17_20
+91726410,91705510,"Chocolate candy, nougat filled",17_20
+91726420,91705510,"Chocolate candy, nougat filled",17_20
+91726425,91705510,"Chocolate candy, nougat filled",17_20
+91727010,91701010,"Almonds, chocolate covered candy",17_20
+91728500,42112300,"Pecans, honey roasted",17_20
+91731010,91746110,"Chocolate candy, candy shell with nuts",17_20
+91731060,91746110,"Chocolate candy, candy shell with nuts",17_20
+91731100,42111500,"Peanuts, honey roasted",17_20
+91731150,42111500,"Peanuts, honey roasted",17_20
+91732000,91733000,"Candy, peanut brittle",17_20
+91732100,91733000,"Candy, peanut brittle",17_20
+91733200,91705015,Chocolate candy with nuts,17_20
+91734000,91705530,"Chocolate candy, peanut butter filled",17_20
+91734100,91705530,"Chocolate candy, peanut butter filled",17_20
+91734200,91746110,"Chocolate candy, candy shell with nuts",17_20
+91734300,91705530,"Chocolate candy, peanut butter filled",17_20
+91734400,91705530,"Chocolate candy, peanut butter filled",17_20
+91734450,91705530,"Chocolate candy, peanut butter filled",17_20
+91734500,91705200,Chocolate chips,17_20
+91735000,91728000,"Candy, nougat with nuts",17_20
+91736000,91746300,"Candy, fruit snacks",17_20
+91739010,91705550,Chocolate candy with dried fruit,17_20
+91739600,91705550,Chocolate candy with dried fruit,17_20
+91742010,91706020,"Candy, non chocolate, other, NFS",17_20
+91745020,91745025,"Candy, hard",17_20
+91745040,91745025,"Candy, hard",17_20
+91745100,91745110,"Candy, fruit flavored pieces",17_20
+91746010,91705005,"Chocolate candy, other, NFS",17_20
+91746120,91746100,"Chocolate candy, candy shell",17_20
+91746150,91705010,Chocolate candy,17_20
+91746200,91746100,"Chocolate candy, candy shell",17_20
+91760000,91723030,"Candy, caramel",17_20
+91760100,91705450,"Chocolate candy, caramel filled",17_20
+91760200,91705460,"Chocolate candy, caramel filled with nuts",17_20
+91760500,91705480,"Chocolate candy, cream filled",17_20
+91760700,91706020,"Candy, non chocolate, other, NFS",17_20
+91770000,91770060,"Candy, non chocolate, sugar free",17_20
+91770010,91770060,"Candy, non chocolate, sugar free",17_20
+91770020,91770060,"Candy, non chocolate, sugar free",17_20
+91770030,91706010,"Chocolate candy, sugar free",17_20
+91770050,91770060,"Candy, non chocolate, sugar free",17_20
+91800100,91801000,Chewing gum,17_20
+92802000,92801000,"Wine, nonalcoholic",17_20
+93102200,93102300,"Beer, higher alcohol",17_20
+93106010,93106000,"Alcoholic malt beverage, sweetened",17_20
+94210100,94200100,"Water, enhanced, regular",17_20
+94210200,94200100,"Water, enhanced, regular",17_20
+94210300,94200100,"Water, enhanced, regular",17_20
+94220215,94200200,"Water, enhanced, diet",17_20
+94220310,94200200,"Water, enhanced, diet",17_20

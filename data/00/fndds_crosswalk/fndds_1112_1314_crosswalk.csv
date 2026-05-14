@@ -1,0 +1,183 @@
+﻿DRXFDCD,foodcode,food_description,CYCLE
+11553000,11553110,"Fruit smoothie, with whole fruit and dairy",13_14
+11553000,11553130,"Fruit smoothie juice drink, with dairy",13_14
+11561000,92101850,"Coffee, cafe con leche",13_14
+11561000,92101851,"Coffee, cafe con leche, decaffeinated",13_14
+11561010,92101850,"Coffee, cafe con leche",13_14
+11561010,92101851,"Coffee, cafe con leche, decaffeinated",13_14
+56207040,56207082,"Wheat, cream of, cooked, NS as to regular, quick, or instant, made with milk, fat added in cooking",13_14
+56207040,56207083,"Wheat, cream of, cooked, NS as to regular, quick, or instant, made with milk, fat not added in cooking",13_14
+56207040,56207096,"Wheat, cream of, cooked, instant, made with milk, NS as to fat added in cooking",13_14
+56207040,56207095,"Wheat, cream of, cooked, instant, made with milk, fat not added in cooking",13_14
+56207040,56207094,"Wheat, cream of, cooked, instant, made with milk, fat added in cooking",13_14
+56207040,56207093,"Wheat, cream of, cooked, quick, made with milk, NS as to fat added in cooking",13_14
+56207040,56207092,"Wheat, cream of, cooked, quick, made with milk, fat not added in cooking",13_14
+56207040,56207091,"Wheat, cream of, cooked, quick, made with milk, fat added in cooking",13_14
+56207040,56207088,"Wheat, cream of, cooked, regular, made with milk, NS as to fat added in cooking",13_14
+56207040,56207087,"Wheat, cream of, cooked, regular, made with milk, fat not added in cooking",13_14
+56207040,56207086,"Wheat, cream of, cooked, regular, made with milk, fat added in cooking",13_14
+56207040,56207084,"Wheat, cream of, cooked, NS as to regular, quick, or instant, made with milk, NS as to fat added in cooking",13_14
+58151120,58151170,"Sushi roll (maki or temaki), avocado",13_14
+58151120,58151230,"Sushi roll (maki or temaki), vegetable",13_14
+58151130,58151100,"Sushi, NFS",13_14
+58151130,58151180,"Sushi roll (maki or temaki), California",13_14
+58151140,58151170,"Sushi roll (maki or temaki), avocado",13_14
+58151140,58151230,"Sushi roll (maki or temaki), vegetable",13_14
+58151150,58151100,"Sushi, NFS",13_14
+58151150,58151440,"Sushi (Nigiri), topped with tuna",13_14
+58151150,58151430,"Sushi (Nigiri), topped with shrimp",13_14
+58151150,58151420,"Sushi (Nigiri), topped with salmon",13_14
+58151150,58151410,"Sushi (Nigiri), topped with eel",13_14
+58151150,58151400,"Sushi (Nigiri), topped with crab",13_14
+58151150,58151220,"Sushi roll (maki or temaki), tuna",13_14
+58151150,58151210,"Sushi roll (maki or temaki), shrimp",13_14
+58151150,58151200,"Sushi roll (maki or temaki), salmon",13_14
+58151150,58151190,"Sushi roll (maki or temaki), eel",13_14
+64134000,64134015,"Fruit smoothie, with whole fruit (no dairy)",13_14
+64134000,64134030,Fruit smoothie juice drink (no dairy),13_14
+92301000,92302000,"Tea, hot, leaf, black",13_14
+92301000,92309040,"Tea, iced, bottled, black, unsweetened",13_14
+92301000,92308020,"Tea, iced, brewed, black, unsweetened",13_14
+92301000,92305010,"Tea, iced, instant, black, unsweetened",13_14
+92301060,92305040,"Tea, iced, instant, black, pre-sweetened with sugar",13_14
+92301060,92308000,"Tea, iced, brewed, black, pre-sweetened with sugar",13_14
+92301080,92305090,"Tea, iced, instant, black, pre-sweetened with low calorie sweetner",13_14
+92301080,92308010,"Tea, iced, brewed, black, pre-sweetened with low calorie sweetener",13_14
+92301100,92302500,"Tea, hot, leaf, black, decaffeinated",13_14
+92301100,92309050,"Tea, iced, bottled, black, decaffeinated, unsweetened",13_14
+92301100,92308050,"Tea, iced, brewed, black, decaffeinated, unsweetened",13_14
+92301100,92305180,"Tea, iced, instant, black, decaffeinated, unsweetened",13_14
+92301130,92305040,"Tea, iced, instant, black, pre-sweetened with sugar",13_14
+92301130,92308000,"Tea, iced, brewed, black, pre-sweetened with sugar",13_14
+92301160,92305050,"Tea, iced, instant, black, decaffeinated, pre-sweetened with sugar",13_14
+92301160,92308030,"Tea, iced, brewed, black, decaffeinated, pre-sweetened with sugar",13_14
+92301180,92305110,"Tea, iced, instant, black, decaffeinated, pre-sweetened with low calorie sweetener",13_14
+92301180,92308040,"Tea, iced, brewed, black, decaffeinated, pre-sweetened with low calorie sweetener",13_14
+92301190,92305050,"Tea, iced, instant, black, decaffeinated, pre-sweetened with sugar",13_14
+92301190,92308030,"Tea, iced, brewed, black, decaffeinated, pre-sweetened with sugar",13_14
+92302200,92308000,"Tea, iced, brewed, black, pre-sweetened with sugar",13_14
+92302200,92308500,"Tea, iced, brewed, green, pre-sweetened with sugar",13_14
+92302300,92308010,"Tea, iced, brewed, black, pre-sweetened with low calorie sweetener",13_14
+92302300,92308510,"Tea, iced, brewed, green, pre-sweetened with low calorie sweetener",13_14
+92302400,92308000,"Tea, iced, brewed, black, pre-sweetened with sugar",13_14
+92302400,92308500,"Tea, iced, brewed, green, pre-sweetened with sugar",13_14
+92302600,92308030,"Tea, iced, brewed, black, decaffeinated, pre-sweetened with sugar",13_14
+92302600,92308530,"Tea, iced, brewed, green, decaffeinated, pre-sweetened with sugar",13_14
+92302700,92308040,"Tea, iced, brewed, black, decaffeinated, pre-sweetened with low calorie sweetener",13_14
+92302700,92308540,"Tea, iced, brewed, green, decaffeinated, pre-sweetened with low calorie sweetener",13_14
+92302800,92308030,"Tea, iced, brewed, black, decaffeinated, pre-sweetened with sugar",13_14
+92302800,92308530,"Tea, iced, brewed, green, decaffeinated, pre-sweetened with sugar",13_14
+92305000,92305040,"Tea, iced, instant, black, pre-sweetened with sugar",13_14
+92305000,92305910,"Tea, iced, instant, green, pre-sweetened with sugar",13_14
+92305800,92305050,"Tea, iced, instant, black, decaffeinated, pre-sweetened with sugar",13_14
+92305800,92305910,"Tea, iced, instant, green, pre-sweetened with sugar",13_14
+92511010,92510960,"Lemonade, fruit flavored drink",13_14
+92511010,92541010,"Fruit flavored drink, powdered, reconstituted",13_14
+92511010,92511015,Fruit flavored drink,13_14
+93404500,93404550,"Sangria, red",13_14
+93404500,93404560,"Sangria, white",13_14
+11512000,11512010,"Hot chocolate / Cocoa, ready to drink",13_14
+11512500,11512010,"Hot chocolate / Cocoa, ready to drink",13_14
+11512510,11512020,"Hot chocolate / Cocoa, ready to drink, made with nonfat milk",13_14
+11514300,11514310,"Hot chocolate / Cocoa, made with no sugar added dry mix and water",13_14
+11516000,11513393,"Nesquik, chocolate milk, made from no sugar added dry mix with low fat milk (1%)",13_14
+11519000,11519050,"Strawberry milk, whole",13_14
+11527000,11526000,"Milk, malted, chocolate, made with milk",13_14
+11552200,11553130,"Fruit smoothie juice drink, with dairy",13_14
+11560020,11560000,"Yoo-hoo, chocolate milk drink",13_14
+11830110,11830115,"Hot chocolate / Cocoa, dry mix, no sugar added, not reconstituted",13_14
+11830170,11830165,"Chocolate beverage powder, reduced sugar, dry mix, not reconstituted",13_14
+11830210,11830260,"Milk, malted, dry mix, not reconstituted",13_14
+51000230,51000200,"Roll, NS as to major flour",13_14
+51000250,51000200,"Roll, NS as to major flour",13_14
+51000260,51000200,"Roll, NS as to major flour",13_14
+51150100,51150000,"Roll, white, soft",13_14
+51151060,51150000,"Roll, white, soft",13_14
+51153010,51153000,"Roll, white, hard",13_14
+51154560,51154550,"Roll, egg bread",13_14
+51155010,51155000,"Roll, French or Vienna",13_14
+51157010,51157000,"Roll, white, hoagie, submarine",13_14
+51180020,51180010,Bagel,13_14
+51180040,51180030,"Bagel, with raisins",13_14
+51180090,51180080,"Bagel, with fruit other than raisins",13_14
+51186020,51186010,"Muffin, English",13_14
+51186120,51186100,"Muffin, English, with raisins",13_14
+51186140,51186130,"Muffin, English, cheese",13_14
+51186180,51186160,"Muffin, English, with fruit other than raisins",13_14
+51201010,51300110,"Bread, whole wheat",13_14
+51201020,51300120,"Bread, whole wheat, toasted",13_14
+51201060,51300140,"Bread, whole wheat, made from home recipe or purchased at bakery",13_14
+51201070,51300150,"Bread, whole wheat, made from home recipe or purchased at bakery, toasted",13_14
+51201150,51301600,"Bread, pita, whole wheat  ",13_14
+51201160,51301610,"Bread, pita, whole wheat, toasted",13_14
+51202000,51303030,"Muffin, English, whole wheat",13_14
+51202020,51303030,"Muffin, English, whole wheat",13_14
+51202050,51303070,"Muffin, English, whole wheat, with raisins",13_14
+51202060,51303070,"Muffin, English, whole wheat, with raisins",13_14
+51208000,51301750,"Bagel, whole wheat",13_14
+51208010,51301750,"Bagel, whole wheat",13_14
+51208100,51301805,"Bagel, whole wheat, with raisins",13_14
+51208110,51301805,"Bagel, whole wheat, with raisins",13_14
+51220000,51320500,"Roll, whole wheat",13_14
+51220010,51320500,"Roll, whole wheat",13_14
+51220030,51320500,"Roll, whole wheat",13_14
+51220040,51320500,"Roll, whole wheat",13_14
+51301710,51301700,"Bagel, wheat",13_14
+51301760,51301750,"Bagel, whole wheat",13_14
+51301810,51301800,"Bagel, wheat, with raisins",13_14
+51301830,51301820,"Bagel, wheat, with fruit and nuts",13_14
+51301910,51301900,"Bagel, wheat bran",13_14
+51302510,51302500,"Muffin, English, wheat bran",13_14
+51302530,51302520,"Muffin, English, wheat bran, with raisins",13_14
+51303020,51303010,"Muffin, English, wheat or cracked wheat",13_14
+51303040,51303030,"Muffin, English, whole wheat",13_14
+51303060,51303050,"Muffin, English, wheat or cracked wheat, with raisins",13_14
+51303080,51303070,"Muffin, English, whole wheat, with raisins",13_14
+51320020,51320010,"Roll, wheat or cracked wheat",13_14
+51320040,51320010,"Roll, wheat or cracked wheat",13_14
+51320050,51320010,"Roll, wheat or cracked wheat",13_14
+51320510,51320500,"Roll, whole wheat",13_14
+51320530,51320500,"Roll, whole wheat",13_14
+51320540,51320500,"Roll, whole wheat",13_14
+51401210,51401200,"Muffin, English, rye",13_14
+51404510,51404500,"Bagel, pumpernickel",13_14
+51404560,51404550,"Muffin, English, pumpernickel",13_14
+51421100,51421000,"Roll, pumpernickel",13_14
+51501090,51501080,"Bagel, oat bran",13_14
+51502020,51502010,"Roll, oatmeal",13_14
+51502100,51620000,"Roll, multigrain",13_14
+51502110,51620000,"Roll, multigrain",13_14
+51503010,51503000,"Muffin, English, oat bran",13_14
+51503050,51503040,"Muffin, English, oat bran, with raisins",13_14
+51620010,51620000,"Roll, multigrain",13_14
+51630010,51630000,"Bagel, multigrain",13_14
+51630110,51630100,"Bagel, multigrain, with raisins",13_14
+51630210,51630200,"Muffin, English, multigrain",13_14
+53371100,53370000,"Pie, chiffon, not chocolate",13_14
+56201800,56201750,"Cornstarch, dry",13_14
+61204600,61204200,"Lemon juice, 100%, canned or bottled",13_14
+61207600,61207200,"Lime juice, 100%, canned or bottled",13_14
+61213000,61213220,"Tangerine juice, 100%",13_14
+61213620,61213220,"Tangerine juice, 100%",13_14
+73405100,73405000,"Sweet potato, boiled, peel not eaten, NS as to fat added in cooking",13_14
+73405110,73405010,"Sweet potato, boiled, peel not eaten, fat not added in cooking",13_14
+73405120,73405020,"Sweet potato, boiled, peel not eaten, fat added in cooking, NS as to type of fat",13_14
+73407010,73407000,"Sweet potato, canned",13_14
+73407020,73407000,"Sweet potato, canned",13_14
+73407030,73407000,"Sweet potato, canned",13_14
+74304000,74302000,Tomato juice cocktail,13_14
+92105000,92191100,"Coffee, instant, not reconstituted",13_14
+92105010,92103000,"Coffee, instant, reconstituted",13_14
+92191000,92191100,"Coffee, instant, not reconstituted",13_14
+92306050,92306000,"Tea, hot, herbal",13_14
+92417010,92410550,"Soft drink, fruit flavored, caffeine containing",13_14
+92431000,92433000,"Fruit juice drink, noncitrus, carbonated",13_14
+92611600,92610020,"Horchata beverage, made with water",13_14
+93301300,93301110,Martini,13_14
+93401300,92801000,"Wine, nonalcoholic",13_14
+51207010,51300300,"Bread, sprouted wheat  ",13_14
+51207020,51300310,"Bread, sprouted wheat, toasted",13_14
+75302020,75302205,"Beans, string, green, with onions, cooked, fat not added in cooking",13_14
+75302050,75302505,"Beans, string, green, and potatoes, cooked, fat not added in cooking",13_14
+75316010,75316030,"Squash, summer, yellow or green, with tomato sauce, cooked, fat not added in cooking",13_14
+92205000,11360000,Rice milk,13_14

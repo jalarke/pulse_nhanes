@@ -1,0 +1,134 @@
+DRXFDCD,foodcode,food_description,CYCLE
+11115000,11115300,Buttermilk,21_22
+11121210,11120000,"Milk, dry, reconstituted, nonfat",21_22
+11121300,11120000,"Milk, dry, reconstituted, nonfat",21_22
+11320200,11320100,"Soy milk, unsweetened",21_22
+11321100,11321000,"Soy milk, chocolate",21_22
+11350030,11350010,"Almond milk, chocolate",21_22
+11514120,11514110,"Hot chocolate / cocoa, dry mix, made with whole or reduced fat (2%) milk",21_22
+11514140,11514130,"Hot chocolate / cocoa, dry mix, made with lowfat (1%) or fat free (skim) milk",21_22
+11519215,11300100,"Non-dairy milk, NFS",21_22
+11813000,11810000,"Milk, dry, not reconstituted",21_22
+12210440,12210430,"Coffee creamer, powder, fat free",21_22
+14420210,14303010,"Cream cheese, light",21_22
+14710100,72302100,"Soup, broccoli cheese",21_22
+25220106,25221406,"Pork sausage, reduced fat",21_22
+25220108,25221408,"Pork sausage, reduced sodium",21_22
+25220650,25221830,Turkey or chicken sausage,21_22
+25221450,25221405,Pork sausage,21_22
+25221860,25221830,Turkey or chicken sausage,21_22
+25221875,25221408,"Pork sausage, reduced sodium",21_22
+27111100,27311410,"Stew, beef",21_22
+27111410,27111406,Chili with meat and beans,21_22
+27121410,27111406,Chili with meat and beans,21_22
+27136100,27111406,Chili with meat and beans,21_22
+27211110,27111300,"Guisada, beef",21_22
+27212150,27311430,"Stew, beef, with pasta",21_22
+27311320,27311410,"Stew, beef",21_22
+27311420,27311410,"Stew, beef",21_22
+27336100,27330210,"Stew, lamb",21_22
+27341310,27341520,"Stew, chicken",21_22
+27350310,27151070,"Stew, fish",21_22
+27430400,27330210,"Stew, lamb",21_22
+28310110,28340120,"Soup, broth",21_22
+28310150,75652010,"Soup, beef",21_22
+28310170,28340120,"Soup, broth",21_22
+28311020,28315150,"Soup, pozole",21_22
+28340110,28340120,"Soup, broth",21_22
+28340180,28340120,"Soup, broth",21_22
+28340310,27363000,Gumbo with rice,21_22
+28340510,58403010,"Soup, chicken noodle, canned",21_22
+28340550,28340750,"Soup, hot and sour",21_22
+28340590,58403040,"Soup, chicken noodle",21_22
+28340610,28340660,"Soup, chicken",21_22
+28340630,58403040,"Soup, chicken noodle",21_22
+28340640,58403010,"Soup, chicken noodle, canned",21_22
+28340680,28315150,"Soup, pozole",21_22
+28345120,28345110,"Soup, cream of chicken",21_22
+28350050,28355110,"Soup, New England clam chowder",21_22
+28350210,28355110,"Soup, New England clam chowder",21_22
+28355120,28355110,"Soup, New England clam chowder",21_22
+28355130,28355110,"Soup, New England clam chowder",21_22
+28355140,28355110,"Soup, New England clam chowder",21_22
+28355410,28355250,"Soup, bisque",21_22
+28355420,28355250,"Soup, bisque",21_22
+28355450,28355480,"Soup, fish or shrimp",21_22
+28355460,28355480,"Soup, fish or shrimp",21_22
+28355470,28355480,"Soup, fish or shrimp",21_22
+28360100,28340120,"Soup, broth",21_22
+41601020,41601030,"Soup, bean, canned",21_22
+41601140,41601010,"Soup, bean",21_22
+41602020,41601010,"Soup, bean",21_22
+41812450,41221020,"Chili, vegetarian",21_22
+58402010,28315050,"Soup, beef, canned",21_22
+58402100,75652010,"Soup, beef",21_22
+58403050,28345110,"Soup, cream of chicken",21_22
+58404010,58403010,"Soup, chicken noodle, canned",21_22
+58404030,58403040,"Soup, chicken noodle",21_22
+58404040,58403060,"Soup, chicken, canned, reduced sodium",21_22
+58404510,58403010,"Soup, chicken noodle, canned",21_22
+58404520,58403010,"Soup, chicken noodle, canned",21_22
+58407010,58403010,"Soup, chicken noodle, canned",21_22
+58421010,58421020,"Soup, sopa de fideo aguada",21_22
+58421060,58400200,"Soup, rice",21_22
+62126000,63148750,Tamarind,21_22
+71801010,71801000,"Soup, potato",21_22
+71801020,71801000,"Soup, potato",21_22
+71801100,71801000,"Soup, potato",21_22
+71803010,71801000,"Soup, potato",21_22
+71910110,71900100,"Plantain, cooked, no added fat",21_22
+71910210,71900200,"Plantain, cooked with oil",21_22
+71962020,71962040,"Taro, cooked",21_22
+72107213,72118223,"Greens, canned, cooked",21_22
+72107233,72118223,"Greens, canned, cooked",21_22
+72107234,72118223,"Greens, canned, cooked",21_22
+72119213,72118223,"Greens, canned, cooked",21_22
+72122213,72118223,"Greens, canned, cooked",21_22
+72128213,72118223,"Greens, canned, cooked",21_22
+72128223,72118223,"Greens, canned, cooked",21_22
+72302000,75611010,"Soup, cream of vegetable",21_22
+72302020,75611010,"Soup, cream of vegetable",21_22
+72307000,75611010,"Soup, cream of vegetable",21_22
+74602050,74601000,"Soup, tomato",21_22
+74603010,74601000,"Soup, tomato",21_22
+74604500,74602010,"Soup, tomato, canned",21_22
+74606010,74601000,"Soup, tomato",21_22
+74606020,74601000,"Soup, tomato",21_22
+75201011,75100750,Artichoke,21_22
+75201013,75100750,Artichoke,21_22
+75201020,75100750,Artichoke,21_22
+75227110,75125000,Radish,21_22
+75601000,75611010,"Soup, cream of vegetable",21_22
+75601010,75611010,"Soup, cream of vegetable",21_22
+75601200,75649110,"Soup, vegetable",21_22
+75601210,75656060,"Soup, vegetable, with meat",21_22
+75603020,75611010,"Soup, cream of vegetable",21_22
+75607010,75607060,"Soup, cream of mushroom",21_22
+75607020,75607060,"Soup, cream of mushroom",21_22
+75607040,75652010,"Soup, beef",21_22
+75607140,75607060,"Soup, cream of mushroom",21_22
+75609010,41602050,"Soup, split pea",21_22
+75649050,75649010,"Soup, vegetable, canned",21_22
+75649150,75649110,"Soup, vegetable",21_22
+75650990,75651000,"Soup, minestrone",21_22
+75651010,75651000,"Soup, minestrone",21_22
+75651020,28315050,"Soup, beef, canned",21_22
+75651040,75649010,"Soup, vegetable, canned",21_22
+75651070,75649010,"Soup, vegetable, canned",21_22
+75652040,75656060,"Soup, vegetable, with meat",21_22
+75652050,75656060,"Soup, vegetable, with meat",21_22
+75657000,28340120,"Soup, broth",21_22
+81103035,81102000,"Margarine, NFS",21_22
+81103040,81102010,"Margarine, stick",21_22
+81103080,81102020,"Margarine, tub",21_22
+81104020,81104010,"Margarine, light",21_22
+81104490,81101010,"Butter, tub",21_22
+81104500,81101000,"Butter, stick",21_22
+81104510,81101010,"Butter, tub",21_22
+81104550,81101520,"Butter, light",21_22
+92552020,92531030,Fruit juice drink (Sunny D),21_22
+93102100,93102000,"Beer, light",21_22
+93301031,93301170,Whiskey and soda,21_22
+93301330,93301600,Gin fizz,21_22
+93301450,93201010,"Liqueur, cream",21_22
+93504100,93106000,"Alcoholic malt beverage, sweetened",21_22

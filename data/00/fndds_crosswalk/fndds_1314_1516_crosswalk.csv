@@ -1,0 +1,361 @@
+﻿DRXFDCD,foodcode,food_description,CYCLE
+12350100,11440050,"Spinach dip, yogurt based",15_16
+12350100,12350245,"Spinach dip, light",15_16
+12350100,12350240,"Spinach dip, regular",15_16
+24198690,24198671,"Chicken patty, breaded",15_16
+24198690,24198742,"Chicken tenders or strips, breaded, from restaurant",15_16
+24198690,24198741,"Chicken tenders or strips, breaded, from fast food",15_16
+24198690,24198677,"Chicken fillet, breaded",15_16
+24198695,24198671,"Chicken patty, breaded",15_16
+24198695,24198745,"Chicken tenders or strips, breaded, from school lunch",15_16
+24198695,24198677,"Chicken fillet, breaded",15_16
+24198700,24198671,"Chicken patty, breaded",15_16
+24198700,24198747,"Chicken tenders or strips, breaded, from other sources",15_16
+24198700,24198746,"Chicken tenders or strips, breaded, from frozen",15_16
+24198700,24198677,"Chicken fillet, breaded",15_16
+24198730,24198731,"Chicken nuggets, from fast food",15_16
+24198730,24198732,"Chicken nuggets, from restaurant",15_16
+24198740,24198729,"Chicken nuggets, NFS",15_16
+24198740,24198736,"Chicken nuggets, from frozen",15_16
+24198740,24198737,"Chicken nuggets, from other sources",15_16
+25230310,25230320,"Chicken, prepackaged or deli, luncheon meat",15_16
+25230310,25230780,"Turkey, prepackaged or deli, luncheon meat",15_16
+25230900,25230320,"Chicken, prepackaged or deli, luncheon meat",15_16
+25230900,25230780,"Turkey, prepackaged or deli, luncheon meat",15_16
+25230905,25230340,"Chicken, prepackaged or deli, luncheon meat, reduced sodium",15_16
+25230905,25230785,"Turkey, prepackaged or deli, luncheon meat, reduced sodium",15_16
+27146050,24168000,"Chicken ""wings"" with hot sauce, from fast food / restaurant",15_16
+27146050,24168020,"Chicken ""wings"" with hot sauce, from other sources",15_16
+27146050,24168010,"Chicken ""wings"" with hot sauce, from precooked",15_16
+42104200,42104100,"Cashews, salted",15_16
+42104200,42104105,"Cashews, lightly salted",15_16
+51121010,51121015,"Garlic bread, NFS",15_16
+51121010,51121035,"Garlic bread, from frozen",15_16
+51121010,51121025,"Garlic bread, from fast food / restaurant",15_16
+54401020,54401021,"Corn chips, plain",15_16
+54401020,54401035,"Corn chips, flavored (Fritos)",15_16
+54401020,54401031,"Corn chips, plain (Fritos)",15_16
+54401020,54401026,"Corn chips, flavored",15_16
+54401050,54401021,"Corn chips, plain",15_16
+54401050,54406010,Onion flavored rings,15_16
+54401050,54401081,Cheese flavored corn snacks (Cheetos),15_16
+54401050,54401055,Cheese flavored corn snacks,15_16
+54401080,54401075,"Tortilla chips, plain",15_16
+54401080,54401112,"Tortilla chips, other flavors (Doritos)",15_16
+54401080,54401111,"Tortilla chips, cool ranch flavor (Doritos)",15_16
+54401080,54401110,"Tortilla chips, nacho cheese flavor (Doritos)",15_16
+54401080,54401085,"Tortilla chips, flavored",15_16
+54401100,54401121,"Tortilla chips, reduced fat, plain",15_16
+54401100,54401122,"Tortilla chips, reduced fat, flavored",15_16
+54402600,54440020,Cracker chips,15_16
+54402600,54420210,Multigrain chips (Sun Chips),15_16
+54408010,54408016,"Pretzels, hard, plain, salted",15_16
+54408010,54408110,"Pretzel chips, hard, flavored",15_16
+54408010,54408105,"Pretzel chips, hard, plain",15_16
+54408010,54408035,"Pretzels, hard, flavored",15_16
+54408010,54408017,"Pretzels, hard, plain, lightly salted",15_16
+54408020,54408405,"Pretzels, soft, ready-to-eat, NFS",15_16
+54408020,54408410,"Pretzels, soft, ready-to-eat, salted, buttered",15_16
+54408020,54408415,"Pretzels, soft, ready-to-eat, salted, no butter",15_16
+54408020,54408420,"Pretzels, soft, ready-to-eat, cinnamon sugar coated",15_16
+54408020,54408422,"Pretzels, soft, ready-to-eat, coated or flavored",15_16
+54408020,54408455,"Pretzels, soft, from frozen, salted",15_16
+54408020,54408470,"Pretzels, soft, filled with cheese",15_16
+54408040,54408411,"Pretzels, soft, ready-to-eat, unsalted, buttered",15_16
+54408040,54408416,"Pretzels, soft, ready-to-eat, unsalted, no butter",15_16
+54408040,54408456,"Pretzels, soft, from frozen, unsalted",15_16
+54408080,54408081,"Pretzels, hard, plain, gluten free",15_16
+54408080,54408082,"Pretzels, hard, flavored, gluten free",15_16
+54408080,54408260,"Pretzels, hard, coated, gluten free",15_16
+54420010,54402200,Snack mix,15_16
+54420010,54420220,"Snack mix, plain (Chex Mix)",15_16
+58106500,58106512,"Pizza with pepperoni, from frozen, thin crust",15_16
+58106500,58106602,"Pizza with meat other than pepperoni, from frozen, thin crust",15_16
+58106505,58106516,"Pizza with pepperoni, from frozen, thick crust",15_16
+58106505,58106606,"Pizza with meat other than pepperoni, from frozen, thick crust",15_16
+58107220,58107205,"White pizza, cheese, thin crust",15_16
+58107220,58107212,"White pizza, cheese, with vegetables, thin crust",15_16
+58107220,58107222,"White pizza, cheese, with meat, thin crust",15_16
+58107220,58107232,"White pizza, cheese, with meat and vegetables, thin crust",15_16
+71201015,71200010,"Potato chips, NFS",15_16
+71201015,71200100,"Potato chips, plain",15_16
+71201015,71200110,"Potato chips, barbecue flavored",15_16
+71201015,71200120,"Potato chips, sour cream and onion flavored",15_16
+71201015,71200130,"Potato chips, cheese flavored",15_16
+71201015,71200140,"Potato chips, other flavored",15_16
+71201020,71200200,"Potato chips, ruffled, plain",15_16
+71201020,71200210,"Potato chips, ruffled, barbecue flavored",15_16
+71201020,71200220,"Potato chips, ruffled, sour cream and onion flavored",15_16
+71201020,71200230,"Potato chips, ruffled, cheese flavored",15_16
+71201020,71200240,"Potato chips, ruffled, other flavored",15_16
+71201100,71200300,"Potato chips, restructured, plain",15_16
+71201100,71200310,"Potato chips, restructured, flavored",15_16
+71201100,71202510,"Potato chips, restructured, lightly salted",15_16
+71201250,71200300,"Potato chips, restructured, plain",15_16
+71201250,71200310,"Potato chips, restructured, flavored",15_16
+71201250,71202510,"Potato chips, restructured, lightly salted",15_16
+71205000,71205020,"Potato sticks, plain",15_16
+71205000,71205030,"Potato sticks, flavored",15_16
+71205000,71205040,"Potato sticks, fry shaped",15_16
+11420000,11434090,"Yogurt, NS as to type of milk, flavors other than fruit",15_16
+11421000,11434100,"Yogurt, whole milk, flavors other than fruit",15_16
+11422000,11434200,"Yogurt, low fat milk, flavors other than fruit",15_16
+11422100,11434200,"Yogurt, low fat milk, flavors other than fruit",15_16
+11423000,11434300,"Yogurt, nonfat milk, flavors other than fruit",15_16
+11424000,11434300,"Yogurt, nonfat milk, flavors other than fruit",15_16
+11424500,11435010,"Yogurt, Greek, whole milk, flavors other than fruit",15_16
+11424510,11435020,"Yogurt, Greek, low fat milk, flavors other than fruit",15_16
+11424520,11435030,"Yogurt, Greek, nonfat milk, flavors other than fruit",15_16
+11425000,11434090,"Yogurt, NS as to type of milk, flavors other than fruit",15_16
+11426000,11434100,"Yogurt, whole milk, flavors other than fruit",15_16
+11427000,11434300,"Yogurt, nonfat milk, flavors other than fruit",15_16
+11428000,11435030,"Yogurt, Greek, nonfat milk, flavors other than fruit",15_16
+11432500,11432000,"Yogurt, low fat milk, fruit",15_16
+11433500,11433000,"Yogurt, nonfat milk, fruit",15_16
+11525000,11526000,"Milk, malted",15_16
+11710387,11710383,"Infant formula, powder, made with water, NFS (Similac for Spit-Up)",15_16
+11710388,11710383,"Infant formula, powder, made with water, NFS (Similac for Spit-Up)",15_16
+11710389,11710383,"Infant formula, powder, made with water, NFS (Similac for Spit-Up)",15_16
+11710482,11710481,"Infant formula, powder, made with water, NFS (Similac Go and Grow)",15_16
+11710483,11710481,"Infant formula, powder, made with water, NFS (Similac Go and Grow)",15_16
+11710484,11710481,"Infant formula, powder, made with water, NFS (Similac Go and Grow)",15_16
+11710640,11710630,"Infant formula, NS as to form (Enfamil Infant)",15_16
+11710642,11710632,"Infant formula, liquid concentrate, made with water, NFS (Enfamil Infant)",15_16
+11710643,11710636,"Infant formula, powder, made with water, NFS (Enfamil Infant)",15_16
+11710644,11710633,"Infant formula, liquid concentrate, made with tap water (Enfamil Infant)",15_16
+11710645,11710634,"Infant formula, liquid concentrate, made with plain bottled water (Enfamil Infant)",15_16
+11710646,11710635,"Infant formula, liquid concentrate, made with baby water (Enfamil Infant)",15_16
+11710647,11710637,"Infant formula, powder, made with tap water (Enfamil Infant)",15_16
+11710648,11710638,"Infant formula, powder, made with plain bottled water (Enfamil Infant)",15_16
+11710649,11710639,"Infant formula, powder, made with baby water (Enfamil Infant)",15_16
+11710650,11710630,"Infant formula, NS as to form (Enfamil Infant)",15_16
+11710651,11710631,"Infant formula, ready-to-feed (Enfamil Infant)",15_16
+11710652,11710632,"Infant formula, liquid concentrate, made with water, NFS (Enfamil Infant)",15_16
+11710653,11710636,"Infant formula, powder, made with water, NFS (Enfamil Infant)",15_16
+11710654,11710633,"Infant formula, liquid concentrate, made with tap water (Enfamil Infant)",15_16
+11710655,11710634,"Infant formula, liquid concentrate, made with plain bottled water (Enfamil Infant)",15_16
+11710656,11710635,"Infant formula, liquid concentrate, made with baby water (Enfamil Infant)",15_16
+11710657,11710637,"Infant formula, powder, made with tap water (Enfamil Infant)",15_16
+11710658,11710638,"Infant formula, powder, made with plain bottled water (Enfamil Infant)",15_16
+11710659,11710639,"Infant formula, powder, made with baby water (Enfamil Infant)",15_16
+11710933,11710930,"Infant formula, NS as to form (Gerber Graduates Gentle)",15_16
+11710937,11710930,"Infant formula, NS as to form (Gerber Graduates Gentle)",15_16
+11710938,11710930,"Infant formula, NS as to form (Gerber Graduates Gentle)",15_16
+11710939,11710930,"Infant formula, NS as to form (Gerber Graduates Gentle)",15_16
+11710943,11710940,"Infant formula, NS as to form (Gerber Graduates Protect)",15_16
+11710947,11710940,"Infant formula, NS as to form (Gerber Graduates Protect)",15_16
+11710948,11710940,"Infant formula, NS as to form (Gerber Graduates Protect)",15_16
+11710949,11710940,"Infant formula, NS as to form (Gerber Graduates Protect)",15_16
+11720327,11720323,"Infant formula, powder, made with water, NFS (Enfamil Enfagrow Toddler Transitions Soy)",15_16
+11720328,11720323,"Infant formula, powder, made with water, NFS (Enfamil Enfagrow Toddler Transitions Soy)",15_16
+11720329,11720323,"Infant formula, powder, made with water, NFS (Enfamil Enfagrow Toddler Transitions Soy)",15_16
+11720440,11710480,"Infant formula, NS as to form (Similac Go and Grow)",15_16
+11720443,11710481,"Infant formula, powder, made with water, NFS (Similac Go and Grow)",15_16
+11720447,11710481,"Infant formula, powder, made with water, NFS (Similac Go and Grow)",15_16
+11720448,11710481,"Infant formula, powder, made with water, NFS (Similac Go and Grow)",15_16
+11720449,11710481,"Infant formula, powder, made with water, NFS (Similac Go and Grow)",15_16
+11720623,11720620,"Infant formula, NS as to form (Gerber Graduates Soy)",15_16
+11720627,11720620,"Infant formula, NS as to form (Gerber Graduates Soy)",15_16
+11720628,11720620,"Infant formula, NS as to form (Gerber Graduates Soy)",15_16
+11720629,11720620,"Infant formula, NS as to form (Gerber Graduates Soy)",15_16
+11740314,11740312,"Infant formula, liquid concentrate, made with water, NFS (Enfamil Nutramigen)",15_16
+11740315,11740312,"Infant formula, liquid concentrate, made with water, NFS (Enfamil Nutramigen)",15_16
+11740316,11740312,"Infant formula, liquid concentrate, made with water, NFS (Enfamil Nutramigen)",15_16
+11740317,11740313,"Infant formula, powder, made with water, NFS (Enfamil Nutramigen)",15_16
+11740318,11740313,"Infant formula, powder, made with water, NFS (Enfamil Nutramigen)",15_16
+11740319,11740313,"Infant formula, powder, made with water, NFS (Enfamil Nutramigen)",15_16
+11740327,11740323,"Infant formula, powder, made with water, NFS (PurAmino)",15_16
+11740328,11740323,"Infant formula, powder, made with water, NFS (PurAmino)",15_16
+11740329,11740323,"Infant formula, powder, made with water, NFS (PurAmino)",15_16
+11740407,11740403,"Infant formula, powder, made with water, NFS (Enfamil Pregestimil)",15_16
+11740408,11740403,"Infant formula, powder, made with water, NFS (Enfamil Pregestimil)",15_16
+11740409,11740403,"Infant formula, powder, made with water, NFS (Enfamil Pregestimil)",15_16
+11740510,11740511,"Infant formula, ready-to-feed, low iron (Enfamil Premature 20 Cal)",15_16
+11740520,11740521,"Infant formula, ready-to-feed, with iron (Enfamil Premature 20 Cal)",15_16
+11740540,11740511,"Infant formula, ready-to-feed, low iron (Enfamil Premature 20 Cal)",15_16
+11740541,11740511,"Infant formula, ready-to-feed, low iron (Enfamil Premature 20 Cal)",15_16
+11740550,11740521,"Infant formula, ready-to-feed, with iron (Enfamil Premature 20 Cal)",15_16
+11740551,11740521,"Infant formula, ready-to-feed, with iron (Enfamil Premature 20 Cal)",15_16
+12110300,12140000,"Cream, whipped",15_16
+12120105,12120110,"Cream, half and half, fat free",15_16
+12130200,12140000,"Cream, whipped",15_16
+12140100,12140000,"Cream, whipped",15_16
+12140105,12140000,"Cream, whipped",15_16
+12140110,12220270,"Whipped topping, fat free",15_16
+12210100,12210200,"Coffee creamer, liquid",15_16
+12210250,12210260,"Coffee creamer, liquid, fat free",15_16
+12210255,12210270,"Coffee creamer, liquid, fat free, flavored",15_16
+12210305,12210310,"Coffee creamer, liquid, sugar free, flavored",15_16
+12210410,12210430,"Coffee creamer, powder, fat free",15_16
+12210500,12210505,"Coffee creamer, powder, sugar free, flavored",15_16
+12220000,12220200,Whipped topping  ,15_16
+12220100,12220200,Whipped topping  ,15_16
+12220250,12220270,"Whipped topping, fat free",15_16
+12220300,12220200,Whipped topping  ,15_16
+14620120,14620130,Seafood dip,15_16
+21500200,21500310,"Ground beef patty, cooked",15_16
+21500300,21500310,"Ground beef patty, cooked",15_16
+21501000,21500100,"Ground beef, cooked",15_16
+21501200,21500100,"Ground beef, cooked",15_16
+21501300,21500100,"Ground beef, cooked",15_16
+21501350,21500100,"Ground beef, cooked",15_16
+21501360,21500100,"Ground beef, cooked",15_16
+21540100,21500310,"Ground beef patty, cooked",15_16
+21603000,25221215,"Pastrami, NFS",15_16
+24201010,24201020,"Turkey, light meat, skin not eaten",15_16
+24201050,24201070,"Turkey, light meat, breaded, baked or fried, skin eaten",15_16
+24201110,24201130,"Turkey, light meat, roasted, skin eaten",15_16
+24201210,24201230,"Turkey, dark meat, roasted, skin eaten",15_16
+24201310,24201330,"Turkey, light and dark meat, roasted, skin eaten",15_16
+24201350,24201370,"Turkey, light or dark meat, fried, coated, skin eaten",15_16
+24201400,24201420,"Turkey light or dark meat, stewed, skin eaten",15_16
+24201500,24201510,"Turkey, light or dark meat, smoked, skin eaten",15_16
+24202000,24202020,"Turkey, drumstick, cooked, skin eaten",15_16
+24202050,24202070,"Turkey, drumstick, roasted, skin eaten",15_16
+24202450,24202460,"Turkey, thigh, cooked, skin eaten",15_16
+24203000,24203020,"Turkey, wing, cooked, skin eaten",15_16
+24300100,24300110,"Duck, cooked, skin eaten",15_16
+24301000,24301010,"Duck, roasted, skin eaten",15_16
+24400000,24400010,"Cornish game hen, cooked, skin eaten",15_16
+24401000,24401010,"Cornish game hen, roasted, skin eaten",15_16
+25220010,25230110,"Luncheon meat, NFS",15_16
+25220390,25220425,"Bologna, made from any kind of meat, reduced fat",15_16
+25220400,25220410,"Bologna, NFS",15_16
+25220430,25220410,"Bologna, NFS",15_16
+25220440,25220410,"Bologna, NFS",15_16
+25220460,25220410,"Bologna, NFS",15_16
+25220470,25220435,"Bologna, made from any kind of meat, reduced sodium",15_16
+25220480,25220410,"Bologna, NFS",15_16
+25220500,25220425,"Bologna, made from any kind of meat, reduced fat",15_16
+25220510,25221500,"Salami, NFS",15_16
+25221510,25221500,"Salami, NFS",15_16
+25221520,25221500,"Salami, NFS",15_16
+25221530,25221500,"Salami, NFS",15_16
+25230230,25230210,"Ham, prepackaged or deli, luncheon meat",15_16
+25230235,25230220,"Ham, prepackaged or deli, luncheon meat, reduced sodium",15_16
+25230410,25230420,"Ham luncheon meat, loaf type",15_16
+25230430,25230420,"Ham luncheon meat, loaf type",15_16
+25230450,25230610,"Luncheon meat, loaf type",15_16
+25230790,25230800,"Turkey ham, prepackaged or deli, luncheon meat",15_16
+25230820,25221215,"Pastrami, NFS",15_16
+25230840,25221500,"Salami, NFS",15_16
+25231150,21416150,"Corned beef, canned, ready-to-eat",15_16
+25240210,25240000,"Meat spread or potted meat, NFS",15_16
+25240310,25240000,"Meat spread or potted meat, NFS",15_16
+25240320,25240000,"Meat spread or potted meat, NFS",15_16
+27111050,27162040,Spaghetti sauce with meat,15_16
+27130040,27162040,Spaghetti sauce with meat,15_16
+27162050,27162040,Spaghetti sauce with meat,15_16
+27351020,27451070,"Codfish salad, Puerto Rican style, Serenata",15_16
+27351050,27451070,"Codfish salad, Puerto Rican style, Serenata",15_16
+27461010,27118120,"Stewed seasoned ground beef, Puerto Rican style",15_16
+42104205,42104110,"Cashews, unsalted",15_16
+42109000,42109100,Macadamia nuts,15_16
+42109105,42109100,Macadamia nuts,15_16
+42116055,42116050,Walnuts,15_16
+42502000,42500100,Trail mix with nuts,15_16
+43101000,43101050,"Pumpkin seeds, NFS",15_16
+43102110,43102000,"Sunflower seeds, plain, unsalted",15_16
+43103050,43103000,Sesame seeds,15_16
+43103100,83112990,Sesame dressing,15_16
+43103200,43103300,Tahini,15_16
+53710804,53710802,Cereal or granola bar (Kashi Crunchy),15_16
+53710806,53710802,Cereal or granola bar (Kashi Crunchy),15_16
+54102110,54102100,"Graham crackers, reduced fat",15_16
+54206010,54318500,Rice cake,15_16
+54305000,54305010,"Crackers, crispbread",15_16
+54319010,54318500,Rice cake,15_16
+54322000,54305010,"Crackers, crispbread",15_16
+54401010,54401011,Corn nuts,15_16
+54401120,54401121,"Tortilla chips, reduced fat, plain",15_16
+54401150,54401121,"Tortilla chips, reduced fat, plain",15_16
+54401210,54401065,"Cheese flavored corn snacks, reduced fat",15_16
+54420100,54402200,Snack mix,15_16
+54420200,54402200,Snack mix,15_16
+56101000,56130000,"Pasta, cooked",15_16
+56101010,56130000,"Pasta, cooked",15_16
+56101030,56130000,"Pasta, cooked",15_16
+56102000,56132990,"Pasta, whole grain, cooked",15_16
+56102010,56132990,"Pasta, whole grain, cooked",15_16
+56102020,56132990,"Pasta, whole grain, cooked",15_16
+56103000,56104000,"Pasta, vegetable, cooked",15_16
+56103010,56104000,"Pasta, vegetable, cooked",15_16
+56103020,56104000,"Pasta, vegetable, cooked",15_16
+56104010,56104000,"Pasta, vegetable, cooked",15_16
+56104020,56104000,"Pasta, vegetable, cooked",15_16
+56112010,56112000,"Noodles, cooked",15_16
+56112030,56112000,"Noodles, cooked",15_16
+56113010,56113000,"Noodles, whole grain, cooked",15_16
+56114000,56113990,"Noodles, vegetable, cooked",15_16
+56114020,56113990,"Noodles, vegetable, cooked",15_16
+56117000,56116990,"Long rice noodles, made from mung beans, cooked",15_16
+56117010,56116990,"Long rice noodles, made from mung beans, cooked",15_16
+56117100,56117090,"Rice noodles, cooked",15_16
+56117110,56117090,"Rice noodles, cooked",15_16
+56130010,56130000,"Pasta, cooked",15_16
+56131000,56130000,"Pasta, cooked",15_16
+56133000,56132990,"Pasta, whole grain, cooked",15_16
+56133010,56132990,"Pasta, whole grain, cooked",15_16
+56207150,56207160,"Couscous, plain, cooked",15_16
+56207180,56207160,"Couscous, plain, cooked",15_16
+56207350,56207370,"Wheat cereal, chocolate flavored, cooked",15_16
+56207360,56207370,"Wheat cereal, chocolate flavored, cooked",15_16
+56207365,56207370,"Wheat cereal, chocolate flavored, cooked",15_16
+56208530,56208500,"Oat bran cereal, cooked, fat not added in cooking",15_16
+56208540,56208510,"Oat bran cereal, cooked, fat added in cooking",15_16
+56208550,56208520,"Oat bran cereal, cooked, NS as to fat added in cooking",15_16
+57000000,57100100,"Cereal, ready-to-eat, NFS",15_16
+57000050,57301500,Cereal (Kashi 7 Whole Grain Puffs),15_16
+57103020,57103000,Cereal (Post Alpha-Bits),15_16
+57124000,57336000,Cereal (General Mills Chex Rice),15_16
+57214100,57214000,Cereal (Kellogg's Frosted Mini-Wheats),15_16
+57239000,57238000,Cereal (Post Honeycomb),15_16
+57308150,57308190,"Cereal, muesli ",15_16
+57319000,57320500,"Cereal (Quaker Granola with Oats, Honey, and Raisins)",15_16
+57321500,57320500,"Cereal (Quaker Granola with Oats, Honey, and Raisins)",15_16
+57321905,57321900,Cereal (Nature's Path Organic Flax Plus),15_16
+57346500,57327450,Cereal (Quaker Toasted Oat Bran),15_16
+58106240,58106250,"Pizza, extra cheese, thin crust",15_16
+58106255,58106250,"Pizza, extra cheese, thin crust",15_16
+58106310,58106325,"Pizza, cheese, with vegetables, from restaurant or fast food, medium crust",15_16
+58106340,58106347,"Pizza with cheese and extra vegetables, medium crust",15_16
+58106357,58106359,"Pizza, cheese, with fruit, medium crust",15_16
+58106640,58106655,"Pizza with extra meat, medium crust",15_16
+58106710,58106725,"Pizza with meat and vegetables, from restaurant or fast food, medium crust",15_16
+58106735,58106738,"Pizza with extra meat and extra vegetables, medium crust",15_16
+58106740,58106755,"Pizza with meat and fruit, medium crust",15_16
+71101150,71410000,Potato skins without topping,15_16
+71201080,71201060,"Potato chips, fat free",15_16
+71201090,71201060,"Potato chips, fat free",15_16
+71401035,71401000,"Potato, french fries, NS as to fresh or frozen",15_16
+71501015,71501010,"Potato, mashed, from fresh, made with milk",15_16
+71501020,71501010,"Potato, mashed, from fresh, made with milk",15_16
+71501025,71501011,"Potato, mashed, from fresh, made with milk, with cheese",15_16
+71501030,71501013,"Potato, mashed, from fresh, NFS",15_16
+71501050,71501011,"Potato, mashed, from fresh, made with milk, with cheese",15_16
+71501055,71501010,"Potato, mashed, from fresh, made with milk",15_16
+71501080,71501013,"Potato, mashed, from fresh, NFS",15_16
+71501090,71501040,"Potato, mashed, from dry mix, made with milk",15_16
+71501200,71501040,"Potato, mashed, from dry mix, made with milk",15_16
+71501300,71501035,"Potato, mashed, from dry mix, NFS",15_16
+71501310,71501013,"Potato, mashed, from fresh, NFS",15_16
+71507040,71507035,"Potato, baked, peel not eaten, with vegetables",15_16
+71507050,71507025,"Potato, baked, peel not eaten, with meat",15_16
+71508040,71508035,"Potato, baked, peel eaten, with vegetables",15_16
+71508050,71508025,"Potato, baked, peel eaten, with meat",15_16
+71508060,71508025,"Potato, baked, peel eaten, with meat",15_16
+71508070,71507025,"Potato, baked, peel not eaten, with meat",15_16
+71703000,71703990,Stewed potatoes,15_16
+71703040,71704000,Stewed potatoes with tomatoes ,15_16
+73410110,73410330,"Sweet potato fries, from fresh, fried",15_16
+74404030,27162040,Spaghetti sauce with meat,15_16
+81103041,81104011,"Margarine like spread, reduced calorie, about 40% fat, made with yogurt, tub, salted",15_16
+91104200,91101000,"Sugar, NFS",15_16
+91106000,91106010,Sugar substitute and sugar blend,15_16
+91200020,91200040,"Sugar substitute, saccharin, powder",15_16
+94220100,94100100,"Water, bottled, unsweetened",15_16
+95341000,95342000,"Fruit juice, acai blend",15_16
+12350110,14620115,Spinach and artichoke dip,15_16
+27520130,27540285,"Chicken, bacon, and tomato club sandwich, with lettuce and spread",15_16
+58107230,58107207,"White pizza, cheese, thick crust",15_16
+91109000,91302020,Agave liquid sweetener,15_16
