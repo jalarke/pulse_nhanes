@@ -1,0 +1,54 @@
+,ingred_clean,dfg_clean,ingred_desc,simple_name,ingred_code,sample_id,Similarity
+32,without canned milk a added d vitamin evaporated,milk whole,"Milk, canned, evaporated, with added vitamin D and without added vitamin A",Whole milk,1096,239,0.294
+33,nonfat canned milk a added d vitamin evaporated,milk lowfat chocolate,"Milk, canned, evaporated, nonfat, with added vitamin A and vitamin D",Lowfat chocolate milk,1097,238,0.266
+41,egg whole fresh raw duck,egg whole brown,"Egg, duck, whole, fresh, raw",Whole brown egg,1138,882,0.48
+42,egg whole fresh goose raw,egg whole brown,"Egg, goose, whole, fresh, raw",Whole brown egg,1139,882,0.459
+45,cheese hard goat type,cheese sharp chedder,"Cheese, goat, hard type",Sharp Chedder Cheese,1156,764,0.46
+54,leche dulce de,cheese sharp chedder,Dulce de Leche,Sharp Chedder Cheese,1225,764,0.234
+55,white queso dry cheese seco,cheese cream,"Cheese, dry white, queso seco",cream cheese,1227,906,0.421
+87,table salt,table sugar,"Salt, table",Table sugar,2047,773,0.574
+92,fortified dry cereal oatmeal babyfood,oat whole grain cereal,"Babyfood, cereal, oatmeal, dry fortified",Whole grain oat cereal,3189,257,0.367
+93,fortified rice dry cereal babyfood,rice gerber cereal,"Babyfood, cereal, Rice, dry, fortified",Rice cereal (Gerber),3194,432,0.346
+94,vegetable oil,vegetable chip,"Vegetable oil, NFS",Vegetable chips,4321,548,0.845
+103,pepper tabasco serve ready sauce,bell whole red pepper steamed seed,"Sauce, ready-to-serve, pepper, TABASCO",Steamed whole red bell pepper w/o seed,6169,143,0.376
+105,of cream dry cereal wheat instant,wheat farina of cerealcream,"Cereals, CREAM OF WHEAT, instant, dry",Wheat farina cereal/cream of wheat,8106,427,0.64
+115,nectar without acid canned ascorbic apricot added,apricot dried,"Apricot nectar, canned, without added ascorbic acid",Dried apricots,9036,525,0.466
+118,dehydrated powder banana,chip banana,"Bananas, dehydrated, or banana powder",Banana chips,9041,527,0.501
+126,breadfruit raw,bread white,"Breadfruit, raw",White bread,9059,840,0.421
+127,carambola starfruit raw,red grapefruit deep,"Carambola, (starfruit), raw",Deep red grapefruit,9060,90,0.258
+135,fig canned liquid water pack solid,black sw bean canned,"Figs, canned, water pack, solids and liquids",Canned black beans (S&W),9090,268,0.342
+154,litchi dried,coconut dried chip,"Litchis, dried",Dried coconut chips,9165,534,0.387
+158,melon raw casaba,melon cantaloupe,"Melons, casaba, raw",Cantaloupe melon,9183,93,0.394
+160,raw mulberry,cranberry,"Mulberries, raw",Cranberry,9190,772,0.398
+175,nectar without acid canned ascorbic added peach,yellow whole nectarine,"Peach nectar, canned, without added ascorbic acid",Whole yellow nectarine,9251,60,0.335
+182,sweetened chunk pineapple frozen,whole pea r sweet frozen pac green flav,"Pineapple, frozen, chunks, sweetened",Frozen Whole Sweet Green Peas (Flav R Pac),9272,712,0.506
+184,plantain raw,10 steamed plantain banana,"Plantains, raw",Plantain banana (steamed 10 in),9277,46,0.575
+187,plum canned liquid water purple pack solid,red whole plum,"Plums, canned, purple, water pack, solids and liquids",Whole red plum,9281,53,0.415
+194,raspberry canned liquid red heavy pack syrup solid,raspberry whole,"Raspberries, canned, red, heavy syrup pack, solids and liquids",Whole raspberry,9304,81,0.528
+197,canned liquid heavy pack syrup strawberry solid,whole strawberry,"Strawberries, canned, heavy syrup pack, solids and liquids",Whole strawberry,9317,83,0.528
+203,c applesauce unsweetened added vitamin,prune unsweetened pitted,"Applesauce, unsweetened, with added vitamin C",Unsweetened pitted prunes,9401,842,0.481
+206,c blend 100 cranberry juice calcium bottled added vitamin,cranberry,"Cranberry juice blend, 100% juice, bottled, with added vitamin C and calcium",Cranberry,9522,772,0.419
+259,without cooked cress salt drained boiled garden,oat cooked bran,"Cress, garden, cooked, boiled, drained, without salt",cooked oat bran,11204,902,0.306
+271,without cooked salt kohlrabi drained boiled,oat cooked bran,"Kohlrabi, cooked, boiled, drained, without salt",cooked oat bran,11242,902,0.297
+346,dried sun tomato,paste hunt tomato,"Tomatoes, sun-dried",Hunt's Tomato paste,11955,802,0.525
+353,dried chia seed,coconut dried chip,"Seeds, chia seeds, dried",Dried coconut chips,12006,534,0.423
+365,liquid water from nut coconut,coconut milk,"Nuts, coconut water (liquid from coconuts)",coconut milk,12119,898,0.594
+384,isolate whey powder beverage protein,powder protein,"Beverages, Whey protein powder isolate",Protein powder,14058,778,0.692
+388,coffee prepared brewed water tap,coffee brewed,"Coffee, brewed, prepared with tap water",brewed coffee,14209,903,0.747
+389,amber hard beverage cider,rice gerber cereal,"Beverages, Amber, hard cider",Rice cereal (Gerber),14250,432,0.27
+390,rose wine beverage alcoholic,frosted flake cereal organic,"Alcoholic beverages, Wine, rose",Organic Frosted Flakes Cereals,14253,679,0.218
+398,european canned anchovy fish oil drained solid,kidney bean canned,"Fish, anchovy, european, canned in oil, drained solids",Canned Kidney beans,15002,271,0.341
+407,fish smoked haddock,plant fish based fillet,"Fish, haddock, smoked",plant based fish fillet,15035,1094,0.191
+410,atlantic cooked dry fish heat herring,plant fish based fillet,"Fish, herring, Atlantic, cooked, dry heat",plant based fish fillet,15040,1094,0.32
+417,previously pollock alaska have been frozen fish may raw,whole pea r sweet frozen pac green flav,"Fish, pollock, Alaska, raw (may have been previously frozen)",Frozen Whole Sweet Green Peas (Flav R Pac),15066,712,0.377
+480,soy tamari made from sauce,soy sauce,Soy sauce made from soy (tamari),Soy sauce,16124,761,0.576
+483,fat veal cooked separable lean roasted loin,seaweed roasted,"Veal, loin, separable lean and fat, cooked, roasted",Roasted seaweed,17106,538,0.391
+493,meat by product veal cooked thymus variety braised,oat cooked bran,"Veal, variety meats and by-products, thymus, cooked, braised",cooked oat bran,17219,902,0.316
+504,unsweetened gelatin powder dry,prune unsweetened pitted,"Gelatins, dry powder, unsweetened",Unsweetened pitted prunes,19177,842,0.492
+510,syrup sorghum,maple syrup,"Syrups, sorghum",Maple syrup,19355,759,0.447
+526,wheat whole flour grain,wheat whole flour,"Wheat flour, whole-grain",Whole wheat flour,20080,835,0.908
+536,cabbage salted mustard,cabbage purple,"Cabbage, mustard, salted",Purple cabbage,43144,886,0.511
+539,cooked edible pheasant total,oat cooked bran,"Pheasant, cooked, total edible",cooked oat bran,43283,902,0.273
+544,spread yeast extract,spread nutella,Yeast extract spread,Nutella spread,43406,219,0.35
+551,cheese oaxaca solid,cheese cream,"Cheese, oaxaca, solid",cream cheese,100299,906,0.37
+552,cheese solid cotija,cheese cottage,"Cheese, cotija, solid",Cottage cheese,100301,244,0.403

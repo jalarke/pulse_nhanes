@@ -1,0 +1,38 @@
+feature,importance
+BMI,0.134580295
+Age,0.078274166
+education_less than high school graduate,0.009823321
+family_pir,0.008000865
+ever_smoker_yes,0.007017951
+education_high school graduate or equivalent,0.004511196
+Free_Raffinose,0.004358426
+Mono_Rhamnose,0.004182045
+Xylan,0.004164513
+Free_Maltohexaose,0.004096442
+Free_Stachyose,0.003750837
+ethnicity_Non-Hispanic_White,0.003417814
+Mono_GalA,0.003084249
+Mono_Mannose,0.003046984
+ethnicity_Other_Multi-Racial,0.003037017
+Mono_Xylose,0.002818725
+Free_Kestose,0.002783672
+Free_Verbascose,0.00277295
+Mono_Ribose,0.002723201
+Chitin,0.002721948
+Sex_Male,0.002541753
+Galactan,0.002207382
+Mono_Fucose,0.002177786
+Free_Maltotetraose,0.002088852
+Mono_Arabinose,0.002061321
+Galactomannan,0.002036497
+"Fiber, total dietary",0.001991878
+Mannan,0.00179952
+Free_Maltopentaose,0.001783715
+Beta-Glucan,0.001754282
+Xyloglucan,0.001742001
+Mono_Galactose,0.001731897
+Cellulose,0.00170987
+Mono_Fructose,0.001659107
+ethnicity_Non-Hispanic_Black,0.001114729
+education_some college,0.001096928
+ethnicity_Other_Hispanic,0.000257267
