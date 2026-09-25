@@ -10,8 +10,8 @@ library(survey)
 options(survey.lonely.psu='adjust')
 
 # Load data
-cov <- data.table::fread('/Users/jules.larke/work/project/pulse_update_copy/data/01/all/wweia_cov_wts.csv')
-pulse_dga = read.csv('/Users/jules.larke/work/project/pulse_update_copy/data/01/all/all_nhanes_pulse_dga.csv')
+cov <- data.table::fread('../../data/01/all/wweia_cov_wts.csv')
+pulse_dga = read.csv('../../data/01/all/all_nhanes_pulse_dga.csv')
 
 demo = left_join(cov, pulse_dga, by = 'SEQN')
 
