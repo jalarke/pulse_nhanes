@@ -1,7 +1,7 @@
 ## Title: 03_plot_pulse_intake_fiber_HEI
 ## Author: Jules Larke
 ## Date: 080124
-## Purpose: calculate pulse consumption across participants, quantify fiber intake in pulse and non-pulse foods and calculate HEI scores
+## Purpose: calculate pulse consumption across participants and quantify glycan intake in pulse and non-pulse foods
 library(tidyverse)
 library(dplyr)
 library(ggplot2)
@@ -9,12 +9,13 @@ library(cowplot)
 library(stringr)
 library(survey)
 
+getwd()
 # load datasets
 pulse_intake = read.csv('../../data/01/all/pulse_consumer_population_mean_intake.csv')
 pulse_fiber = read.csv('../../data/01/all/pulse_fiber_dfg_source_means.csv')
 
 # create directory to save plots
-dir.create('../../plot/figure_1/')
+dir.create('../../plot/figure_1/', recursive = TRUE)
 
 # 1. plot pulse intake
 
@@ -147,9 +148,9 @@ consumer_plot
 
 # survey-weighted t-test comparing fiber intake by DGA 2020 pulse consumer/non-consumer status
 # group by data to compare intake of fiber using survey weighted t-test
-fiber_dga = read.csv('../../data/01/all/fiber_intake_dga.csv')
+fiber_dga = read.csv('/Users/jules.larke/work/project/pulse_update_copy/data/01/all/fiber_intake_dga.csv')
 
-svy_data = data.table::fread('../../data/01/all/wweia_cov_wts.csv')
+svy_data = data.table::fread('/Users/jules.larke/work/project/pulse_update_copy/data/01/all/wweia_cov_wts.csv')
 svy_data = svy_data %>% select(SEQN, SDMVPSU, SDMVSTRA, diet_wts_combined)
 
 fiber_svy = merge(fiber_dga, svy_data, by = 'SEQN')
@@ -251,27 +252,38 @@ fiber_dga_plot <- ggplot(fiber_plot, aes(x = met_dga, y = population_mean, fill 
 fiber_dga_plot
 
 
-## Calculate HEI scores for all NHANES participants
 
+
+
+
+
+## Title: 01_calculate_hei
+## Author: Jules Larke
+## Date: 072224
+## Purpose: Calculate HEI scores for all NHANES participants
+
+library(dplyr)
+library(ggplot2)
 library(dietaryindex)
+library(survey)
 options(survey.lonely.psu='adjust')
 
 # NHANES mets dataset
-nhanes <- data.table::fread('../../data/01/all/all_nhanes_hei_v2.txt', sep = '\t', select = c("SEQN", "ingred_code", "ingred_desc", "Ingred_consumed_g", "Energy", "Fatty acids, total monounsaturated",	"Fatty acids, total polyunsaturated",	"Fatty acids, total saturated", "Sodium", "Age", "SDMVPSU",	"SDMVSTRA",	"diet_wts_combined"))
+nhanes <- data.table::fread('/Users/jules.larke/work/project/pulse_update_copy/data/01/all/all_nhanes_hei_v2.txt', sep = '\t', select = c("SEQN", "ingred_code", "ingred_desc", "Ingred_consumed_g", "Energy", "Fatty acids, total monounsaturated",	"Fatty acids, total polyunsaturated",	"Fatty acids, total saturated", "Sodium", "Age", "SDMVPSU",	"SDMVSTRA",	"diet_wts_combined"))
 nhanes_design <- nhanes %>% distinct(SEQN, .keep_all = TRUE) %>% select("SEQN", "SDMVPSU",	"SDMVSTRA",	"diet_wts_combined") # survey design elements
 codes <- nhanes %>% distinct(ingred_code, .keep_all = TRUE) # get unique codes for matching with Food Patterns Ingredient Database (FPID) for calculating HEI-2020 score
 
 # NHANES pulse intake data
-pulse_dga <- read.csv('../../data/01/all/all_nhanes_pulse_dga.csv')
+pulse_dga <- read.csv('/Users/jules.larke/work/project/pulse_update_copy/data/01/all/all_nhanes_pulse_dga.csv')
 
 # FPID databases for each FNDDS cycle
-fpid_2006 <- read.csv('../../data/02/fpid_0506.csv')
-fpid_2008 <- read.csv('../../data/02/fpid_0708.csv')
-fpid_2010 <- read.csv('../../data/02/fpid_0910.csv')
-fpid_2012 <- read.csv('../../data/02/fpid_1112.csv')
-fpid_2014 <- read.csv('../../data/02/fpid_1314.csv')
-fpid_2016 <- read.csv('../../data/02/fpid_1516.csv')
-fpid_2018 <- read.csv('../../data/02/fpid_1718.csv')
+fpid_2006 <- read.csv('/Users/jules.larke/work/project/pulse_update_copy/data/02/fpid_0506.csv')
+fpid_2008 <- read.csv('/Users/jules.larke/work/project/pulse_update_copy/data/02/fpid_0708.csv')
+fpid_2010 <- read.csv('/Users/jules.larke/work/project/pulse_update_copy/data/02/fpid_0910.csv')
+fpid_2012 <- read.csv('/Users/jules.larke/work/project/pulse_update_copy/data/02/fpid_1112.csv')
+fpid_2014 <- read.csv('/Users/jules.larke/work/project/pulse_update_copy/data/02/fpid_1314.csv')
+fpid_2016 <- read.csv('/Users/jules.larke/work/project/pulse_update_copy/data/02/fpid_1516.csv')
+fpid_2018 <- read.csv('/Users/jules.larke/work/project/pulse_update_copy/data/02/fpid_1718.csv')
 
 # select the HEI components used to calculate the HEI-2020 scores (total calories are from diet recalls)
 fpid_2006 <- fpid_2006 %>% select(CODE, DESCRIPTION, `F_TOTAL..cup.eq..`, `F_CITMLB..cup.eq..`, `F_OTHER..cup.eq..`, `V_TOTAL..cup.eq..`, `V_LEGUMES..cup.eq..`, `V_DRKGR..cup.eq..`, `PF_MPS_TOTAL..oz..eq..`, `PF_SOY..oz..eq..`, `PF_EGGS..oz..eq..`, `PF_NUTSDS..oz..eq..`, `PF_LEGUMES..oz..eq..`, `PF_SEAFD_HI..oz..eq..`, `PF_SEAFD_LOW..oz..eq..`, `G_WHOLE..oz..eq..`, `D_TOTAL..cup.eq..`, `OILS..grams.`, `SOLID_FATS..grams.`, `G_REFINED..oz..eq..`, `ADD_SUGARS..tsp..eq..`)

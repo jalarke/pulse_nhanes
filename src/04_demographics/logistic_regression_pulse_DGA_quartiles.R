@@ -92,7 +92,7 @@ svychisq(~education+met_dga, svy_all, statistic="adjWald")
 # load clinical endpoints to calculate prevalence / biomarker in high/low met_dgas
 getwd()
 
-setwd("/Users/jules.larke/work/project/pulse_update_copy/src/04_demographics/")
+#setwd("/Users/jules.larke/work/project/pulse_update_copy/src/04_demographics/")
 crp_target = read.csv('../../data/01/crp/crp_target.tsv', sep = '\t')
 
 crp_target_demo = left_join(crp_target, demo, by = 'SEQN')
@@ -132,12 +132,13 @@ mets_model_no_cov <- svyglm(mets ~ met_dga,
 summary(mets_model_no_cov)
 exp(cbind(OR = coef(mets_model_no_cov), confint(mets_model_no_cov)))
 
+
 # add covariates to the model 
 # test using logistic regression 
 # Fit logistic regression model
-mets_model <- svyglm(mets ~ met_dga + Sex + Age + ever_smoker + ethnicity + education + family_pir, 
-                design = svy_mets, 
-                family = quasibinomial())
+mets_model <- svyglm(mets ~ met_dga + Sex + BMI + Age + ever_smoker + ethnicity + education + family_pir, 
+                     design = svy_mets, 
+                     family = quasibinomial())
 
 
 # Test the association of met_dga adjusting for covariates
@@ -146,18 +147,6 @@ regTermTest(mets_model, "met_dga", method = "Wald")
 # View adjusted odds ratios
 summary(mets_model)
 exp(cbind(OR = coef(mets_model), confint(mets_model)))
-
-
-# Test the association of cup_eq with mets, adjusting for covariates
-# Fit logistic regression model with continuous pulse intake
-mets_model_continuous <- svyglm(mets ~ cup_eq + Sex + Age + ever_smoker + ethnicity + education + family_pir, 
-                                design = svy_mets, 
-                                family = quasibinomial())
-
-# View summary with coefficients, SEs, and p-values
-summary(mets_model_continuous)
-
-exp(cbind(OR = coef(mets_model_continuous), confint(mets_model_continuous)))
 
 
 ##### test for continuous / dose-response relationship between pulse intake and metabolic outcomes
@@ -186,25 +175,13 @@ svy_mets <- update(svy_mets, cup_eq_cat = cut(cup_eq,
                                               labels = c("None", "Low", "Medium", "High"),
                                               include.lowest = TRUE))
 
-mets_model_cat <- svyglm(mets ~ cup_eq_cat + Sex + Age + ever_smoker + ethnicity + education + family_pir, 
+mets_model_cat <- svyglm(mets ~ cup_eq_cat + Sex + Age + BMI + ever_smoker + ethnicity + education + family_pir, 
                          design = svy_mets, 
                          family = quasibinomial())
 summary(mets_model_cat)
 exp(cbind(OR = coef(mets_model_cat), confint(mets_model_cat)))
 
 svytable(~cup_eq_cat, svy_mets)
-
-
-## compare with no covariate adjustments
-mets_model_cat_no_cov <- svyglm(mets ~ cup_eq_cat, 
-                                design = svy_mets, 
-                                family = quasibinomial())
-
-summary(mets_model_cat_no_cov)
-exp(cbind(OR = coef(mets_model_cat_no_cov), confint(mets_model_cat_no_cov)))
-
-
-
 
 # CRP
 svy_crp <- svydesign(data=crp_design, id=~SDMVPSU, strata=~SDMVSTRA, weights=~diet_wts_combined, nest=TRUE)
@@ -246,7 +223,7 @@ svy_crp <- update(svy_crp, cup_eq_cat = cut(cup_eq,
                                             labels = c("None", "Low", "Medium", "High"),
                                             include.lowest = TRUE))
 
-crp_model_cat <- svyglm(crp_class ~ cup_eq_cat + Sex + Age + ever_smoker + ethnicity + education + family_pir, 
+crp_model_cat <- svyglm(crp_class ~ cup_eq_cat + Sex + Age + BMI + ever_smoker + ethnicity + education + family_pir, 
                         design = svy_crp, 
                         family = quasibinomial())
 
@@ -289,7 +266,7 @@ svy_ir <- update(svy_ir, cup_eq_cat = cut(cup_eq,
                                               labels = c("None", "Low", "Medium", "High"),
                                               include.lowest = TRUE))
 
-ir_model_cat <- svyglm(ir ~ cup_eq_cat + Sex + Age + ever_smoker + ethnicity + education + family_pir, 
+ir_model_cat <- svyglm(ir ~ cup_eq_cat + Sex + Age + BMI + ever_smoker + ethnicity + education + family_pir, 
                          design = svy_ir, 
                          family = quasibinomial())
 summary(ir_model_cat)

@@ -5,6 +5,11 @@
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
+from pathlib import Path
+
+# create output dir
+output_dir = Path('../../plot/figure_s2')
+output_dir.mkdir(exist_ok=True, parents=True)
 
 # create list of the pulse enriched glycans
 pulse_glycans = ['Free_Stachyose',

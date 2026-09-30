@@ -24,19 +24,8 @@ np.random.seed(42)
 
 # ============= DATA LOADING =============
 # Load your data with SEQN as index
-X = pd.read_csv('../../data/ir/ir_dfg2_intake.tsv', sep='\t', index_col='SEQN')
-y = pd.read_csv('../../data/ir/ir_target.tsv', sep='\t', index_col='SEQN')['ir']
-
-# Removing linkages from the model features
-X = X.drop(columns=['t-Glucose', '4-Glucose', '6-Glucose', '2-Glucose',
-       '4,6-Glucose', '3,4-Glucose', '2,4-Glucose', '3,4,6-Glucose',
-       't-Galactose', '6-Galactose', '4-Galactose', '2-Galactose',
-       '4,6-Galactose', '3,6-Galactose', '3,4-Galactose', 't-p-Xylose',
-       '4-p-Xylose', '3-Xylose ', '2-Xylose', '2,4-p-Xylose', 't-f-Arabinose',
-       't-p-Arabinose', '5-f-Arabinose', '3-Arabinose', '2-f-Arabinose',
-       '2,3-f-Arabinose', 't-Fucose', 't-Rhamnose', '4-Rhamnose ',
-       '2-Rhamnose', '2,4-Rhamnose', 't-Mannose', '4-Mannose', '3-Mannose',
-       '2-Mannose', '4,6-Mannose', '2,X-Mannose', '3,4,6-Mannose'])
+X = pd.read_csv('../../data/01/ir/ir_dfg2_intake.tsv', sep='\t', index_col='SEQN')
+y = pd.read_csv('../../data/01/ir/ir_target.tsv', sep='\t', index_col='SEQN')['ir']
 
 # Removing the digestible sugars, the focus is to determine what non-digestible carbohydrates are related to metabolic health
 X = X.drop(columns=['Starch', 'Free_Fructose', 'Free_Glucose', 'Free_Sucrose',

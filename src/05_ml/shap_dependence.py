@@ -12,7 +12,7 @@ from statsmodels.nonparametric.smoothers_lowess import lowess
 from pathlib import Path
 
 # Set up output directory for plots
-output_dir = Path('../../output/figure_5')
+output_dir = Path('../../plot/figure_5')
 output_dir.mkdir(exist_ok=True, parents=True)
 
 # get SHAP values for each dataset
